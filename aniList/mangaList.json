@@ -1,0 +1,2578 @@
+{
+  "data": {
+    "MediaListCollection": {
+      "lists": [
+        {
+          "name": "Reading",
+          "isCustomList": false,
+          "isSplitCompletedList": false,
+          "entries": [
+            {
+              "mediaId": 118584,
+              "status": "CURRENT",
+              "progress": 159,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 11,
+                "day": 29
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1638162939,
+              "createdAt": 1638162939,
+              "media": {
+                "idMal": null,
+                "title": {
+                  "romaji": "Menhera Shoujo Kurumi-chan.",
+                  "native": "メンヘラ少女くるみちゃん。",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 115349,
+              "status": "CURRENT",
+              "progress": 13,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 3,
+                "day": 29
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1648723308,
+              "createdAt": 1648564934,
+              "media": {
+                "idMal": null,
+                "title": {
+                  "romaji": "Wo de Meimao Shi Tiansheng",
+                  "native": "我的美貌是天生",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 107100,
+              "status": "CURRENT",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 123365,
+                "title": {
+                  "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
+                  "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
+                  "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 117195,
+              "status": "CURRENT",
+              "progress": 10,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 126146,
+                "title": {
+                  "romaji": "[Oshi no Ko]",
+                  "native": "【推しの子】",
+                  "english": "[Oshi no Ko]"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30002,
+              "status": "CURRENT",
+              "progress": 31,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 4,
+                "day": 4
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 2,
+                "title": {
+                  "romaji": "Berserk",
+                  "native": "ベルセルク",
+                  "english": "Berserk"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 86123,
+              "status": "CURRENT",
+              "progress": 0,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 3,
+                "day": 31
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 86337,
+                "title": {
+                  "romaji": "Black Clover",
+                  "native": "ブラッククローバー",
+                  "english": "Black Clover"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30012,
+              "status": "CURRENT",
+              "progress": 301,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 6,
+                "day": 30
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 12,
+                "title": {
+                  "romaji": "BLEACH",
+                  "native": "BLEACH",
+                  "english": "Bleach"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 69325,
+              "status": "CURRENT",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 14
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 39325,
+                "title": {
+                  "romaji": "Boku dake ga Inai Machi",
+                  "native": "僕だけがいない街",
+                  "english": "Erased"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 85486,
+              "status": "CURRENT",
+              "progress": 362,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 8,
+                "day": 26
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 75989,
+                "title": {
+                  "romaji": "Boku no Hero Academia",
+                  "native": "僕のヒーローアカデミア",
+                  "english": "My Hero Academia"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 87178,
+              "status": "CURRENT",
+              "progress": 70,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 6,
+                "day": 16
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 95210,
+                "title": {
+                  "romaji": "BORUTO: NARUTO NEXT GENERATIONS",
+                  "native": "BORUTO-ボルト- -NARUTO NEXT GENERATIONS-",
+                  "english": "Boruto: Naruto Next Generations"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 105778,
+              "status": "CURRENT",
+              "progress": 10,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 116778,
+                "title": {
+                  "romaji": "Chainsaw Man",
+                  "native": "チェンソーマン",
+                  "english": "Chainsaw Man"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 97830,
+              "status": "CURRENT",
+              "progress": 64,
+              "progressVolumes": 7,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 102343,
+                "title": {
+                  "romaji": "Fumetsu no Anata e",
+                  "native": "不滅のあなたへ",
+                  "english": "To Your Eternity"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 87395,
+              "status": "CURRENT",
+              "progress": 4,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 5,
+                "day": 23
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 70345,
+                "title": {
+                  "romaji": "Grand Blue",
+                  "native": "ぐらんぶる",
+                  "english": "Grand Blue Dreaming"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 80133,
+              "status": "CURRENT",
+              "progress": 7,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 3,
+                "day": 13
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 50133,
+                "title": {
+                  "romaji": "Himouto! Umaru-chan",
+                  "native": "干物妹（ひもうと）！うまるちゃん",
+                  "english": "Himouto! Umaru-chan"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 31706,
+              "status": "CURRENT",
+              "progress": 55,
+              "progressVolumes": 14,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 12,
+                "day": 23
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 1706,
+                "title": {
+                  "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run",
+                  "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 101517,
+              "status": "CURRENT",
+              "progress": 193,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 8,
+                "day": 18
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 113138,
+                "title": {
+                  "romaji": "Jujutsu Kaisen",
+                  "native": "呪術廻戦",
+                  "english": "Jujutsu Kaisen"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 106758,
+              "status": "CURRENT",
+              "progress": 2,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 6,
+                "day": 1
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 119022,
+                "title": {
+                  "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+                  "native": "陰の実力者になりたくて！",
+                  "english": "The Eminence in Shadow"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 99549,
+              "status": "CURRENT",
+              "progress": 108,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 108187,
+                "title": {
+                  "romaji": "Karakai Jouzu no (Moto) Takagi-san",
+                  "native": "からかい上手の（元）高木さん",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 85533,
+              "status": "CURRENT",
+              "progress": 162,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 2,
+                "day": 26
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 78537,
+                "title": {
+                  "romaji": "Karakai Jouzu no Takagi-san",
+                  "native": "からかい上手の高木さん",
+                  "english": "Teasing Master Takagi-san"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 144155,
+              "status": "CURRENT",
+              "progress": 14,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 3,
+                "day": 29
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 148626,
+                "title": {
+                  "romaji": "Kawaii Kanojo-chan",
+                  "native": "かわいい彼女ちゃん",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 87216,
+              "status": "CURRENT",
+              "progress": 115,
+              "progressVolumes": 13,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 96792,
+                "title": {
+                  "romaji": "Kimetsu no Yaiba",
+                  "native": "鬼滅の刃",
+                  "english": "Demon Slayer: Kimetsu no Yaiba"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 97852,
+              "status": "CURRENT",
+              "progress": 34,
+              "progressVolumes": 2,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 2,
+                "day": 3
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 99007,
+                "title": {
+                  "romaji": "Komi-san wa, Komyushou desu.",
+                  "native": "古見さんは、コミュ症です。",
+                  "english": "Komi Can't Communicate"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 97701,
+              "status": "CURRENT",
+              "progress": 3,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 4,
+                "day": 26
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 58141,
+                "title": {
+                  "romaji": "Machida-kun no Sekai",
+                  "native": "町田くんの世界",
+                  "english": "The World of Machida-kun"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 76716,
+              "status": "CURRENT",
+              "progress": 3,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 3,
+                "day": 15
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 46716,
+                "title": {
+                  "romaji": "Masamune-kun no Revenge",
+                  "native": "政宗くんのリベンジ",
+                  "english": "Masamune-kun’s Revenge"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30011,
+              "status": "CURRENT",
+              "progress": 7,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": 2021,
+                "month": 10,
+                "day": 10
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 11,
+                "title": {
+                  "romaji": "NARUTO",
+                  "native": "NARUTO -ナルト-",
+                  "english": "Naruto"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 119257,
+              "status": "CURRENT",
+              "progress": 4,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 11,
+                "day": 18
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 132214,
+                "title": {
+                  "romaji": "Jeonjijeok Dokja Sijeom",
+                  "native": "전지적 독자 시점",
+                  "english": "Omniscient Reader"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30013,
+              "status": "CURRENT",
+              "progress": 1056,
+              "progressVolumes": 97,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 7,
+                "day": 1
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 13,
+                "title": {
+                  "romaji": "ONE PIECE",
+                  "native": "ONE PIECE",
+                  "english": "One Piece"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 74347,
+              "status": "CURRENT",
+              "progress": 103,
+              "progressVolumes": 20,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 24
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 44347,
+                "title": {
+                  "romaji": "One Punch-Man",
+                  "native": "ワンパンマン",
+                  "english": "One-Punch Man"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30481,
+              "status": "CURRENT",
+              "progress": 6,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 3,
+                "day": 24
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 481,
+                "title": {
+                  "romaji": "Planetes",
+                  "native": "プラネテス",
+                  "english": "Planetes"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 147997,
+              "status": "CURRENT",
+              "progress": 11,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 147091,
+                "title": {
+                  "romaji": "Seihantai na Kimi to Boku",
+                  "native": "正反対な君と僕",
+                  "english": "You and I are Polar Opposites"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 118586,
+              "status": "CURRENT",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 5,
+                "day": 26
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 126287,
+                "title": {
+                  "romaji": "Sousou no Frieren",
+                  "native": "葬送のフリーレン",
+                  "english": "Frieren: Beyond Journey’s End"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 144885,
+              "status": "CURRENT",
+              "progress": 4,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 3,
+                "day": 29
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 137886,
+                "title": {
+                  "romaji": "Sugoi Toshinosa Fuufu no Hanashi",
+                  "native": "すごい年の差夫婦の話",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 114164,
+              "status": "CURRENT",
+              "progress": 2,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 4,
+                "day": 7
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 129651,
+                "title": {
+                  "romaji": "Totsuide kita Yome Aisouwarai Bakari Shiteru",
+                  "native": "嫁いできた嫁が愛想笑いばかりしてる",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 55250,
+              "status": "CURRENT",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 25250,
+                "title": {
+                  "romaji": "The Voynich Hotel",
+                  "native": "ヴォイニッチホテル",
+                  "english": "The Voynich Hotel"
+                }
+              },
+              "score": 0
+            }
+          ]
+        },
+        {
+          "name": "Completed",
+          "isCustomList": false,
+          "isSplitCompletedList": false,
+          "entries": [
+            {
+              "mediaId": 143690,
+              "status": "COMPLETED",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 143336,
+                "title": {
+                  "romaji": "AMONG US",
+                  "native": "AMONG US",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30025,
+              "status": "COMPLETED",
+              "progress": 116,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 7,
+                "day": 18
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 25,
+                "title": {
+                  "romaji": "Hagane no Renkinjutsushi",
+                  "native": "鋼の錬金術師",
+                  "english": "Fullmetal Alchemist"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 33009,
+              "status": "COMPLETED",
+              "progress": 158,
+              "progressVolumes": 17,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": 2021,
+                "month": 12,
+                "day": 22
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 3009,
+                "title": {
+                  "romaji": "JoJo no Kimyou na Bouken: Stone Ocean",
+                  "native": "ジョジョの奇妙な冒険 ストーンオーシャン",
+                  "english": "JoJo's Bizarre Adventure Part 6: Stone Ocean"
+                }
+              },
+              "score": 8
+            },
+            {
+              "mediaId": 97553,
+              "status": "COMPLETED",
+              "progress": 18,
+              "progressVolumes": 3,
+              "repeat": 0,
+              "notes": "It was depressing and wholesome. I very much recommend it to read it.",
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 3,
+                "day": 14
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 3,
+                "day": 14
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 100448,
+                "title": {
+                  "romaji": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
+                  "native": "寿命を買い取ってもらった。一年につき、一万円で。",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 121088,
+              "status": "COMPLETED",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 5,
+                "day": 22
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 5,
+                "day": 22
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 128389,
+                "title": {
+                  "romaji": "Mine-kun wa Nonsexual",
+                  "native": "峰くんはノンセクシャル",
+                  "english": "Mine-kun Is Asexual"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 53390,
+              "status": "COMPLETED",
+              "progress": 141,
+              "progressVolumes": 34,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 6,
+                "day": 16
+              },
+              "completedAt": {
+                "year": 2021,
+                "month": 6,
+                "day": 16
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 23390,
+                "title": {
+                  "romaji": "Shingeki no Kyojin",
+                  "native": "進撃の巨人",
+                  "english": "Attack on Titan"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 105398,
+              "status": "COMPLETED",
+              "progress": 180,
+              "progressVolumes": 2,
+              "repeat": 0,
+              "notes": "I had a very good time binge-reading it. Got a very good experience from it. It is a good series.",
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 7,
+                "day": 23
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 31
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 121496,
+                "title": {
+                  "romaji": "Na Honjaman Level Up",
+                  "native": "나 혼자만 레벨업",
+                  "english": "Solo Leveling"
+                }
+              },
+              "score": 10
+            },
+            {
+              "mediaId": 100568,
+              "status": "COMPLETED",
+              "progress": 21,
+              "progressVolumes": 3,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 3,
+                "day": 14
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 3,
+                "day": 14
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 125036,
+                "title": {
+                  "romaji": "Supyeongseon",
+                  "native": "수평선",
+                  "english": "The Horizon"
+                }
+              },
+              "score": 9
+            }
+          ]
+        },
+        {
+          "name": "Planning",
+          "isCustomList": false,
+          "isSplitCompletedList": false,
+          "entries": [
+            {
+              "mediaId": 126722,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 132975,
+                "title": {
+                  "romaji": "Anemone wa Netsu wo Obiru",
+                  "native": "アネモネは熱を帯びる",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 39711,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 9711,
+                "title": {
+                  "romaji": "Bakuman.",
+                  "native": "バクマン。",
+                  "english": "Bakuman。"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 107237,
+              "status": "PLANNING",
+              "progress": 1,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 10,
+                "day": 9
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 107931,
+                "title": {
+                  "romaji": "Blue Period",
+                  "native": "ブルーピリオド",
+                  "english": "Blue Period"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 98235,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 103890,
+                "title": {
+                  "romaji": "Bokutachi wa Benkyou ga Dekinai",
+                  "native": "ぼくたちは勉強ができない",
+                  "english": "We Never Learn"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30042,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 42,
+                "title": {
+                  "romaji": "Dragon Ball",
+                  "native": "ドラゴンボール",
+                  "english": "Dragon Ball"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 87170,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 98270,
+                "title": {
+                  "romaji": "Fire Punch",
+                  "native": "ファイアパンチ",
+                  "english": "Fire Punch"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 101134,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 146944,
+                "title": {
+                  "romaji": "Yeollepjeonsa",
+                  "native": "열렙전사",
+                  "english": "Hardcore Leveling Warrior"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 66413,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 36413,
+                "title": {
+                  "romaji": "Hinamatsuri",
+                  "native": "ヒナまつり",
+                  "english": "Hinamatsuri"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 40552,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 10552,
+                "title": {
+                  "romaji": "Hoshi no Samidare",
+                  "native": "惑星のさみだれ",
+                  "english": "Lucifer and the Biscuit Hammer"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 74489,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 44489,
+                "title": {
+                  "romaji": "Houseki no Kuni",
+                  "native": "宝石の国",
+                  "english": "Land of the Lustrous"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 97894,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 86310,
+                "title": {
+                  "romaji": "Imouto sae Ireba Ii.",
+                  "native": "妹さえいればいい。",
+                  "english": "A Sister's All You Need."
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 99943,
+              "status": "PLANNING",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 7,
+                "day": 28
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 108407,
+                "title": {
+                  "romaji": "Kanojo, Okarishimasu",
+                  "native": "彼女、お借りします",
+                  "english": "Rent-A-Girlfriend"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 125624,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 128093,
+                "title": {
+                  "romaji": "Kuchi ga Saketemo Kimi ni wa",
+                  "native": "口が裂けても君には",
+                  "english": "Even If You Slit My Mouth"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 54692,
+              "status": "PLANNING",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 24692,
+                "title": {
+                  "romaji": "Noragami",
+                  "native": "ノラガミ",
+                  "english": "Noragami: Stray God"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 101176,
+              "status": "PLANNING",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 8,
+                "day": 21
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 112774,
+                "title": {
+                  "romaji": "Ojisama to Neko",
+                  "native": "おじさまと猫",
+                  "english": "A Man and His Cat"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 43101,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 13101,
+                "title": {
+                  "romaji": "Sex",
+                  "native": "SEX",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 107098,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 110485,
+                "title": {
+                  "romaji": "Shuumatsu no Valkyrie",
+                  "native": "終末のワルキューレ",
+                  "english": "Record of Ragnarok"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30051,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 51,
+                "title": {
+                  "romaji": "SLAM DUNK",
+                  "native": "SLAM DUNK",
+                  "english": "Slam Dunk"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 86770,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 93972,
+                "title": {
+                  "romaji": "Totsukuni no Shoujo",
+                  "native": "とつくにの少女",
+                  "english": "The Girl From the Other Side: Siúil, a Rún"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30656,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 656,
+                "title": {
+                  "romaji": "Vagabond",
+                  "native": "バガボンド",
+                  "english": "Vagabond"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 87423,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 100128,
+                "title": {
+                  "romaji": "Yakusoku no Neverland",
+                  "native": "約束のネバーランド",
+                  "english": "The Promised Neverland"
+                }
+              },
+              "score": 0
+            }
+          ]
+        },
+        {
+          "name": "Paused",
+          "isCustomList": false,
+          "isSplitCompletedList": false,
+          "entries": [
+            {
+              "mediaId": 101552,
+              "status": "PAUSED",
+              "progress": 17,
+              "progressVolumes": 2,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 8,
+                "day": 22
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 110889,
+                "title": {
+                  "romaji": "Otokonoko Tsuma",
+                  "native": "おとこのこ妻",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 63327,
+              "status": "PAUSED",
+              "progress": 6,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 6,
+                "day": 16
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 33327,
+                "title": {
+                  "romaji": "Tokyo Ghoul",
+                  "native": "東京喰種 トーキョーグール",
+                  "english": "Tokyo Ghoul"
+                }
+              },
+              "score": 0
+            }
+          ]
+        }
+      ]
+    },
+    "User": {
+      "name": "CulturedSnowie",
+      "id": 5662129,
+      "mediaListOptions": {
+        "scoreFormat": "POINT_10_DECIMAL"
+      }
+    }
+  }
+}

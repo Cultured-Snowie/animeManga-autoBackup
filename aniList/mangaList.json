@@ -1024,7 +1024,7 @@
             {
               "mediaId": 30013,
               "status": "CURRENT",
-              "progress": 1056,
+              "progress": 1057,
               "progressVolumes": 97,
               "repeat": 0,
               "notes": null,
@@ -1048,7 +1048,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 0,
+              "updatedAt": 1660893146,
               "createdAt": 0,
               "media": {
                 "idMal": 13,

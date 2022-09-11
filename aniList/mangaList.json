@@ -1334,6 +1334,45 @@
               "score": 0
             },
             {
+              "mediaId": 112830,
+              "status": "CURRENT",
+              "progress": 22,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 9,
+                "day": 5
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1662705011,
+              "createdAt": 1661997606,
+              "media": {
+                "idMal": 121484,
+                "title": {
+                  "romaji": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+                  "native": "ティアムーン帝国物語 ～断頭台から始まる、姫の転生逆転ストーリー～",
+                  "english": "Tearmoon Empire"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 122604,
               "status": "CURRENT",
               "progress": 11,
@@ -2466,7 +2505,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 0,
+              "updatedAt": 1662707993,
               "createdAt": 0,
               "media": {
                 "idMal": 656,
@@ -2513,45 +2552,6 @@
                   "romaji": "Yakusoku no Neverland",
                   "native": "約束のネバーランド",
                   "english": "The Promised Neverland"
-                }
-              },
-              "score": 0
-            },
-            {
-              "mediaId": 112830,
-              "status": "PLANNING",
-              "progress": 0,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 1661997734,
-              "createdAt": 1661997606,
-              "media": {
-                "idMal": 121484,
-                "title": {
-                  "romaji": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
-                  "native": "ティアムーン帝国物語 ～断頭台から始まる、姫の転生逆転ストーリー～",
-                  "english": "Tearmoon Empire"
                 }
               },
               "score": 0

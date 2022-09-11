@@ -4,12 +4,12 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>185</user_total_anime>
-        <user_total_watching>12</user_total_watching>
-        <user_total_completed>98</user_total_completed>
-        <user_total_onhold>19</user_total_onhold>
-        <user_total_dropped>1</user_total_dropped>
-        <user_total_plantowatch>55</user_total_plantowatch>
+        <user_total_anime>189</user_total_anime>
+        <user_total_watching>10</user_total_watching>
+        <user_total_completed>101</user_total_completed>
+        <user_total_onhold>20</user_total_onhold>
+        <user_total_dropped>2</user_total_dropped>
+        <user_total_plantowatch>56</user_total_plantowatch>
     </myinfo>
 
 
@@ -43,28 +43,6 @@
         <my_id>0</my_id>
         <my_watched_episodes>7</my_watched_episodes>
         <my_start_date>2022-01-26</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>1575</series_animedb_id>
-        <series_title><![CDATA[Code Geass: Hangyaku no Lelouch]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>25</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>4</my_watched_episodes>
-        <my_start_date>2021-06-28</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -173,7 +151,7 @@
         <series_type>TV</series_type>
         <series_episodes>0</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>1030</my_watched_episodes>
+        <my_watched_episodes>1031</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -195,7 +173,7 @@
         <series_type>TV</series_type>
         <series_episodes>0</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>123</my_watched_episodes>
+        <my_watched_episodes>124</my_watched_episodes>
         <my_start_date>2021-06-16</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -241,28 +219,6 @@
         <my_id>0</my_id>
         <my_watched_episodes>19</my_watched_episodes>
         <my_start_date>2022-05-14</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>34798</series_animedb_id>
-        <series_title><![CDATA[Yuru Camp△]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>12</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>5</my_watched_episodes>
-        <my_start_date>2022-07-23</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -586,6 +542,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>2471</series_animedb_id>
+        <series_title><![CDATA[Doraemon (1979)]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>1787</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1787</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>8</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>38691</series_animedb_id>
         <series_title><![CDATA[Dr. Stone]]></series_title>
         <series_type>TV</series_type>
@@ -705,7 +683,7 @@
         <my_start_date>2022-04-09</my_start_date>
         <my_finish_date>2022-06-25</my_finish_date>
         <my_rated></my_rated>
-        <my_score>0</my_score>
+        <my_score>6</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -1013,7 +991,7 @@
         <my_start_date>2022-04-30</my_start_date>
         <my_finish_date>2022-06-26</my_finish_date>
         <my_rated></my_rated>
-        <my_score>0</my_score>
+        <my_score>9</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -1189,7 +1167,7 @@
         <my_start_date>2022-04-10</my_start_date>
         <my_finish_date>2022-06-25</my_finish_date>
         <my_rated></my_rated>
-        <my_score>0</my_score>
+        <my_score>7</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -1937,7 +1915,7 @@
         <my_start_date>2022-04-15</my_start_date>
         <my_finish_date>2022-06-25</my_finish_date>
         <my_rated></my_rated>
-        <my_score>0</my_score>
+        <my_score>6</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -2157,7 +2135,7 @@
         <my_start_date>2022-04-10</my_start_date>
         <my_finish_date>2022-06-26</my_finish_date>
         <my_rated></my_rated>
-        <my_score>0</my_score>
+        <my_score>8</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -2399,7 +2377,51 @@
         <my_start_date>2022-04-09</my_start_date>
         <my_finish_date>2022-06-25</my_finish_date>
         <my_rated></my_rated>
-        <my_score>0</my_score>
+        <my_score>8</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>35507</series_animedb_id>
+        <series_title><![CDATA[Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>12</my_watched_episodes>
+        <my_start_date>2022-06-10</my_start_date>
+        <my_finish_date>2022-09-05</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>8</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>34798</series_animedb_id>
+        <series_title><![CDATA[Yuru Camp△]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>12</my_watched_episodes>
+        <my_start_date>2022-07-23</my_start_date>
+        <my_finish_date>2022-09-10</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>9</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -2421,7 +2443,7 @@
         <my_start_date>2022-04-06</my_start_date>
         <my_finish_date>2022-06-25</my_finish_date>
         <my_rated></my_rated>
-        <my_score>0</my_score>
+        <my_score>8</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -2529,6 +2551,28 @@
         <my_id>0</my_id>
         <my_watched_episodes>239</my_watched_episodes>
         <my_start_date>2021-06-16</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>On-Hold</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>1575</series_animedb_id>
+        <series_title><![CDATA[Code Geass: Hangyaku no Lelouch]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>25</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>4</my_watched_episodes>
+        <my_start_date>2021-06-28</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -2852,6 +2896,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>966</series_animedb_id>
+        <series_title><![CDATA[Crayon Shin-chan]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>8</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Dropped</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>48675</series_animedb_id>
         <series_title><![CDATA[Kakkou no Iinazuke]]></series_title>
         <series_type>TV</series_type>
@@ -3054,6 +3120,28 @@
         <series_title><![CDATA[Bounen no Xamdou]]></series_title>
         <series_type>ONA</series_type>
         <series_episodes>26</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>31478</series_animedb_id>
+        <series_title><![CDATA[Bungou Stray Dogs]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
@@ -3820,6 +3908,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>30296</series_animedb_id>
+        <series_title><![CDATA[Rakudai Kishi no Cavalry]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>48761</series_animedb_id>
         <series_title><![CDATA[Saihate no Paladin]]></series_title>
         <series_type>TV</series_type>
@@ -4003,28 +4113,6 @@
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Plan to Watch</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>35507</series_animedb_id>
-        <series_title><![CDATA[Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>12</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>0</my_watched_episodes>
-        <my_start_date>2022-06-10</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>

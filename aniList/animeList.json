@@ -15,9 +15,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -55,9 +53,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -95,9 +91,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -135,9 +129,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -170,14 +162,12 @@
             {
               "mediaId": 143270,
               "status": "CURRENT",
-              "progress": 6,
+              "progress": 8,
               "repeat": 0,
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -208,6 +198,44 @@
               "score": 0
             },
             {
+              "mediaId": 10620,
+              "status": "CURRENT",
+              "progress": 5,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 10620,
+                "title": {
+                  "romaji": "Mirai Nikki",
+                  "native": "未来日記",
+                  "english": "The Future Diary"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 127720,
               "status": "CURRENT",
               "progress": 6,
@@ -215,9 +243,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -250,14 +276,12 @@
             {
               "mediaId": 21,
               "status": "CURRENT",
-              "progress": 1029,
+              "progress": 1031,
               "repeat": 0,
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -290,14 +314,12 @@
             {
               "mediaId": 112153,
               "status": "CURRENT",
-              "progress": 121,
+              "progress": 125,
               "repeat": 0,
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -328,6 +350,44 @@
               "score": 0
             },
             {
+              "mediaId": 13601,
+              "status": "CURRENT",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 9,
+                "day": 11
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 13601,
+                "title": {
+                  "romaji": "PSYCHO-PASS",
+                  "native": "PSYCHO-PASS サイコパス",
+                  "english": "PSYCHO-PASS"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 132405,
               "status": "CURRENT",
               "progress": 9,
@@ -335,9 +395,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -370,14 +428,12 @@
             {
               "mediaId": 129201,
               "status": "CURRENT",
-              "progress": 17,
+              "progress": 19,
               "repeat": 0,
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -406,46 +462,6 @@
                 }
               },
               "score": 0
-            },
-            {
-              "mediaId": 98444,
-              "status": "CURRENT",
-              "progress": 3,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 7,
-                "day": 23
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 34798,
-                "title": {
-                  "romaji": "Yuru Camp△",
-                  "native": "ゆるキャン△",
-                  "english": "Laid-Back Camp"
-                }
-              },
-              "score": 0
             }
           ]
         },
@@ -462,9 +478,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -502,9 +516,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -542,9 +554,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -582,9 +592,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -622,9 +630,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -662,9 +668,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -702,9 +706,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -742,9 +744,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -782,9 +782,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -815,6 +813,44 @@
               "score": 0
             },
             {
+              "mediaId": 21311,
+              "status": "PLANNING",
+              "progress": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 31478,
+                "title": {
+                  "romaji": "Bungou Stray Dogs",
+                  "native": "文豪ストレイドッグス",
+                  "english": "Bungo Stray Dogs"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 127230,
               "status": "PLANNING",
               "progress": 0,
@@ -822,9 +858,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -855,46 +889,6 @@
               "score": 0
             },
             {
-              "mediaId": 1575,
-              "status": "PLANNING",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2021,
-                "month": 6,
-                "day": 28
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 1575,
-                "title": {
-                  "romaji": "Code Geass: Hangyaku no Lelouch",
-                  "native": "コードギアス 反逆のルルーシュ",
-                  "english": "Code Geass: Lelouch of the Rebellion"
-                }
-              },
-              "score": 0
-            },
-            {
               "mediaId": 1,
               "status": "PLANNING",
               "progress": 0,
@@ -902,9 +896,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -942,9 +934,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -982,9 +972,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1022,9 +1010,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1062,9 +1048,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1102,9 +1086,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1142,9 +1124,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1182,9 +1162,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1222,9 +1200,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1262,9 +1238,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1302,9 +1276,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1342,9 +1314,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1382,9 +1352,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1422,9 +1390,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1455,6 +1421,44 @@
               "score": 0
             },
             {
+              "mediaId": 154745,
+              "status": "PLANNING",
+              "progress": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 53050,
+                "title": {
+                  "romaji": "Kanojo, Okarishimasu 3rd Season",
+                  "native": "彼女、お借りします 第3期",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 16035,
               "status": "PLANNING",
               "progress": 0,
@@ -1462,9 +1466,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1502,9 +1504,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1542,9 +1542,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1582,9 +1580,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1615,6 +1611,82 @@
               "score": 0
             },
             {
+              "mediaId": 138882,
+              "status": "PLANNING",
+              "progress": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 49776,
+                "title": {
+                  "romaji": "Kumichou Musume to Sewagakari",
+                  "native": "組長娘と世話係",
+                  "english": "The Yakuza's Guide to Babysitting"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 114979,
+              "status": "PLANNING",
+              "progress": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 41169,
+                "title": {
+                  "romaji": "Love Live! Superstar!!",
+                  "native": "ラブライブ!スーパースター!!",
+                  "english": "Love Live! Superstar!!"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 97986,
               "status": "PLANNING",
               "progress": 0,
@@ -1622,9 +1694,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1662,9 +1732,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1702,9 +1770,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1742,9 +1808,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1782,9 +1846,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1822,9 +1884,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1862,9 +1922,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1895,6 +1953,44 @@
               "score": 0
             },
             {
+              "mediaId": 18897,
+              "status": "PLANNING",
+              "progress": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 18897,
+                "title": {
+                  "romaji": "Nisekoi",
+                  "native": "ニセコイ",
+                  "english": "Nisekoi"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 11933,
               "status": "PLANNING",
               "progress": 0,
@@ -1902,9 +1998,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1942,9 +2036,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -1982,9 +2074,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2022,9 +2112,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2055,6 +2143,82 @@
               "score": 0
             },
             {
+              "mediaId": 20872,
+              "status": "PLANNING",
+              "progress": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 27775,
+                "title": {
+                  "romaji": "Plastic Memories",
+                  "native": "プラスティックメモリーズ",
+                  "english": "Plastic Memories"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 21092,
+              "status": "PLANNING",
+              "progress": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 30296,
+                "title": {
+                  "romaji": "Rakudai Kishi no Cavalry",
+                  "native": "落第騎士の英雄譚（キャバルリィ）",
+                  "english": "Chivalry of a Failed Knight"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 132473,
               "status": "PLANNING",
               "progress": 0,
@@ -2062,9 +2226,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2102,9 +2264,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2135,6 +2295,44 @@
               "score": 0
             },
             {
+              "mediaId": 125038,
+              "status": "PLANNING",
+              "progress": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 43439,
+                "title": {
+                  "romaji": "Shadows House",
+                  "native": "シャドーハウス",
+                  "english": "SHADOWS HOUSE"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 7724,
               "status": "PLANNING",
               "progress": 0,
@@ -2142,9 +2340,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2182,9 +2378,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2222,9 +2416,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2262,9 +2454,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2302,9 +2492,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2342,9 +2530,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2375,16 +2561,14 @@
               "score": 0
             },
             {
-              "mediaId": 98659,
+              "mediaId": 141391,
               "status": "PLANNING",
               "progress": 0,
               "repeat": 0,
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2393,9 +2577,9 @@
                 "Enjoyment": 0
               },
               "startedAt": {
-                "year": 2022,
-                "month": 6,
-                "day": 10
+                "year": null,
+                "month": null,
+                "day": null
               },
               "completedAt": {
                 "year": null,
@@ -2405,11 +2589,11 @@
               "updatedAt": 0,
               "createdAt": 0,
               "media": {
-                "idMal": 35507,
+                "idMal": 50346,
                 "title": {
-                  "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
-                  "native": "ようこそ実力至上主義の教室へ",
-                  "english": "Classroom of the Elite"
+                  "romaji": "Yofukashi no Uta",
+                  "native": "よふかしのうた",
+                  "english": "Call of the Night"
                 }
               },
               "score": 0
@@ -2422,9 +2606,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2462,9 +2644,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2497,9 +2677,9 @@
           ]
         },
         {
-          "name": "Completed",
+          "name": "Completed TV",
           "isCustomList": false,
-          "isSplitCompletedList": false,
+          "isSplitCompletedList": true,
           "entries": [
             {
               "mediaId": 103572,
@@ -2509,9 +2689,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2549,9 +2727,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2582,46 +2758,6 @@
               "score": 8
             },
             {
-              "mediaId": 98251,
-              "status": "COMPLETED",
-              "progress": 12,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2021,
-                "month": 8,
-                "day": 30
-              },
-              "completedAt": {
-                "year": 2021,
-                "month": 9,
-                "day": 2
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 34881,
-                "title": {
-                  "romaji": "Aho-Girl",
-                  "native": "アホガール",
-                  "english": "AHO-GIRL"
-                }
-              },
-              "score": 7
-            },
-            {
               "mediaId": 107660,
               "status": "COMPLETED",
               "progress": 12,
@@ -2629,9 +2765,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2669,9 +2803,7 @@
               "notes": "This anime is OK I guess. I think it is good. The jokes are good and the opening was great too. I enjoyed a lot in this anime. It also made me realize how much of a weeb and how much of a degenerate I am! And I feel so embarrassed lmao! ",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2709,9 +2841,7 @@
               "notes": "Had a potential of getting 10/10 from me but the ending made me give it 8/10.",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2749,9 +2879,7 @@
               "notes": "Felt like generic shonen anime but still good",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2789,9 +2917,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2829,9 +2955,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2869,9 +2993,7 @@
               "notes": "The 1st arc was very lit. The 2nd is boring but the 3rd one (the setup arc of s5 AKA the last ep) was good. I thought to give it 9/10 but I can't ignore the 2nd arc. But at the same time, I can't ignore the 1st and 3rd arc. So, I am giving it 8.5/10.",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2909,9 +3031,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2949,9 +3069,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -2989,9 +3107,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3029,9 +3145,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3069,9 +3183,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3109,9 +3221,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3149,9 +3259,7 @@
               "notes": "It was good. But the last arc would have been better. ",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3189,9 +3297,7 @@
               "notes": "I liked the cute babies there :)",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3222,46 +3328,6 @@
               "score": 8
             },
             {
-              "mediaId": 102969,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 13
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 37959,
-                "title": {
-                  "romaji": "Gakuen Babysitters OVA",
-                  "native": "学園ベビーシッターズ OVA",
-                  "english": "School Babysitters OVA"
-                }
-              },
-              "score": 8
-            },
-            {
               "mediaId": 133412,
               "status": "COMPLETED",
               "progress": 12,
@@ -3269,9 +3335,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3299,7 +3363,7 @@
                   "english": "Healer Girl"
                 }
               },
-              "score": 0
+              "score": 6
             },
             {
               "mediaId": 14719,
@@ -3309,9 +3373,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3349,9 +3411,7 @@
               "notes": "It was good but the pacing almost made me drop it",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3389,9 +3449,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3429,9 +3487,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3469,9 +3525,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3509,9 +3563,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3549,9 +3601,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3582,46 +3632,6 @@
               "score": 9
             },
             {
-              "mediaId": 9617,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2021,
-                "month": 12,
-                "day": 16
-              },
-              "completedAt": {
-                "year": 2021,
-                "month": 12,
-                "day": 16
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 9617,
-                "title": {
-                  "romaji": "K-ON! Movie",
-                  "native": "映画けいおん！",
-                  "english": "K-ON!: The Movie"
-                }
-              },
-              "score": 9
-            },
-            {
               "mediaId": 7791,
               "status": "COMPLETED",
               "progress": 26,
@@ -3629,9 +3639,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3662,86 +3670,6 @@
               "score": 9
             },
             {
-              "mediaId": 9734,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2021,
-                "month": 12,
-                "day": 15
-              },
-              "completedAt": {
-                "year": 2021,
-                "month": 12,
-                "day": 15
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 9734,
-                "title": {
-                  "romaji": "K-ON!!: Keikaku!",
-                  "native": "けいおん!! 計画!",
-                  "english": "K-ON! Season 2: Plan!"
-                }
-              },
-              "score": 9
-            },
-            {
-              "mediaId": 6862,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2021,
-                "month": 12,
-                "day": 20
-              },
-              "completedAt": {
-                "year": 2021,
-                "month": 12,
-                "day": 20
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 6862,
-                "title": {
-                  "romaji": "K-ON!: Live House!",
-                  "native": "けいおん! ライブハウス!",
-                  "english": "K-ON!: Live House!"
-                }
-              },
-              "score": 8
-            },
-            {
               "mediaId": 101921,
               "status": "COMPLETED",
               "progress": 12,
@@ -3749,9 +3677,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3789,9 +3715,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3819,7 +3743,7 @@
                   "english": "Kaguya-sama: Love is War -Ultra Romantic-"
                 }
               },
-              "score": 0
+              "score": 9
             },
             {
               "mediaId": 112641,
@@ -3829,9 +3753,7 @@
               "notes": "I think the series improved. The first season wasn't binge-worthy. I was literally having burnout with it. But surprisingly, s2 turned out good. It was binge-watchable. And I completed in 1 day. Looking forward to s3.",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3862,6 +3784,82 @@
               "score": 8
             },
             {
+              "mediaId": 113813,
+              "status": "COMPLETED",
+              "progress": 12,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 9,
+                "day": 13
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 40839,
+                "title": {
+                  "romaji": "Kanojo, Okarishimasu",
+                  "native": "彼女、お借りします",
+                  "english": "Rent-a-Girlfriend"
+                }
+              },
+              "score": 7
+            },
+            {
+              "mediaId": 124410,
+              "status": "COMPLETED",
+              "progress": 12,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 9,
+                "day": 15
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 9,
+                "day": 17
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 42963,
+                "title": {
+                  "romaji": "Kanojo, Okarishimasu 2",
+                  "native": "彼女、お借りします２",
+                  "english": "Rent-a-Girlfriend Season 2"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 101922,
               "status": "COMPLETED",
               "progress": 26,
@@ -3869,9 +3867,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3902,46 +3898,6 @@
               "score": 9
             },
             {
-              "mediaId": 112151,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2021,
-                "month": 9,
-                "day": 9
-              },
-              "completedAt": {
-                "year": 2021,
-                "month": 9,
-                "day": 9
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 40456,
-                "title": {
-                  "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen",
-                  "native": "鬼滅の刃 無限列車編",
-                  "english": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train"
-                }
-              },
-              "score": 9
-            },
-            {
               "mediaId": 142329,
               "status": "COMPLETED",
               "progress": 11,
@@ -3949,9 +3905,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -3982,46 +3936,6 @@
               "score": 9
             },
             {
-              "mediaId": 21519,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2021,
-                "month": 7,
-                "day": 3
-              },
-              "completedAt": {
-                "year": 2021,
-                "month": 7,
-                "day": 3
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 32281,
-                "title": {
-                  "romaji": "Kimi no Na wa.",
-                  "native": "君の名は。",
-                  "english": "Your Name."
-                }
-              },
-              "score": 9
-            },
-            {
               "mediaId": 21776,
               "status": "COMPLETED",
               "progress": 13,
@@ -4029,9 +3943,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4062,46 +3974,6 @@
               "score": 9
             },
             {
-              "mediaId": 98580,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 5,
-                "day": 7
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 5,
-                "day": 7
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 35363,
-                "title": {
-                  "romaji": "Kobayashi-san Chi no Maidragon: Valentine, Soshite Onsen! (Amari Kitai Shinaide Kudasai)",
-                  "native": "小林さんちのメイドラゴン バレンタイン, そして温泉! (あまり期待しないでください)",
-                  "english": "Miss Kobayashi's Dragon Maid: Valentines and Hot Springs! (Please Don't Get Your Hopes Up)"
-                }
-              },
-              "score": 9
-            },
-            {
               "mediaId": 132010,
               "status": "COMPLETED",
               "progress": 12,
@@ -4109,9 +3981,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4139,7 +4009,7 @@
                   "english": "Love After World Domination"
                 }
               },
-              "score": 0
+              "score": 7
             },
             {
               "mediaId": 21202,
@@ -4149,9 +4019,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4189,9 +4057,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4229,9 +4095,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4269,9 +4133,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4309,9 +4171,7 @@
               "notes": "Lot's of plotholes here. But still good.",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4349,9 +4209,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4389,9 +4247,7 @@
               "notes": "It wasn't great at the start but the claw arc made me get hooked in. I think it is good.",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4429,9 +4285,7 @@
               "notes": "Would have been better if there is less ecchi",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4469,9 +4323,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4509,9 +4361,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4549,9 +4399,7 @@
               "notes": "Why does my mother come to my room every time at the worst moment lmao?",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4582,86 +4430,6 @@
               "score": 9
             },
             {
-              "mediaId": 20769,
-              "status": "COMPLETED",
-              "progress": 6,
-              "repeat": 0,
-              "notes": "Did I just straight up watched Safe For Work hentai? Even NGNL doesn't have that much!",
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 23
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 23
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 24991,
-                "title": {
-                  "romaji": "No Game No Life Specials",
-                  "native": "ノーゲーム・ノーライフ ミニ",
-                  "english": "No Game No Life Specials"
-                }
-              },
-              "score": 6
-            },
-            {
-              "mediaId": 21875,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 20
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 20
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 33674,
-                "title": {
-                  "romaji": "No Game No Life Zero",
-                  "native": "ノーゲーム・ノーライフ ゼロ",
-                  "english": "No Game, No Life Zero"
-                }
-              },
-              "score": 9
-            },
-            {
               "mediaId": 128547,
               "status": "COMPLETED",
               "progress": 13,
@@ -4669,9 +4437,7 @@
               "notes": "The last ep just blew my mind! Didn't expect the characters are actually like that! And why cliffhanger?! I demand a s2! ",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4709,9 +4475,7 @@
               "notes": "This anime was so much fun watching! Each episode felt like 2-5 mins lmao! Even the jokes were pretty good. ",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4742,86 +4506,6 @@
               "score": 10
             },
             {
-              "mediaId": 21416,
-              "status": "COMPLETED",
-              "progress": 6,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 24
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 24
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 31772,
-                "title": {
-                  "romaji": "One Punch Man OVA",
-                  "native": "ワンパンマン OVA",
-                  "english": "One-Punch Man OVA"
-                }
-              },
-              "score": 7
-            },
-            {
-              "mediaId": 21386,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 24
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 24
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 31704,
-                "title": {
-                  "romaji": "One Punch Man: Road to Hero",
-                  "native": "ワンパンマン「ロード・トゥ・ヒーロー」",
-                  "english": null
-                }
-              },
-              "score": 8
-            },
-            {
               "mediaId": 141774,
               "status": "COMPLETED",
               "progress": 12,
@@ -4829,9 +4513,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4869,9 +4551,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4909,9 +4589,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4949,9 +4627,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -4989,9 +4665,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5029,9 +4703,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5069,9 +4741,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5109,9 +4779,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5149,9 +4817,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5189,9 +4855,7 @@
               "notes": "Sasuga Whitefox! I had a very good time binge watching it. And I was very curious on what might happen next. And it has been a long time since I felt this feeling!",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5229,9 +4893,7 @@
               "notes": "This is just made to show us Subaru suffering a lot!",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5269,9 +4931,7 @@
               "notes": "Even this one is made for us to see Subaru suffer a lot! But at least we got a wholesome ending so I guess I will allow it.",
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5309,9 +4969,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5342,46 +5000,6 @@
               "score": 9
             },
             {
-              "mediaId": 104157,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 5,
-                "day": 26
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 5,
-                "day": 26
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 38329,
-                "title": {
-                  "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
-                  "native": "青春ブタ野郎はゆめみる少女の夢を見ない",
-                  "english": "Rascal Does Not Dream of a Dreaming Girl"
-                }
-              },
-              "score": 9
-            },
-            {
               "mediaId": 135384,
               "status": "COMPLETED",
               "progress": 12,
@@ -5389,9 +5007,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5419,87 +5035,7 @@
                   "english": "Miss Shachiku and the Little Baby Ghost"
                 }
               },
-              "score": 0
-            },
-            {
-              "mediaId": 126403,
-              "status": "COMPLETED",
-              "progress": 11,
-              "repeat": 0,
-              "notes": "Damn it! Why cliffhanger?! :'(",
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 2,
-                "day": 9
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 2,
-                "day": 11
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 44074,
-                "title": {
-                  "romaji": "Shiguang Dailiren",
-                  "native": "时光代理人",
-                  "english": "LINK CLICK"
-                }
-              },
-              "score": 9
-            },
-            {
-              "mediaId": 136145,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": "It is so wholesome! I liked it! :')",
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 2,
-                "day": 11
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 2,
-                "day": 11
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 49200,
-                "title": {
-                  "romaji": "Shiguang Dailiren Special",
-                  "native": "时光代理人 番外篇",
-                  "english": "LINK CLICK Episode 5.5"
-                }
-              },
-              "score": 9
+              "score": 6
             },
             {
               "mediaId": 16498,
@@ -5509,9 +5045,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5549,9 +5083,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5589,9 +5121,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5629,9 +5159,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5669,9 +5197,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5709,9 +5235,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5749,9 +5273,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5789,9 +5311,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5819,7 +5339,7 @@
                   "english": "SPY x FAMILY"
                 }
               },
-              "score": 0
+              "score": 8
             },
             {
               "mediaId": 9253,
@@ -5829,9 +5349,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5869,9 +5387,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -5902,206 +5418,6 @@
               "score": 10
             },
             {
-              "mediaId": 104174,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 8
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 8
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 37492,
-                "title": {
-                  "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
-                  "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン",
-                  "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism - Bittersweet Intermedio"
-                }
-              },
-              "score": 8
-            },
-            {
-              "mediaId": 11577,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2021,
-                "month": 12,
-                "day": 31
-              },
-              "completedAt": {
-                "year": 2021,
-                "month": 12,
-                "day": 31
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 11577,
-                "title": {
-                  "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
-                  "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ",
-                  "english": "Steins;Gate The Movie – Load Region of Déjà Vu"
-                }
-              },
-              "score": 9
-            },
-            {
-              "mediaId": 21624,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 2
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 32188,
-                "title": {
-                  "romaji": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
-                  "native": "シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-",
-                  "english": "Steins;Gate 0: 23β- Divide by Zero"
-                }
-              },
-              "score": 9
-            },
-            {
-              "mediaId": 10863,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2021,
-                "month": 12,
-                "day": 30
-              },
-              "completedAt": {
-                "year": 2021,
-                "month": 12,
-                "day": 30
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 10863,
-                "title": {
-                  "romaji": "Steins;Gate: Oukoubakko no Poriomania",
-                  "native": "シュタインズ・ゲート 横行跋扈のポリオマニア",
-                  "english": "Steins;Gate: Egoistic Poriomania"
-                }
-              },
-              "score": 9
-            },
-            {
-              "mediaId": 20907,
-              "status": "COMPLETED",
-              "progress": 4,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 8
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 8
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 27957,
-                "title": {
-                  "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
-                  "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング",
-                  "english": null
-                }
-              },
-              "score": 8
-            },
-            {
               "mediaId": 99263,
               "status": "COMPLETED",
               "progress": 25,
@@ -6109,9 +5425,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6149,9 +5463,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6189,9 +5501,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6222,16 +5532,14 @@
               "score": 9
             },
             {
-              "mediaId": 141014,
+              "mediaId": 98659,
               "status": "COMPLETED",
               "progress": 12,
               "repeat": 0,
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6241,25 +5549,63 @@
               },
               "startedAt": {
                 "year": 2022,
-                "month": 4,
-                "day": 9
+                "month": 6,
+                "day": 10
               },
               "completedAt": {
                 "year": 2022,
-                "month": 6,
-                "day": 25
+                "month": 9,
+                "day": 5
               },
               "updatedAt": 0,
               "createdAt": 0,
               "media": {
-                "idMal": 50273,
+                "idMal": 35507,
                 "title": {
-                  "romaji": "Tomodachi Game",
-                  "native": "トモダチゲーム",
-                  "english": "Tomodachi Game"
+                  "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+                  "native": "ようこそ実力至上主義の教室へ",
+                  "english": "Classroom of the Elite"
                 }
               },
-              "score": 0
+              "score": 8
+            },
+            {
+              "mediaId": 98444,
+              "status": "COMPLETED",
+              "progress": 12,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 7,
+                "day": 23
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 9,
+                "day": 10
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 34798,
+                "title": {
+                  "romaji": "Yuru Camp△",
+                  "native": "ゆるキャン△",
+                  "english": "Laid-Back Camp"
+                }
+              },
+              "score": 9
             },
             {
               "mediaId": 140457,
@@ -6269,9 +5615,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6299,7 +5643,90 @@
                   "english": "I’m Quitting Heroing"
                 }
               },
-              "score": 0
+              "score": 8
+            }
+          ]
+        },
+        {
+          "name": "Completed TV Short",
+          "isCustomList": false,
+          "isSplitCompletedList": true,
+          "entries": [
+            {
+              "mediaId": 98251,
+              "status": "COMPLETED",
+              "progress": 12,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 8,
+                "day": 30
+              },
+              "completedAt": {
+                "year": 2021,
+                "month": 9,
+                "day": 2
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 34881,
+                "title": {
+                  "romaji": "Aho-Girl",
+                  "native": "アホガール",
+                  "english": "AHO-GIRL"
+                }
+              },
+              "score": 7
+            },
+            {
+              "mediaId": 2471,
+              "status": "COMPLETED",
+              "progress": 1787,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 2471,
+                "title": {
+                  "romaji": "Doraemon (1979)",
+                  "native": "ドラえもん",
+                  "english": "Doraemon"
+                }
+              },
+              "score": 8
             }
           ]
         },
@@ -6316,9 +5743,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6356,9 +5781,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6396,9 +5819,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6436,9 +5857,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6476,9 +5895,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6509,6 +5926,44 @@
               "score": 0
             },
             {
+              "mediaId": 1575,
+              "status": "PAUSED",
+              "progress": 4,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 6,
+                "day": 28
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 1575,
+                "title": {
+                  "romaji": "Code Geass: Hangyaku no Lelouch",
+                  "native": "コードギアス 反逆のルルーシュ",
+                  "english": "Code Geass: Lelouch of the Rebellion"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 223,
               "status": "PAUSED",
               "progress": 6,
@@ -6516,9 +5971,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6556,9 +6009,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6596,9 +6047,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6636,9 +6085,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6676,9 +6123,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6716,9 +6161,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6756,9 +6199,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6796,9 +6237,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6836,9 +6275,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6876,9 +6313,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6916,9 +6351,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6956,9 +6389,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -6996,9 +6427,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -7036,9 +6465,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -7076,6 +6503,44 @@
           "isSplitCompletedList": false,
           "entries": [
             {
+              "mediaId": 966,
+              "status": "DROPPED",
+              "progress": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 966,
+                "title": {
+                  "romaji": "Crayon Shin-chan",
+                  "native": "クレヨンしんちゃん",
+                  "english": "Shin Chan"
+                }
+              },
+              "score": 8
+            },
+            {
               "mediaId": 132052,
               "status": "DROPPED",
               "progress": 8,
@@ -7083,9 +6548,7 @@
               "notes": null,
               "priority": 0,
               "hiddenFromStatusLists": false,
-              "customLists": {
-                "Spring 2022": false
-              },
+              "customLists": null,
               "advancedScores": {
                 "Story": 0,
                 "Characters": 0,
@@ -7114,6 +6577,908 @@
                 }
               },
               "score": 0
+            }
+          ]
+        },
+        {
+          "name": "Completed OVA",
+          "isCustomList": false,
+          "isSplitCompletedList": true,
+          "entries": [
+            {
+              "mediaId": 102969,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 13
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 37959,
+                "title": {
+                  "romaji": "Gakuen Babysitters OVA",
+                  "native": "学園ベビーシッターズ OVA",
+                  "english": "School Babysitters OVA"
+                }
+              },
+              "score": 8
+            },
+            {
+              "mediaId": 21067,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": " #Hentai",
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 22429,
+                "title": {
+                  "romaji": "Itadaki! Seieki♥",
+                  "native": "いただきっ! セーエキ♥",
+                  "english": "Vampire Vixen"
+                }
+              },
+              "score": 7
+            },
+            {
+              "mediaId": 9734,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 12,
+                "day": 15
+              },
+              "completedAt": {
+                "year": 2021,
+                "month": 12,
+                "day": 15
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 9734,
+                "title": {
+                  "romaji": "K-ON!!: Keikaku!",
+                  "native": "けいおん!! 計画!",
+                  "english": "K-ON! Season 2: Plan!"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 6862,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 12,
+                "day": 20
+              },
+              "completedAt": {
+                "year": 2021,
+                "month": 12,
+                "day": 20
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 6862,
+                "title": {
+                  "romaji": "K-ON!: Live House!",
+                  "native": "けいおん! ライブハウス!",
+                  "english": "K-ON!: Live House!"
+                }
+              },
+              "score": 8
+            },
+            {
+              "mediaId": 98580,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 5,
+                "day": 7
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 5,
+                "day": 7
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 35363,
+                "title": {
+                  "romaji": "Kobayashi-san Chi no Maidragon: Valentine, Soshite Onsen! (Amari Kitai Shinaide Kudasai)",
+                  "native": "小林さんちのメイドラゴン バレンタイン, そして温泉! (あまり期待しないでください)",
+                  "english": "Miss Kobayashi's Dragon Maid: Valentines and Hot Springs! (Please Don't Get Your Hopes Up)"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 21416,
+              "status": "COMPLETED",
+              "progress": 6,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 24
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 24
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 31772,
+                "title": {
+                  "romaji": "One Punch Man OVA",
+                  "native": "ワンパンマン OVA",
+                  "english": "One-Punch Man OVA"
+                }
+              },
+              "score": 7
+            },
+            {
+              "mediaId": 21386,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 24
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 24
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 31704,
+                "title": {
+                  "romaji": "One Punch Man: Road to Hero",
+                  "native": "ワンパンマン「ロード・トゥ・ヒーロー」",
+                  "english": null
+                }
+              },
+              "score": 8
+            },
+            {
+              "mediaId": 21215,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": " #Hentai",
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 28157,
+                "title": {
+                  "romaji": "Sei Brunehilde Gakuen Shoujo Kishidan to Junpaku no Panty THE ANIMATION",
+                  "native": "聖ブリュンヒルデ学園 少女騎士団と純白のパンティ THE ANIMATION",
+                  "english": null
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 104174,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 8
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 8
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 37492,
+                "title": {
+                  "romaji": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
+                  "native": "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン",
+                  "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism - Bittersweet Intermedio"
+                }
+              },
+              "score": 8
+            },
+            {
+              "mediaId": 21624,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 2
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 32188,
+                "title": {
+                  "romaji": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+                  "native": "シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-",
+                  "english": "Steins;Gate 0: 23β- Divide by Zero"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 10863,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 12,
+                "day": 30
+              },
+              "completedAt": {
+                "year": 2021,
+                "month": 12,
+                "day": 30
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 10863,
+                "title": {
+                  "romaji": "Steins;Gate: Oukoubakko no Poriomania",
+                  "native": "シュタインズ・ゲート 横行跋扈のポリオマニア",
+                  "english": "Steins;Gate: Egoistic Poriomania"
+                }
+              },
+              "score": 9
+            }
+          ]
+        },
+        {
+          "name": "Completed Movie",
+          "isCustomList": false,
+          "isSplitCompletedList": true,
+          "entries": [
+            {
+              "mediaId": 9617,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 12,
+                "day": 16
+              },
+              "completedAt": {
+                "year": 2021,
+                "month": 12,
+                "day": 16
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 9617,
+                "title": {
+                  "romaji": "K-ON! Movie",
+                  "native": "映画けいおん！",
+                  "english": "K-ON!: The Movie"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 112151,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 9,
+                "day": 9
+              },
+              "completedAt": {
+                "year": 2021,
+                "month": 9,
+                "day": 9
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 40456,
+                "title": {
+                  "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen",
+                  "native": "鬼滅の刃 無限列車編",
+                  "english": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 21519,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 7,
+                "day": 3
+              },
+              "completedAt": {
+                "year": 2021,
+                "month": 7,
+                "day": 3
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 32281,
+                "title": {
+                  "romaji": "Kimi no Na wa.",
+                  "native": "君の名は。",
+                  "english": "Your Name."
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 21875,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 20
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 20
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 33674,
+                "title": {
+                  "romaji": "No Game No Life Zero",
+                  "native": "ノーゲーム・ノーライフ ゼロ",
+                  "english": "No Game, No Life Zero"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 104157,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 5,
+                "day": 26
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 5,
+                "day": 26
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 38329,
+                "title": {
+                  "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+                  "native": "青春ブタ野郎はゆめみる少女の夢を見ない",
+                  "english": "Rascal Does Not Dream of a Dreaming Girl"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 11577,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 12,
+                "day": 31
+              },
+              "completedAt": {
+                "year": 2021,
+                "month": 12,
+                "day": 31
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 11577,
+                "title": {
+                  "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+                  "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ",
+                  "english": "Steins;Gate The Movie – Load Region of Déjà Vu"
+                }
+              },
+              "score": 9
+            }
+          ]
+        },
+        {
+          "name": "Completed Special",
+          "isCustomList": false,
+          "isSplitCompletedList": true,
+          "entries": [
+            {
+              "mediaId": 20769,
+              "status": "COMPLETED",
+              "progress": 6,
+              "repeat": 0,
+              "notes": "Did I just straight up watched Safe For Work hentai? Even NGNL doesn't have that much!",
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 23
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 23
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 24991,
+                "title": {
+                  "romaji": "No Game No Life Specials",
+                  "native": "ノーゲーム・ノーライフ ミニ",
+                  "english": "No Game No Life Specials"
+                }
+              },
+              "score": 6
+            }
+          ]
+        },
+        {
+          "name": "Completed ONA",
+          "isCustomList": false,
+          "isSplitCompletedList": true,
+          "entries": [
+            {
+              "mediaId": 113417,
+              "status": "COMPLETED",
+              "progress": 8,
+              "repeat": 0,
+              "notes": " #Hentai",
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 40746,
+                "title": {
+                  "romaji": "Overflow",
+                  "native": "おーばーふろぉ",
+                  "english": null
+                }
+              },
+              "score": 8
+            },
+            {
+              "mediaId": 126403,
+              "status": "COMPLETED",
+              "progress": 11,
+              "repeat": 0,
+              "notes": "Damn it! Why cliffhanger?! :'(",
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 2,
+                "day": 9
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 2,
+                "day": 11
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 44074,
+                "title": {
+                  "romaji": "Shiguang Dailiren",
+                  "native": "时光代理人",
+                  "english": "LINK CLICK"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 136145,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": "It is so wholesome! I liked it! :')",
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 2,
+                "day": 11
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 2,
+                "day": 11
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 49200,
+                "title": {
+                  "romaji": "Shiguang Dailiren Special",
+                  "native": "时光代理人 番外篇",
+                  "english": "LINK CLICK Episode 5.5"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 20907,
+              "status": "COMPLETED",
+              "progress": 4,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 8
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 8
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 27957,
+                "title": {
+                  "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+                  "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング",
+                  "english": null
+                }
+              },
+              "score": 8
+            },
+            {
+              "mediaId": 141014,
+              "status": "COMPLETED",
+              "progress": 12,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 4,
+                "day": 9
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 6,
+                "day": 25
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 50273,
+                "title": {
+                  "romaji": "Tomodachi Game",
+                  "native": "トモダチゲーム",
+                  "english": "Tomodachi Game"
+                }
+              },
+              "score": 8
             }
           ]
         }

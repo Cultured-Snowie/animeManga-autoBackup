@@ -5,11 +5,11 @@
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
         <user_total_manga>59</user_total_manga>
-        <user_total_reading>29</user_total_reading>
+        <user_total_reading>31</user_total_reading>
         <user_total_completed>7</user_total_completed>
         <user_total_onhold>2</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
-        <user_total_plantoread>21</user_total_plantoread>
+        <user_total_plantoread>19</user_total_plantoread>
     </myinfo>
 
     <!--
@@ -28,7 +28,7 @@
         <manga_chapters>705</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>301</my_read_chapters>
+        <my_read_chapters>379</my_read_chapters>
         <my_start_date>2021-06-30</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -128,7 +128,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>12</my_read_volumes>
-        <my_read_chapters>1057</my_read_chapters>
+        <my_read_chapters>1060</my_read_chapters>
         <my_start_date>2021-07-01</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -190,6 +190,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>1</my_read_chapters>
         <my_start_date>2022-01-14</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>656</manga_mangadb_id>
+        <manga_title><![CDATA[Vagabond]]></manga_title>
+        <manga_volumes>37</manga_volumes>
+        <manga_chapters>327</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>5</my_read_chapters>
+        <my_start_date>2022-09-18</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -588,8 +608,28 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>4</my_read_chapters>
+        <my_read_chapters>5</my_read_chapters>
         <my_start_date>2022-09-17</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>31499</manga_mangadb_id>
+        <manga_title><![CDATA[Nisekoi]]></manga_title>
+        <manga_volumes>25</manga_volumes>
+        <manga_chapters>229</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>29</my_read_chapters>
+        <my_start_date>2022-09-18</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -922,26 +962,6 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
-        <manga_mangadb_id>656</manga_mangadb_id>
-        <manga_title><![CDATA[Vagabond]]></manga_title>
-        <manga_volumes>37</manga_volumes>
-        <manga_chapters>327</manga_chapters>
-        <my_id></my_id>
-        <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>0</my_read_chapters>
-        <my_start_date>0000-00-00</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
-        <my_score>0</my_score>
-        <my_storage></my_storage>
-        <my_status>Plan to Read</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_read>0</my_times_read>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_reread_value></my_reread_value>
-        <update_on_import>1</update_on_import>
-    </manga>
-    <manga>
         <manga_mangadb_id>51</manga_mangadb_id>
         <manga_title><![CDATA[Slam Dunk]]></manga_title>
         <manga_volumes>31</manga_volumes>
@@ -1166,26 +1186,6 @@
         <manga_title><![CDATA[Fire Punch]]></manga_title>
         <manga_volumes>8</manga_volumes>
         <manga_chapters>83</manga_chapters>
-        <my_id></my_id>
-        <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>0</my_read_chapters>
-        <my_start_date>0000-00-00</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
-        <my_score>0</my_score>
-        <my_storage></my_storage>
-        <my_status>Plan to Read</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_read>0</my_times_read>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_reread_value></my_reread_value>
-        <update_on_import>1</update_on_import>
-    </manga>
-    <manga>
-        <manga_mangadb_id>31499</manga_mangadb_id>
-        <manga_title><![CDATA[Nisekoi]]></manga_title>
-        <manga_volumes>25</manga_volumes>
-        <manga_chapters>229</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>0</my_read_chapters>

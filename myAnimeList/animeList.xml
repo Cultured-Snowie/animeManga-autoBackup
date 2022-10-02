@@ -4,12 +4,12 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>195</user_total_anime>
-        <user_total_watching>10</user_total_watching>
-        <user_total_completed>104</user_total_completed>
-        <user_total_onhold>20</user_total_onhold>
+        <user_total_anime>207</user_total_anime>
+        <user_total_watching>8</user_total_watching>
+        <user_total_completed>110</user_total_completed>
+        <user_total_onhold>21</user_total_onhold>
         <user_total_dropped>2</user_total_dropped>
-        <user_total_plantowatch>59</user_total_plantowatch>
+        <user_total_plantowatch>66</user_total_plantowatch>
     </myinfo>
 
 
@@ -36,13 +36,13 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
-        <series_animedb_id>48553</series_animedb_id>
-        <series_title><![CDATA[Akebi-chan no Sailor-fuku]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>12</series_episodes>
+        <series_animedb_id>42310</series_animedb_id>
+        <series_title><![CDATA[Cyberpunk: Edgerunners]]></series_title>
+        <series_type>ONA</series_type>
+        <series_episodes>10</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>7</my_watched_episodes>
-        <my_start_date>2022-01-26</my_start_date>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>2022-09-29</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -58,35 +58,13 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
-        <series_animedb_id>10087</series_animedb_id>
-        <series_title><![CDATA[Fate/Zero]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>13</series_episodes>
+        <series_animedb_id>12729</series_animedb_id>
+        <series_title><![CDATA[High School DxD OVA]]></series_title>
+        <series_type>OVA</series_type>
+        <series_episodes>2</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>3</my_watched_episodes>
-        <my_start_date>2022-05-08</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>50709</series_animedb_id>
-        <series_title><![CDATA[Lycoris Recoil]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>13</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>9</my_watched_episodes>
-        <my_start_date>2022-07-16</my_start_date>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>2022-10-01</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -173,7 +151,7 @@
         <series_type>TV</series_type>
         <series_episodes>0</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>125</my_watched_episodes>
+        <my_watched_episodes>126</my_watched_episodes>
         <my_start_date>2021-06-16</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -190,35 +168,13 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
-        <series_animedb_id>13601</series_animedb_id>
-        <series_title><![CDATA[Psycho-Pass]]></series_title>
+        <series_animedb_id>23233</series_animedb_id>
+        <series_title><![CDATA[Shinmai Maou no Testament]]></series_title>
         <series_type>TV</series_type>
-        <series_episodes>22</series_episodes>
+        <series_episodes>12</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>1</my_watched_episodes>
-        <my_start_date>2022-09-11</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>47194</series_animedb_id>
-        <series_title><![CDATA[Summertime Render]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>25</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>19</my_watched_episodes>
-        <my_start_date>2022-05-14</my_start_date>
+        <my_start_date>2022-09-30</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -288,6 +244,28 @@
         <my_finish_date>2021-09-02</my_finish_date>
         <my_rated></my_rated>
         <my_score>7</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>48553</series_animedb_id>
+        <series_title><![CDATA[Akebi-chan no Sailor-fuku]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>12</my_watched_episodes>
+        <my_start_date>2022-01-26</my_start_date>
+        <my_finish_date>2022-09-26</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>8</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -696,6 +674,50 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>11617</series_animedb_id>
+        <series_title><![CDATA[High School DxD]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>12</my_watched_episodes>
+        <my_start_date>2022-10-01</my_start_date>
+        <my_finish_date>2022-10-01</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>8</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>13357</series_animedb_id>
+        <series_title><![CDATA[High School DxD Specials]]></series_title>
+        <series_type>Special</series_type>
+        <series_episodes>6</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>6</my_watched_episodes>
+        <my_start_date>2022-10-01</my_start_date>
+        <my_finish_date>2022-10-01</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>22429</series_animedb_id>
         <series_title><![CDATA[Itadaki! Seieki♥]]></series_title>
         <series_type>OVA</series_type>
@@ -1057,7 +1079,7 @@
         <my_start_date>2022-09-15</my_start_date>
         <my_finish_date>2022-09-17</my_finish_date>
         <my_rated></my_rated>
-        <my_score>0</my_score>
+        <my_score>8</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -1278,6 +1300,28 @@
         <my_finish_date>2022-04-01</my_finish_date>
         <my_rated></my_rated>
         <my_score>8</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>50709</series_animedb_id>
+        <series_title><![CDATA[Lycoris Recoil]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>13</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>13</my_watched_episodes>
+        <my_start_date>2022-07-16</my_start_date>
+        <my_finish_date>2022-09-25</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>4</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -2368,6 +2412,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>47194</series_animedb_id>
+        <series_title><![CDATA[Summertime Render]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>25</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>25</my_watched_episodes>
+        <my_start_date>2022-05-14</my_start_date>
+        <my_finish_date>2022-09-30</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>9</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>35790</series_animedb_id>
         <series_title><![CDATA[Tate no Yuusha no Nariagari]]></series_title>
         <series_type>TV</series_type>
@@ -2464,6 +2530,28 @@
         <my_watched_episodes>12</my_watched_episodes>
         <my_start_date>2022-06-10</my_start_date>
         <my_finish_date>2022-09-05</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>8</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>51096</series_animedb_id>
+        <series_title><![CDATA[Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>13</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>13</my_watched_episodes>
+        <my_start_date>2022-09-26</my_start_date>
+        <my_finish_date>2022-09-27</my_finish_date>
         <my_rated></my_rated>
         <my_score>8</my_score>
         <my_dvd></my_dvd>
@@ -2683,6 +2771,28 @@
         <my_id>0</my_id>
         <my_watched_episodes>5</my_watched_episodes>
         <my_start_date>2021-06-28</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>On-Hold</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>10087</series_animedb_id>
+        <series_title><![CDATA[Fate/Zero]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>13</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>3</my_watched_episodes>
+        <my_start_date>2022-05-08</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -3028,6 +3138,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>49979</series_animedb_id>
+        <series_title><![CDATA[Akuyaku Reijou nanode Last Boss wo Kattemimashita]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>24833</series_animedb_id>
         <series_title><![CDATA[Ansatsu Kyoushitsu]]></series_title>
         <series_type>TV</series_type>
@@ -3138,10 +3270,54 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>41467</series_animedb_id>
+        <series_title><![CDATA[Bleach: Sennen Kessen-hen]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>49596</series_animedb_id>
+        <series_title><![CDATA[Blue Lock]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>24</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>49918</series_animedb_id>
         <series_title><![CDATA[Boku no Hero Academia 6th Season]]></series_title>
         <series_type>TV</series_type>
-        <series_episodes>0</series_episodes>
+        <series_episodes>25</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
@@ -3468,28 +3644,6 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
-        <series_animedb_id>11617</series_animedb_id>
-        <series_title><![CDATA[High School DxD]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>12</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>0</my_watched_episodes>
-        <my_start_date>0000-00-00</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Plan to Watch</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
         <series_animedb_id>35413</series_animedb_id>
         <series_title><![CDATA[Imouto sae Ireba Ii.]]></series_title>
         <series_type>TV</series_type>
@@ -3516,6 +3670,28 @@
         <series_title><![CDATA[JoJo no Kimyou na Bouken Part 6: Stone Ocean]]></series_title>
         <series_type>ONA</series_type>
         <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>48316</series_animedb_id>
+        <series_title><![CDATA[Kage no Jitsuryokusha ni Naritakute!]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>20</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
@@ -3820,6 +3996,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>50172</series_animedb_id>
+        <series_title><![CDATA[Mob Psycho 100 III]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>41619</series_animedb_id>
         <series_title><![CDATA[Munou na Nana]]></series_title>
         <series_type>TV</series_type>
@@ -3996,6 +4194,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>13601</series_animedb_id>
+        <series_title><![CDATA[Psycho-Pass]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>22</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>30296</series_animedb_id>
         <series_title><![CDATA[Rakudai Kishi no Cavalry]]></series_title>
         <series_type>TV</series_type>
@@ -4150,6 +4370,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>50602</series_animedb_id>
+        <series_title><![CDATA[Spy x Family Part 2]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>13</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>48556</series_animedb_id>
         <series_title><![CDATA[Takt Op. Destiny]]></series_title>
         <series_type>TV</series_type>
@@ -4218,6 +4460,28 @@
     <anime>
         <series_animedb_id>14227</series_animedb_id>
         <series_title><![CDATA[Tonari no Kaibutsu-kun]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>13</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>49533</series_animedb_id>
+        <series_title><![CDATA[Uchi no Shishou wa Shippo ga Nai]]></series_title>
         <series_type>TV</series_type>
         <series_episodes>13</series_episodes>
         <my_id>0</my_id>

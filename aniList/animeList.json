@@ -160,6 +160,44 @@
               "score": 0
             },
             {
+              "mediaId": 11617,
+              "status": "CURRENT",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 9,
+                "day": 30
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1664546525,
+              "createdAt": 0,
+              "media": {
+                "idMal": 11617,
+                "title": {
+                  "romaji": "High School DxD",
+                  "native": "ハイスクールD×D",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 143270,
               "status": "CURRENT",
               "progress": 8,
@@ -1264,44 +1302,6 @@
                   "romaji": "Hanasaku Iroha",
                   "native": "花咲くいろは",
                   "english": "Hanasaku Iroha ~Blossoms for Tomorrow~"
-                }
-              },
-              "score": 0
-            },
-            {
-              "mediaId": 11617,
-              "status": "PLANNING",
-              "progress": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 11617,
-                "title": {
-                  "romaji": "High School DxD",
-                  "native": "ハイスクールD×D",
-                  "english": null
                 }
               },
               "score": 0

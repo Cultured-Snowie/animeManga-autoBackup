@@ -1024,7 +1024,7 @@
             {
               "mediaId": 114416,
               "status": "CURRENT",
-              "progress": 5,
+              "progress": 10,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -1048,7 +1048,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1663494972,
+              "updatedAt": 1664269617,
               "createdAt": 1663255823,
               "media": {
                 "idMal": 123681,
@@ -1095,6 +1095,123 @@
                   "romaji": "Nisekoi",
                   "native": "ニセコイ",
                   "english": "Nisekoi: False Love"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30009,
+              "status": "CURRENT",
+              "progress": 5,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 10,
+                "day": 2
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1664645555,
+              "createdAt": 1664342710,
+              "media": {
+                "idMal": 9,
+                "title": {
+                  "romaji": "Tsubasa: RESERVoir CHRoNiCLE",
+                  "native": "ツバサ -RESERVoir CHRoNiCLE-",
+                  "english": "Tsubasa RESERVoir CHRoNiCLE"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 114630,
+              "status": "CURRENT",
+              "progress": 25,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 9,
+                "day": 30
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1664556825,
+              "createdAt": 1664540474,
+              "media": {
+                "idMal": null,
+                "title": {
+                  "romaji": "Aru Droid no Ohanashi",
+                  "native": "あるドロイドのおはなし",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 144207,
+              "status": "CURRENT",
+              "progress": 5,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1664557012,
+              "createdAt": 1664556991,
+              "media": {
+                "idMal": null,
+                "title": {
+                  "romaji": "Dakkou Suru made Ochimasen",
+                  "native": "脱稿するまでオチません",
+                  "english": null
                 }
               },
               "score": 0

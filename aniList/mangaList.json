@@ -244,7 +244,7 @@
             {
               "mediaId": 85486,
               "status": "CURRENT",
-              "progress": 362,
+              "progress": 368,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -268,7 +268,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 0,
+              "updatedAt": 1664713263,
               "createdAt": 0,
               "media": {
                 "idMal": 75989,
@@ -946,7 +946,7 @@
             {
               "mediaId": 112830,
               "status": "CURRENT",
-              "progress": 22,
+              "progress": 23,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -970,7 +970,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1662705011,
+              "updatedAt": 1664858247,
               "createdAt": 1661997606,
               "media": {
                 "idMal": 121484,
@@ -1211,6 +1211,162 @@
                 "title": {
                   "romaji": "Dakkou Suru made Ochimasen",
                   "native": "脱稿するまでオチません",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 136449,
+              "status": "CURRENT",
+              "progress": 8,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 10,
+                "day": 3
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1664857339,
+              "createdAt": 1664802861,
+              "media": {
+                "idMal": 138347,
+                "title": {
+                  "romaji": "Musubime Nemuri wa Shitekure na Kumo Nai",
+                  "native": "結目ねむりはシテくれなくもない",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 121762,
+              "status": "CURRENT",
+              "progress": 6,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 10,
+                "day": 8
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1665244560,
+              "createdAt": 1665092977,
+              "media": {
+                "idMal": 127694,
+                "title": {
+                  "romaji": "Negai wo Kanaete Moraou to Akuma wo Shoukan Shita kedo, Kawaikatta node Kekkon Shimashita: Akuma no Niizuma",
+                  "native": "願いを叶えてもらおうと悪魔を召喚したけど、可愛かったので結婚しました　～悪魔の新妻～",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 122364,
+              "status": "CURRENT",
+              "progress": 30,
+              "progressVolumes": 4,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 10,
+                "day": 8
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1665251004,
+              "createdAt": 1665249279,
+              "media": {
+                "idMal": 128634,
+                "title": {
+                  "romaji": "Inu ni Nattara Suki na Hito ni Hirowareta.",
+                  "native": "犬になったら好きな人に拾われた。",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 113714,
+              "status": "CURRENT",
+              "progress": 17,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 10,
+                "day": 9
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1665253543,
+              "createdAt": 1665251684,
+              "media": {
+                "idMal": 123129,
+                "title": {
+                  "romaji": "Senpai ga Boku wo Torinikiteru",
+                  "native": "先輩が僕を殺(ト)りにきてる",
                   "english": null
                 }
               },

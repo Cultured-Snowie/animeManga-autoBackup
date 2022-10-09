@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>60</user_total_manga>
-        <user_total_reading>31</user_total_reading>
+        <user_total_manga>62</user_total_manga>
+        <user_total_reading>33</user_total_reading>
         <user_total_completed>7</user_total_completed>
         <user_total_onhold>2</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
@@ -84,7 +84,7 @@
     </manga>
     <manga>
         <manga_mangadb_id>11</manga_mangadb_id>
-        <manga_title><![CDATA[Naruto]]></manga_title>
+        <manga_title><![CDATA[NARUTO]]></manga_title>
         <manga_volumes>72</manga_volumes>
         <manga_chapters>700</manga_chapters>
         <my_id></my_id>
@@ -589,7 +589,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>22</my_read_chapters>
+        <my_read_chapters>23</my_read_chapters>
         <my_start_date>2022-09-05</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -631,6 +631,46 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>29</my_read_chapters>
         <my_start_date>2022-09-18</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>138347</manga_mangadb_id>
+        <manga_title><![CDATA[Musubime Nemuri wa Shitekure na Kumo Nai]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>8</my_read_chapters>
+        <my_start_date>2022-10-04</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>127694</manga_mangadb_id>
+        <manga_title><![CDATA[Negai wo Kanaete Moraou to Akuma wo Shoukan Shita Kedo, Kawaikatta Node Kekkon Shimashita: Akuma no Niizuma]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>6</my_read_chapters>
+        <my_start_date>2022-10-08</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>

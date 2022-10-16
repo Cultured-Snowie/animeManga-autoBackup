@@ -1371,6 +1371,123 @@
                 }
               },
               "score": 0
+            },
+            {
+              "mediaId": 115993,
+              "status": "CURRENT",
+              "progress": 8,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 10,
+                "day": 9
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1665314393,
+              "createdAt": 1665311992,
+              "media": {
+                "idMal": 129868,
+                "title": {
+                  "romaji": "Misetagari no Tsuyuno-chan",
+                  "native": "見せたがりの露乃ちゃん",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 143516,
+              "status": "CURRENT",
+              "progress": 24,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 10,
+                "day": 11
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1665471844,
+              "createdAt": 1665471812,
+              "media": {
+                "idMal": 142629,
+                "title": {
+                  "romaji": "Exorcist wo Otosenai",
+                  "native": "エクソシストを堕とせない",
+                  "english": "Make the Exorcist Fall in Love"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30336,
+              "status": "CURRENT",
+              "progress": 1,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 10,
+                "day": 15
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1665851051,
+              "createdAt": 1665851051,
+              "media": {
+                "idMal": 336,
+                "title": {
+                  "romaji": "GTO",
+                  "native": "GTO",
+                  "english": "GTO: Great Teacher Onizuka"
+                }
+              },
+              "score": 0
             }
           ]
         },

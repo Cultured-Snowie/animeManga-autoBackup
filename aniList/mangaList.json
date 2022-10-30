@@ -1488,6 +1488,45 @@
                 }
               },
               "score": 0
+            },
+            {
+              "mediaId": 98543,
+              "status": "CURRENT",
+              "progress": 2,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 10,
+                "day": 29
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1667058886,
+              "createdAt": 1667058526,
+              "media": {
+                "idMal": 105029,
+                "title": {
+                  "romaji": "Parallel Paradise",
+                  "native": "パラレルパラダイス",
+                  "english": "Parallel Paradise"
+                }
+              },
+              "score": 0
             }
           ]
         },

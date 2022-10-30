@@ -4,12 +4,12 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>214</user_total_anime>
-        <user_total_watching>22</user_total_watching>
-        <user_total_completed>111</user_total_completed>
+        <user_total_anime>221</user_total_anime>
+        <user_total_watching>23</user_total_watching>
+        <user_total_completed>113</user_total_completed>
         <user_total_onhold>21</user_total_onhold>
         <user_total_dropped>2</user_total_dropped>
-        <user_total_plantowatch>58</user_total_plantowatch>
+        <user_total_plantowatch>62</user_total_plantowatch>
     </myinfo>
 
 
@@ -41,7 +41,7 @@
         <series_type>TV</series_type>
         <series_episodes>0</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>3</my_watched_episodes>
+        <my_watched_episodes>5</my_watched_episodes>
         <my_start_date>2022-10-02</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -256,6 +256,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>32949</series_animedb_id>
+        <series_title><![CDATA[Kuzu no Honkai]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>10620</series_animedb_id>
         <series_title><![CDATA[Mirai Nikki (TV)]]></series_title>
         <series_type>TV</series_type>
@@ -327,7 +349,7 @@
         <series_type>TV</series_type>
         <series_episodes>0</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>1035</my_watched_episodes>
+        <my_watched_episodes>1037</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -349,7 +371,7 @@
         <series_type>TV</series_type>
         <series_episodes>0</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>128</my_watched_episodes>
+        <my_watched_episodes>130</my_watched_episodes>
         <my_start_date>2021-06-16</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -415,7 +437,7 @@
         <series_type>TV</series_type>
         <series_episodes>14</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>2</my_watched_episodes>
+        <my_watched_episodes>4</my_watched_episodes>
         <my_start_date>2022-10-21</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -1532,6 +1554,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>28851</series_animedb_id>
+        <series_title><![CDATA[Koe no Katachi]]></series_title>
+        <series_type>Movie</series_type>
+        <series_episodes>1</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>9</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>48643</series_animedb_id>
         <series_title><![CDATA[Koi wa Sekai Seifuku no Ato de]]></series_title>
         <series_type>TV</series_type>
@@ -2517,6 +2561,28 @@
         <my_times_watched>0</my_times_watched>
         <my_rewatch_value>Low</my_rewatch_value>
         <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>32587</series_animedb_id>
+        <series_title><![CDATA[Shoujo Ramune]]></series_title>
+        <series_type>OVA</series_type>
+        <series_episodes>4</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>4</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>6</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[Hentai]]></my_tags>
         <my_rewatching>0</my_rewatching>
         <my_rewatching_ep>0</my_rewatching_ep>
         <update_on_import>1</update_on_import>
@@ -3732,6 +3798,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>37405</series_animedb_id>
+        <series_title><![CDATA[Dokidoki Little Ooyasan]]></series_title>
+        <series_type>OVA</series_type>
+        <series_episodes>6</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[Hentai]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>813</series_animedb_id>
         <series_title><![CDATA[Dragon Ball Z]]></series_title>
         <series_type>TV</series_type>
@@ -3815,6 +3903,28 @@
         <my_times_watched>0</my_times_watched>
         <my_rewatch_value>Low</my_rewatch_value>
         <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>39042</series_animedb_id>
+        <series_title><![CDATA[Gaki ni Modotte Yarinaoshi!!!]]></series_title>
+        <series_type>ONA</series_type>
+        <series_episodes>2</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[Hentai]]></my_tags>
         <my_rewatching>0</my_rewatching>
         <my_rewatching_ep>0</my_rewatching_ep>
         <update_on_import>1</update_on_import>
@@ -4392,6 +4502,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>36889</series_animedb_id>
+        <series_title><![CDATA[Oyasumi Sex]]></series_title>
+        <series_type>OVA</series_type>
+        <series_episodes>4</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[Hentai]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>27775</series_animedb_id>
         <series_title><![CDATA[Plastic Memories]]></series_title>
         <series_type>TV</series_type>
@@ -4541,6 +4673,28 @@
         <my_times_watched>0</my_times_watched>
         <my_rewatch_value>Low</my_rewatch_value>
         <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>49944</series_animedb_id>
+        <series_title><![CDATA[Shishunki no Obenkyou]]></series_title>
+        <series_type>OVA</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[Hentai]]></my_tags>
         <my_rewatching>0</my_rewatching>
         <my_rewatching_ep>0</my_rewatching_ep>
         <update_on_import>1</update_on_import>

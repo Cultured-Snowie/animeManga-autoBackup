@@ -160,6 +160,44 @@
               "score": 0
             },
             {
+              "mediaId": 137822,
+              "status": "CURRENT",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 49596,
+                "title": {
+                  "romaji": "Blue Lock",
+                  "native": "ブルーロック",
+                  "english": "BLUELOCK"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 139630,
               "status": "CURRENT",
               "progress": 2,
@@ -185,7 +223,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1665792972,
+              "updatedAt": 0,
               "createdAt": 0,
               "media": {
                 "idMal": 49918,
@@ -214,16 +252,16 @@
                 "Enjoyment": 0
               },
               "startedAt": {
-                "year": 2022,
-                "month": 10,
-                "day": 15
+                "year": null,
+                "month": null,
+                "day": null
               },
               "completedAt": {
                 "year": null,
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1665782985,
+              "updatedAt": 0,
               "createdAt": 0,
               "media": {
                 "idMal": 44511,
@@ -312,6 +350,82 @@
               "score": 0
             },
             {
+              "mediaId": 141949,
+              "status": "CURRENT",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 50425,
+                "title": {
+                  "romaji": "Fuufu Ijou, Koibito Miman.",
+                  "native": "夫婦以上、恋人未満。",
+                  "english": "More than a Married Couple, but Not Lovers."
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 130298,
+              "status": "CURRENT",
+              "progress": 2,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 48316,
+                "title": {
+                  "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+                  "native": "陰の実力者になりたくて！",
+                  "english": "The Eminence in Shadow"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 142701,
               "status": "CURRENT",
               "progress": 2,
@@ -337,7 +451,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1665784754,
+              "updatedAt": 0,
               "createdAt": 0,
               "media": {
                 "idMal": 50590,
@@ -345,6 +459,44 @@
                   "romaji": "Koukyuu no Karasu",
                   "native": "後宮の烏",
                   "english": "Raven of the Inner Palace"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 21701,
+              "status": "CURRENT",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 32949,
+                "title": {
+                  "romaji": "Kuzu no Honkai",
+                  "native": "クズの本懐",
+                  "english": "Scum's Wish"
                 }
               },
               "score": 0
@@ -383,6 +535,44 @@
                   "romaji": "Mirai Nikki",
                   "native": "未来日記",
                   "english": "The Future Diary"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 140439,
+              "status": "CURRENT",
+              "progress": 2,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 50172,
+                "title": {
+                  "romaji": "Mob Psycho 100 III",
+                  "native": "モブサイコ100 Ⅲ",
+                  "english": "Mob Psycho 100 III"
                 }
               },
               "score": 0
@@ -428,7 +618,7 @@
             {
               "mediaId": 21,
               "status": "CURRENT",
-              "progress": 1035,
+              "progress": 1037,
               "repeat": 0,
               "notes": null,
               "priority": 0,
@@ -466,7 +656,7 @@
             {
               "mediaId": 112153,
               "status": "CURRENT",
-              "progress": 128,
+              "progress": 129,
               "repeat": 0,
               "notes": null,
               "priority": 0,
@@ -489,7 +679,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1665793338,
+              "updatedAt": 0,
               "createdAt": 0,
               "media": {
                 "idMal": 40351,
@@ -578,6 +768,44 @@
               "score": 0
             },
             {
+              "mediaId": 849,
+              "status": "CURRENT",
+              "progress": 4,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 10,
+                "day": 21
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 849,
+                "title": {
+                  "romaji": "Suzumiya Haruhi no Yuuutsu",
+                  "native": "涼宮ハルヒの憂鬱",
+                  "english": "The Melancholy of Haruhi Suzumiya"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 137341,
               "status": "CURRENT",
               "progress": 3,
@@ -603,7 +831,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1665794971,
+              "updatedAt": 0,
               "createdAt": 0,
               "media": {
                 "idMal": 49533,
@@ -611,6 +839,44 @@
                   "romaji": "Uchi no Shishou wa Shippo ga Nai",
                   "native": "うちの師匠はしっぽがない",
                   "english": "My Master Has No Tail"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 143277,
+              "status": "CURRENT",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 50710,
+                "title": {
+                  "romaji": "Urusei Yatsura (2022)",
+                  "native": "うる星やつら (2022)",
+                  "english": "Urusei Yatsura (2022)"
                 }
               },
               "score": 0
@@ -922,44 +1188,6 @@
                   "romaji": "BLEACH: Sennen Kessen-hen",
                   "native": "BLEACH 千年血戦篇",
                   "english": "BLEACH: Thousand-Year Blood War"
-                }
-              },
-              "score": 0
-            },
-            {
-              "mediaId": 137822,
-              "status": "PLANNING",
-              "progress": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 49596,
-                "title": {
-                  "romaji": "Blue Lock",
-                  "native": "ブルーロック",
-                  "english": "BLUELOCK"
                 }
               },
               "score": 0
@@ -1497,44 +1725,6 @@
               "score": 0
             },
             {
-              "mediaId": 130298,
-              "status": "PLANNING",
-              "progress": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 48316,
-                "title": {
-                  "romaji": "Kage no Jitsuryokusha ni Naritakute!",
-                  "native": "陰の実力者になりたくて！",
-                  "english": "The Eminence in Shadow"
-                }
-              },
-              "score": 0
-            },
-            {
               "mediaId": 113311,
               "status": "PLANNING",
               "progress": 0,
@@ -2024,44 +2214,6 @@
                   "romaji": "Mieruko-chan",
                   "native": "見える子ちゃん",
                   "english": "Mieruko-chan"
-                }
-              },
-              "score": 0
-            },
-            {
-              "mediaId": 140439,
-              "status": "PLANNING",
-              "progress": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 50172,
-                "title": {
-                  "romaji": "Mob Psycho 100 III",
-                  "native": "モブサイコ100 Ⅲ",
-                  "english": "Mob Psycho 100 III"
                 }
               },
               "score": 0
@@ -7811,6 +7963,44 @@
                   "romaji": "Kimi no Na wa.",
                   "native": "君の名は。",
                   "english": "Your Name."
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 20954,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 28851,
+                "title": {
+                  "romaji": "Koe no Katachi",
+                  "native": "聲の形",
+                  "english": "A Silent Voice"
                 }
               },
               "score": 9

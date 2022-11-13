@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>223</user_total_anime>
-        <user_total_watching>25</user_total_watching>
+        <user_total_anime>224</user_total_anime>
+        <user_total_watching>26</user_total_watching>
         <user_total_completed>113</user_total_completed>
         <user_total_onhold>21</user_total_onhold>
         <user_total_dropped>2</user_total_dropped>
@@ -37,11 +37,11 @@
     </anime>
     <anime>
         <series_animedb_id>49979</series_animedb_id>
-        <series_title><![CDATA[Akuyaku Reijou nanode Last Boss wo Kattemimashita]]></series_title>
+        <series_title><![CDATA[Akuyaku Reijou nano de Last Boss wo Kattemimashita]]></series_title>
         <series_type>TV</series_type>
         <series_episodes>12</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>5</my_watched_episodes>
+        <my_watched_episodes>7</my_watched_episodes>
         <my_start_date>2022-10-02</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -349,7 +349,7 @@
         <series_type>TV</series_type>
         <series_episodes>0</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>2</my_watched_episodes>
+        <my_watched_episodes>5</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -393,7 +393,7 @@
         <series_type>TV</series_type>
         <series_episodes>0</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>1038</my_watched_episodes>
+        <my_watched_episodes>1039</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -415,7 +415,7 @@
         <series_type>TV</series_type>
         <series_episodes>0</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>130</my_watched_episodes>
+        <my_watched_episodes>131</my_watched_episodes>
         <my_start_date>2021-06-16</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -498,6 +498,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>37430</series_animedb_id>
+        <series_title><![CDATA[Tensei shitara Slime Datta Ken]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>24</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>2022-11-08</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>49533</series_animedb_id>
         <series_title><![CDATA[Uchi no Shishou wa Shippo ga Nai]]></series_title>
         <series_type>TV</series_type>
@@ -525,7 +547,7 @@
         <series_type>TV</series_type>
         <series_episodes>23</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>1</my_watched_episodes>
+        <my_watched_episodes>4</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -4128,6 +4150,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>49828</series_animedb_id>
+        <series_title><![CDATA[Kidou Senshi Gundam: Suisei no Majo]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>41379</series_animedb_id>
         <series_title><![CDATA[Kimi wa Kanata]]></series_title>
         <series_type>Movie</series_type>
@@ -4333,28 +4377,6 @@
         <my_id>0</my_id>
         <my_watched_episodes>1</my_watched_episodes>
         <my_start_date>2021-10-29</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Plan to Watch</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>49828</series_animedb_id>
-        <series_title><![CDATA[Mobile Suit Gundam: The Witch from Mercury]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>0</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>0</my_watched_episodes>
-        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>

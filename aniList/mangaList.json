@@ -1246,7 +1246,7 @@
               "updatedAt": 1664557012,
               "createdAt": 1664556991,
               "media": {
-                "idMal": null,
+                "idMal": 153690,
                 "title": {
                   "romaji": "Dakkou Suru made Ochimasen",
                   "native": "脱稿するまでオチません",
@@ -1570,8 +1570,8 @@
             {
               "mediaId": 74929,
               "status": "CURRENT",
-              "progress": 1,
-              "progressVolumes": 0,
+              "progress": 8,
+              "progressVolumes": 2,
               "repeat": 0,
               "notes": null,
               "priority": 0,
@@ -1594,7 +1594,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1668009545,
+              "updatedAt": 1669254211,
               "createdAt": 1668009184,
               "media": {
                 "idMal": 44929,
@@ -1641,6 +1641,45 @@
                   "romaji": "Musume ja Nakute Mama ga Suki nano!?",
                   "native": "娘じゃなくて私が好きなの!? ",
                   "english": "You Like Me, Not My Daughter?! "
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 126078,
+              "status": "CURRENT",
+              "progress": 5,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 11,
+                "day": 24
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1669306856,
+              "createdAt": 1669301098,
+              "media": {
+                "idMal": 131255,
+                "title": {
+                  "romaji": "Tensei gotoki de Nigerareru to demo, Nii-san?",
+                  "native": "転生ごときで逃げられるとでも、兄さん？",
+                  "english": null
                 }
               },
               "score": 0
@@ -2984,6 +3023,45 @@
                 }
               },
               "score": 0
+            },
+            {
+              "mediaId": 105684,
+              "status": "COMPLETED",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 11,
+                "day": 24
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 11,
+                "day": 24
+              },
+              "updatedAt": 1669307638,
+              "createdAt": 1669307015,
+              "media": {
+                "idMal": 121891,
+                "title": {
+                  "romaji": "Machigatteita no wa Ore Dattan da.",
+                  "native": "間違っていたのは俺だったんだ。",
+                  "english": null
+                }
+              },
+              "score": 7
             }
           ]
         },

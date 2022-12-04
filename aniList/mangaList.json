@@ -985,7 +985,7 @@
             {
               "mediaId": 112830,
               "status": "CURRENT",
-              "progress": 23,
+              "progress": 24,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -1009,7 +1009,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1664858247,
+              "updatedAt": 1669557454,
               "createdAt": 1661997606,
               "media": {
                 "idMal": 121484,
@@ -3339,6 +3339,45 @@
                   "romaji": "Supyeongseon",
                   "native": "수평선",
                   "english": "The Horizon"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 85135,
+              "status": "COMPLETED",
+              "progress": 64,
+              "progressVolumes": 7,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 11,
+                "day": 28
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1669979115,
+              "createdAt": 1669652423,
+              "media": {
+                "idMal": 56805,
+                "title": {
+                  "romaji": "Koe no Katachi",
+                  "native": "聲の形",
+                  "english": "A Silent Voice"
                 }
               },
               "score": 9

@@ -3381,6 +3381,45 @@
                 }
               },
               "score": 9
+            },
+            {
+              "mediaId": 110926,
+              "status": "COMPLETED",
+              "progress": 12,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 12,
+                "day": 10
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 12,
+                "day": 10
+              },
+              "updatedAt": 1670657786,
+              "createdAt": 1670657759,
+              "media": {
+                "idMal": 131522,
+                "title": {
+                  "romaji": "Bacouple",
+                  "native": "バカップル",
+                  "english": null
+                }
+              },
+              "score": 7
             }
           ]
         },

@@ -1683,6 +1683,84 @@
                 }
               },
               "score": 0
+            },
+            {
+              "mediaId": 98354,
+              "status": "CURRENT",
+              "progress": 3,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 12,
+                "day": 18
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1671359210,
+              "createdAt": 1671358381,
+              "media": {
+                "idMal": 102785,
+                "title": {
+                  "romaji": "Ningyou no Kuni",
+                  "native": "人形の国",
+                  "english": "APOSIMZ"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 156621,
+              "status": "CURRENT",
+              "progress": 2,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 12,
+                "day": 18
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1671382633,
+              "createdAt": 1671382144,
+              "media": {
+                "idMal": 152487,
+                "title": {
+                  "romaji": "Isekai Danyuu: Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Full Katsuyou de Musou Danyuu ni Naru Hanashi",
+                  "native": "異世界男優～汁男優が異世界転生してエロ知識フル活用で無双男優になる話～",
+                  "english": null
+                }
+              },
+              "score": 0
             }
           ]
         },

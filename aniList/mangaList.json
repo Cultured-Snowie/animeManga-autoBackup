@@ -437,6 +437,45 @@
               "score": 0
             },
             {
+              "mediaId": 74489,
+              "status": "CURRENT",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1672337779,
+              "createdAt": 0,
+              "media": {
+                "idMal": 44489,
+                "title": {
+                  "romaji": "Houseki no Kuni",
+                  "native": "宝石の国",
+                  "english": "Land of the Lustrous"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 31706,
               "status": "CURRENT",
               "progress": 55,
@@ -978,6 +1017,45 @@
                   "romaji": "Vagabond",
                   "native": "バガボンド",
                   "english": "Vagabond"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 55250,
+              "status": "CURRENT",
+              "progress": 27,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 12,
+                "day": 31
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1672485814,
+              "createdAt": 0,
+              "media": {
+                "idMal": 25250,
+                "title": {
+                  "romaji": "The Voynich Hotel",
+                  "native": "ヴォイニッチホテル",
+                  "english": "The Voynich Hotel"
                 }
               },
               "score": 0
@@ -2238,45 +2316,6 @@
               "score": 0
             },
             {
-              "mediaId": 74489,
-              "status": "PLANNING",
-              "progress": 0,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 44489,
-                "title": {
-                  "romaji": "Houseki no Kuni",
-                  "native": "宝石の国",
-                  "english": "Land of the Lustrous"
-                }
-              },
-              "score": 0
-            },
-            {
               "mediaId": 97894,
               "status": "PLANNING",
               "progress": 0,
@@ -2818,45 +2857,6 @@
                   "romaji": "Totsukuni no Shoujo",
                   "native": "とつくにの少女",
                   "english": "The Girl From the Other Side: Siúil, a Rún"
-                }
-              },
-              "score": 0
-            },
-            {
-              "mediaId": 55250,
-              "status": "PLANNING",
-              "progress": 0,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 1662871331,
-              "createdAt": 0,
-              "media": {
-                "idMal": 25250,
-                "title": {
-                  "romaji": "The Voynich Hotel",
-                  "native": "ヴォイニッチホテル",
-                  "english": "The Voynich Hotel"
                 }
               },
               "score": 0

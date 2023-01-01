@@ -4,12 +4,12 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>232</user_total_anime>
-        <user_total_watching>23</user_total_watching>
-        <user_total_completed>125</user_total_completed>
+        <user_total_anime>233</user_total_anime>
+        <user_total_watching>21</user_total_watching>
+        <user_total_completed>129</user_total_completed>
         <user_total_onhold>20</user_total_onhold>
         <user_total_dropped>2</user_total_dropped>
-        <user_total_plantowatch>62</user_total_plantowatch>
+        <user_total_plantowatch>61</user_total_plantowatch>
     </myinfo>
 
 
@@ -21,6 +21,28 @@
         <my_id>0</my_id>
         <my_watched_episodes>4</my_watched_episodes>
         <my_start_date>2022-03-23</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>52193</series_animedb_id>
+        <series_title><![CDATA[Akiba Meido Sensou]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>2</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -87,28 +109,6 @@
         <my_id>0</my_id>
         <my_watched_episodes>2</my_watched_episodes>
         <my_start_date>2022-10-02</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>44511</series_animedb_id>
-        <series_title><![CDATA[Chainsaw Man]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>12</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>1</my_watched_episodes>
-        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -366,28 +366,6 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
-        <series_animedb_id>40351</series_animedb_id>
-        <series_title><![CDATA[Pokemon (2019)]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>136</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>133</my_watched_episodes>
-        <my_start_date>2021-06-16</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
         <series_animedb_id>23233</series_animedb_id>
         <series_title><![CDATA[Shinmai Maou no Testament]]></series_title>
         <series_type>TV</series_type>
@@ -395,28 +373,6 @@
         <my_id>0</my_id>
         <my_watched_episodes>4</my_watched_episodes>
         <my_start_date>2022-09-30</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>50602</series_animedb_id>
-        <series_title><![CDATA[Spy x Family Part 2]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>13</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>2</my_watched_episodes>
-        <my_start_date>2022-10-02</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -617,7 +573,7 @@
         <my_start_date>2022-10-02</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
-        <my_score>8</my_score>
+        <my_score>7</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -662,6 +618,28 @@
         <my_finish_date>2022-01-19</my_finish_date>
         <my_rated></my_rated>
         <my_score>7</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>47917</series_animedb_id>
+        <series_title><![CDATA[Bocchi the Rock!]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>12</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>6</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -794,6 +772,28 @@
         <my_finish_date>2022-04-28</my_finish_date>
         <my_rated></my_rated>
         <my_score>7</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>44511</series_animedb_id>
+        <series_title><![CDATA[Chainsaw Man]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>12</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>8</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -2192,6 +2192,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>40351</series_animedb_id>
+        <series_title><![CDATA[Pokemon (2019)]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>136</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>136</my_watched_episodes>
+        <my_start_date>2021-06-16</my_start_date>
+        <my_finish_date>2022-12-25</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>8</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>1564</series_animedb_id>
         <series_title><![CDATA[Pokemon Advanced Generation]]></series_title>
         <series_type>TV</series_type>
@@ -2773,7 +2795,29 @@
         <my_start_date>2022-04-10</my_start_date>
         <my_finish_date>2022-06-26</my_finish_date>
         <my_rated></my_rated>
-        <my_score>8</my_score>
+        <my_score>6</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>50602</series_animedb_id>
+        <series_title><![CDATA[Spy x Family Part 2]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>13</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>13</my_watched_episodes>
+        <my_start_date>2022-10-02</my_start_date>
+        <my_finish_date>2022-12-28</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>7</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -3890,28 +3934,6 @@
         <series_title><![CDATA[Bleach: Sennen Kessen-hen]]></series_title>
         <series_type>TV</series_type>
         <series_episodes>13</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>0</my_watched_episodes>
-        <my_start_date>0000-00-00</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Plan to Watch</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>47917</series_animedb_id>
-        <series_title><![CDATA[Bocchi the Rock!]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>12</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>

@@ -1804,7 +1804,7 @@
             {
               "mediaId": 156621,
               "status": "CURRENT",
-              "progress": 2,
+              "progress": 3,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -1828,7 +1828,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1671382633,
+              "updatedAt": 1672624825,
               "createdAt": 1671382144,
               "media": {
                 "idMal": 152487,

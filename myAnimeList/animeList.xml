@@ -4,12 +4,12 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>234</user_total_anime>
+        <user_total_anime>236</user_total_anime>
         <user_total_watching>22</user_total_watching>
         <user_total_completed>129</user_total_completed>
         <user_total_onhold>20</user_total_onhold>
         <user_total_dropped>2</user_total_dropped>
-        <user_total_plantowatch>61</user_total_plantowatch>
+        <user_total_plantowatch>63</user_total_plantowatch>
     </myinfo>
 
 
@@ -239,7 +239,7 @@
         <series_type>TV</series_type>
         <series_episodes>20</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>5</my_watched_episodes>
+        <my_watched_episodes>13</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -1427,7 +1427,7 @@
         <series_type>TV</series_type>
         <series_episodes>13</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>12</my_watched_episodes>
+        <my_watched_episodes>13</my_watched_episodes>
         <my_start_date>2022-04-30</my_start_date>
         <my_finish_date>2022-06-26</my_finish_date>
         <my_rated></my_rated>
@@ -3820,6 +3820,50 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>52034</series_animedb_id>
+        <series_title><![CDATA["Oshi no Ko"]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>31646</series_animedb_id>
+        <series_title><![CDATA[3-gatsu no Lion]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>22</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>24833</series_animedb_id>
         <series_title><![CDATA[Ansatsu Kyoushitsu]]></series_title>
         <series_type>TV</series_type>
@@ -4766,28 +4810,6 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
-        <series_animedb_id>52034</series_animedb_id>
-        <series_title><![CDATA[Oshi no Ko]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>0</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>0</my_watched_episodes>
-        <my_start_date>0000-00-00</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Plan to Watch</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
         <series_animedb_id>40834</series_animedb_id>
         <series_title><![CDATA[Ousama Ranking]]></series_title>
         <series_type>TV</series_type>
@@ -4814,6 +4836,28 @@
         <series_title><![CDATA[Plastic Memories]]></series_title>
         <series_type>TV</series_type>
         <series_episodes>13</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>53874</series_animedb_id>
+        <series_title><![CDATA[Pokemon: Mezase Pokemon Master]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>11</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>

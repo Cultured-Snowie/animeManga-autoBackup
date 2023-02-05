@@ -1843,7 +1843,7 @@
             {
               "mediaId": 30001,
               "status": "CURRENT",
-              "progress": 9,
+              "progress": 16,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -1867,7 +1867,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1674813393,
+              "updatedAt": 1675082156,
               "createdAt": 1674664479,
               "media": {
                 "idMal": 1,
@@ -1875,6 +1875,45 @@
                   "romaji": "MONSTER",
                   "native": "MONSTER",
                   "english": "Monster"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 102545,
+              "status": "CURRENT",
+              "progress": 31,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1675520973,
+              "createdAt": 1675163886,
+              "media": {
+                "idMal": 107776,
+                "title": {
+                  "romaji": "Kimi ni Aisarete Itakatta",
+                  "native": "君に愛されて痛かった",
+                  "english": null
                 }
               },
               "score": 0

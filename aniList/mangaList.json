@@ -985,8 +985,8 @@
             {
               "mediaId": 30656,
               "status": "CURRENT",
-              "progress": 5,
-              "progressVolumes": 0,
+              "progress": 23,
+              "progressVolumes": 1,
               "repeat": 0,
               "notes": null,
               "priority": 0,
@@ -1009,7 +1009,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1663495635,
+              "updatedAt": 1676130269,
               "createdAt": 0,
               "media": {
                 "idMal": 656,

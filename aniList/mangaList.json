@@ -1523,7 +1523,7 @@
                 "title": {
                   "romaji": "Misetagari no Tsuyuno-chan",
                   "native": "見せたがりの露乃ちゃん",
-                  "english": null
+                  "english": "Tsuyuno-chan Likes to Show Off"
                 }
               },
               "score": 0
@@ -1914,6 +1914,45 @@
                   "romaji": "Kimi ni Aisarete Itakatta",
                   "native": "君に愛されて痛かった",
                   "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 101177,
+              "status": "CURRENT",
+              "progress": 2,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 3,
+                "day": 16
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1679142759,
+              "createdAt": 1678972993,
+              "media": {
+                "idMal": 112589,
+                "title": {
+                  "romaji": "Tonikaku Kawaii",
+                  "native": "トニカクカワイイ",
+                  "english": "Fly Me to the Moon"
                 }
               },
               "score": 0

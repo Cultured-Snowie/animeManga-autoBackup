@@ -86,6 +86,45 @@
               "score": 0
             },
             {
+              "mediaId": 107100,
+              "status": "CURRENT",
+              "progress": 7,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1680097213,
+              "createdAt": 0,
+              "media": {
+                "idMal": 123365,
+                "title": {
+                  "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
+                  "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
+                  "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 117195,
               "status": "CURRENT",
               "progress": 10,
@@ -1022,45 +1061,6 @@
               "score": 0
             },
             {
-              "mediaId": 55250,
-              "status": "CURRENT",
-              "progress": 27,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 12,
-                "day": 31
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 1672485814,
-              "createdAt": 0,
-              "media": {
-                "idMal": 25250,
-                "title": {
-                  "romaji": "The Voynich Hotel",
-                  "native": "ヴォイニッチホテル",
-                  "english": "The Voynich Hotel"
-                }
-              },
-              "score": 0
-            },
-            {
               "mediaId": 112830,
               "status": "CURRENT",
               "progress": 24,
@@ -1960,14 +1960,14 @@
           ]
         },
         {
-          "name": "Planning",
+          "name": "Completed One Shot",
           "isCustomList": false,
-          "isSplitCompletedList": false,
+          "isSplitCompletedList": true,
           "entries": [
             {
-              "mediaId": 107100,
-              "status": "PLANNING",
-              "progress": 0,
+              "mediaId": 143690,
+              "status": "COMPLETED",
+              "progress": 1,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -1991,18 +1991,64 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1662871325,
+              "updatedAt": 0,
               "createdAt": 0,
               "media": {
-                "idMal": 123365,
+                "idMal": 143336,
                 "title": {
-                  "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
-                  "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
-                  "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!"
+                  "romaji": "AMONG US",
+                  "native": "AMONG US",
+                  "english": null
                 }
               },
               "score": 0
             },
+            {
+              "mediaId": 105684,
+              "status": "COMPLETED",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 11,
+                "day": 24
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 11,
+                "day": 24
+              },
+              "updatedAt": 1669307638,
+              "createdAt": 1669307015,
+              "media": {
+                "idMal": 121891,
+                "title": {
+                  "romaji": "Machigatteita no wa Ore Dattan da.",
+                  "native": "間違っていたのは俺だったんだ。",
+                  "english": null
+                }
+              },
+              "score": 7
+            }
+          ]
+        },
+        {
+          "name": "Planning",
+          "isCustomList": false,
+          "isSplitCompletedList": false,
+          "entries": [
             {
               "mediaId": 126722,
               "status": "PLANNING",
@@ -3176,91 +3222,6 @@
           ]
         },
         {
-          "name": "Completed One Shot",
-          "isCustomList": false,
-          "isSplitCompletedList": true,
-          "entries": [
-            {
-              "mediaId": 143690,
-              "status": "COMPLETED",
-              "progress": 1,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 143336,
-                "title": {
-                  "romaji": "AMONG US",
-                  "native": "AMONG US",
-                  "english": null
-                }
-              },
-              "score": 0
-            },
-            {
-              "mediaId": 105684,
-              "status": "COMPLETED",
-              "progress": 1,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 11,
-                "day": 24
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 11,
-                "day": 24
-              },
-              "updatedAt": 1669307638,
-              "createdAt": 1669307015,
-              "media": {
-                "idMal": 121891,
-                "title": {
-                  "romaji": "Machigatteita no wa Ore Dattan da.",
-                  "native": "間違っていたのは俺だったんだ。",
-                  "english": null
-                }
-              },
-              "score": 7
-            }
-          ]
-        },
-        {
           "name": "Completed Manga",
           "isCustomList": false,
           "isSplitCompletedList": true,
@@ -3537,6 +3498,45 @@
                 }
               },
               "score": 9
+            },
+            {
+              "mediaId": 55250,
+              "status": "COMPLETED",
+              "progress": 68,
+              "progressVolumes": 3,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 12,
+                "day": 31
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1680094348,
+              "createdAt": 0,
+              "media": {
+                "idMal": 25250,
+                "title": {
+                  "romaji": "The Voynich Hotel",
+                  "native": "ヴォイニッチホテル",
+                  "english": "The Voynich Hotel"
+                }
+              },
+              "score": 0
             },
             {
               "mediaId": 85135,

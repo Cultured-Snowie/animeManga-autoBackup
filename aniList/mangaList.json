@@ -88,7 +88,7 @@
             {
               "mediaId": 107100,
               "status": "CURRENT",
-              "progress": 7,
+              "progress": 17,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -112,7 +112,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1680097213,
+              "updatedAt": 1680603236,
               "createdAt": 0,
               "media": {
                 "idMal": 123365,
@@ -1789,7 +1789,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1671359210,
+              "updatedAt": 1680713840,
               "createdAt": 1671358381,
               "media": {
                 "idMal": 102785,
@@ -2466,7 +2466,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 0,
+              "updatedAt": 1680713749,
               "createdAt": 0,
               "media": {
                 "idMal": 10552,
@@ -3215,6 +3215,45 @@
                   "romaji": "Kubo-san wa Mob wo Yurusanai",
                   "native": "久保さんは僕を許さない",
                   "english": "Kubo Won't Let Me Be Invisible"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 53685,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1680713793,
+              "createdAt": 1680713793,
+              "media": {
+                "idMal": 23685,
+                "title": {
+                  "romaji": "Ookami no Kuchi: Wolfsmund",
+                  "native": "狼の口 ヴォルフスムント",
+                  "english": "Wolfsmund"
                 }
               },
               "score": 0

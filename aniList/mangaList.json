@@ -1718,7 +1718,7 @@
                 "title": {
                   "romaji": "Musume ja Nakute Mama ga Suki nano!?",
                   "native": "娘じゃなくて私が好きなの!? ",
-                  "english": "You Like Me, Not My Daughter?! "
+                  "english": "You Like Me, Not My Daughter?!"
                 }
               },
               "score": 0
@@ -1921,7 +1921,7 @@
             {
               "mediaId": 101177,
               "status": "CURRENT",
-              "progress": 2,
+              "progress": 6,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -1945,7 +1945,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1679142759,
+              "updatedAt": 1683393979,
               "createdAt": 1678972993,
               "media": {
                 "idMal": 112589,
@@ -1953,6 +1953,45 @@
                   "romaji": "Tonikaku Kawaii",
                   "native": "トニカクカワイイ",
                   "english": "Fly Me to the Moon"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 123657,
+              "status": "CURRENT",
+              "progress": 8,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 5,
+                "day": 6
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1683393430,
+              "createdAt": 1683382325,
+              "media": {
+                "idMal": 130029,
+                "title": {
+                  "romaji": "Tokyo Aliens",
+                  "native": "東京エイリアンズ",
+                  "english": "Tokyo Aliens"
                 }
               },
               "score": 0

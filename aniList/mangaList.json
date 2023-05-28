@@ -127,7 +127,7 @@
             {
               "mediaId": 117195,
               "status": "CURRENT",
-              "progress": 75,
+              "progress": 119,
               "progressVolumes": 1,
               "repeat": 0,
               "notes": null,
@@ -151,7 +151,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1684608897,
+              "updatedAt": 1685170543,
               "createdAt": 0,
               "media": {
                 "idMal": 126146,
@@ -1063,7 +1063,7 @@
             {
               "mediaId": 112830,
               "status": "CURRENT",
-              "progress": 24,
+              "progress": 26,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -1087,7 +1087,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1669557454,
+              "updatedAt": 1684823378,
               "createdAt": 1661997606,
               "media": {
                 "idMal": 121484,
@@ -1765,7 +1765,7 @@
             {
               "mediaId": 98354,
               "status": "CURRENT",
-              "progress": 3,
+              "progress": 11,
               "progressVolumes": 1,
               "repeat": 0,
               "notes": null,
@@ -1789,7 +1789,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1680713840,
+              "updatedAt": 1684909602,
               "createdAt": 1671358381,
               "media": {
                 "idMal": 102785,
@@ -1995,6 +1995,45 @@
                 }
               },
               "score": 0
+            },
+            {
+              "mediaId": 98858,
+              "status": "CURRENT",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 5,
+                "day": 27
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1685171267,
+              "createdAt": 1684806575,
+              "media": {
+                "idMal": 102980,
+                "title": {
+                  "romaji": "Watashi no Shounen",
+                  "native": "私の少年",
+                  "english": "My Boy"
+                }
+              },
+              "score": 0
             }
           ]
         },
@@ -2080,6 +2119,45 @@
                 }
               },
               "score": 7
+            },
+            {
+              "mediaId": 97812,
+              "status": "COMPLETED",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 5,
+                "day": 25
+              },
+              "completedAt": {
+                "year": 2023,
+                "month": 5,
+                "day": 25
+              },
+              "updatedAt": 1684999764,
+              "createdAt": 1684999741,
+              "media": {
+                "idMal": 102165,
+                "title": {
+                  "romaji": "Tokidoki",
+                  "native": "刻どキ",
+                  "english": "Toki Doki"
+                }
+              },
+              "score": 6
             }
           ]
         },
@@ -3689,6 +3767,84 @@
                 "title": {
                   "romaji": "Bacouple",
                   "native": "バカップル",
+                  "english": null
+                }
+              },
+              "score": 7
+            },
+            {
+              "mediaId": 38967,
+              "status": "COMPLETED",
+              "progress": 31,
+              "progressVolumes": 4,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 5,
+                "day": 22
+              },
+              "completedAt": {
+                "year": 2023,
+                "month": 5,
+                "day": 23
+              },
+              "updatedAt": 1684806101,
+              "createdAt": 1684741931,
+              "media": {
+                "idMal": 8967,
+                "title": {
+                  "romaji": "Onani Master Kurosawa",
+                  "native": "オナニーマスター黒沢",
+                  "english": null
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 41734,
+              "status": "COMPLETED",
+              "progress": 8,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 5,
+                "day": 25
+              },
+              "completedAt": {
+                "year": 2023,
+                "month": 5,
+                "day": 25
+              },
+              "updatedAt": 1684995046,
+              "createdAt": 1684990406,
+              "media": {
+                "idMal": 11734,
+                "title": {
+                  "romaji": "Watashitachi no Shiawase na Jikan",
+                  "native": "私たちの幸せな時間",
                   "english": null
                 }
               },

@@ -4,12 +4,12 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>70</user_total_manga>
-        <user_total_reading>37</user_total_reading>
-        <user_total_completed>8</user_total_completed>
+        <user_total_manga>72</user_total_manga>
+        <user_total_reading>39</user_total_reading>
+        <user_total_completed>9</user_total_completed>
         <user_total_onhold>2</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
-        <user_total_plantoread>23</user_total_plantoread>
+        <user_total_plantoread>22</user_total_plantoread>
     </myinfo>
 
     <!--
@@ -371,7 +371,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>1</my_read_volumes>
-        <my_read_chapters>75</my_read_chapters>
+        <my_read_chapters>119</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -591,7 +591,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>24</my_read_chapters>
+        <my_read_chapters>26</my_read_chapters>
         <my_start_date>2022-09-05</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -745,6 +745,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>102785</manga_mangadb_id>
+        <manga_title><![CDATA[Ningyou no Kuni]]></manga_title>
+        <manga_volumes>9</manga_volumes>
+        <manga_chapters>54</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>11</my_read_chapters>
+        <my_start_date>2023-05-23</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>130029</manga_mangadb_id>
         <manga_title><![CDATA[Tokyo Aliens]]></manga_title>
         <manga_volumes>0</manga_volumes>
@@ -753,6 +773,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>8</my_read_chapters>
         <my_start_date>2023-05-06</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>102980</manga_mangadb_id>
+        <manga_title><![CDATA[Watashi no Shounen]]></manga_title>
+        <manga_volumes>9</manga_volumes>
+        <manga_chapters>43</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>1</my_read_chapters>
+        <my_start_date>2023-05-27</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -916,6 +956,26 @@
         <my_finish_date>2023-03-29</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>8967</manga_mangadb_id>
+        <manga_title><![CDATA[Onanie Master Kurosawa]]></manga_title>
+        <manga_volumes>4</manga_volumes>
+        <manga_chapters>31</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>31</my_read_chapters>
+        <my_start_date>2023-05-23</my_start_date>
+        <my_finish_date>2023-05-23</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>9</my_score>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
         <my_comments><![CDATA[]]></my_comments>
@@ -1389,26 +1449,6 @@
         <manga_title><![CDATA[Wolfsmund]]></manga_title>
         <manga_volumes>8</manga_volumes>
         <manga_chapters>37</manga_chapters>
-        <my_id></my_id>
-        <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>0</my_read_chapters>
-        <my_start_date>0000-00-00</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
-        <my_score>0</my_score>
-        <my_storage></my_storage>
-        <my_status>Plan to Read</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_read>0</my_times_read>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_reread_value></my_reread_value>
-        <update_on_import>1</update_on_import>
-    </manga>
-    <manga>
-        <manga_mangadb_id>102785</manga_mangadb_id>
-        <manga_title><![CDATA[Ningyou no Kuni]]></manga_title>
-        <manga_volumes>9</manga_volumes>
-        <manga_chapters>54</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>0</my_read_chapters>

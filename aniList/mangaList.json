@@ -1063,7 +1063,7 @@
             {
               "mediaId": 112830,
               "status": "CURRENT",
-              "progress": 26,
+              "progress": 27,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -1087,7 +1087,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1684823378,
+              "updatedAt": 1685602715,
               "createdAt": 1661997606,
               "media": {
                 "idMal": 121484,
@@ -2223,16 +2223,16 @@
                 "Enjoyment": 0
               },
               "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
+                "year": 2023,
+                "month": 5,
+                "day": 15
               },
               "completedAt": {
                 "year": null,
                 "month": null,
                 "day": null
               },
-              "updatedAt": 0,
+              "updatedAt": 1685295360,
               "createdAt": 0,
               "media": {
                 "idMal": 9711,

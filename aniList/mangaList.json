@@ -2206,45 +2206,6 @@
               "score": 0
             },
             {
-              "mediaId": 39711,
-              "status": "PLANNING",
-              "progress": 0,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2023,
-                "month": 5,
-                "day": 15
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 1685295360,
-              "createdAt": 0,
-              "media": {
-                "idMal": 9711,
-                "title": {
-                  "romaji": "Bakuman.",
-                  "native": "バクマン。",
-                  "english": "Bakuman。"
-                }
-              },
-              "score": 0
-            },
-            {
               "mediaId": 107237,
               "status": "PLANNING",
               "progress": 1,
@@ -3382,6 +3343,45 @@
           "isCustomList": false,
           "isSplitCompletedList": true,
           "entries": [
+            {
+              "mediaId": 39711,
+              "status": "COMPLETED",
+              "progress": 176,
+              "progressVolumes": 20,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 5,
+                "day": 15
+              },
+              "completedAt": {
+                "year": 2023,
+                "month": 6,
+                "day": 10
+              },
+              "updatedAt": 1686382540,
+              "createdAt": 0,
+              "media": {
+                "idMal": 9711,
+                "title": {
+                  "romaji": "Bakuman.",
+                  "native": "バクマン。",
+                  "english": "Bakuman。"
+                }
+              },
+              "score": 9
+            },
             {
               "mediaId": 30025,
               "status": "COMPLETED",

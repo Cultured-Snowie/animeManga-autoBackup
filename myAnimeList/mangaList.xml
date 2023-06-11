@@ -6,10 +6,10 @@
         <user_export_type>2</user_export_type>
         <user_total_manga>91</user_total_manga>
         <user_total_reading>44</user_total_reading>
-        <user_total_completed>10</user_total_completed>
+        <user_total_completed>11</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
-        <user_total_plantoread>34</user_total_plantoread>
+        <user_total_plantoread>33</user_total_plantoread>
     </myinfo>
 
 
@@ -914,6 +914,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>9711</manga_mangadb_id>
+        <manga_title><![CDATA[Bakuman.]]></manga_title>
+        <manga_volumes>20</manga_volumes>
+        <manga_chapters>176</manga_chapters>
+        <my_id>122997553</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>176</my_read_chapters>
+        <my_start_date>2023-05-15</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>9</my_score>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>25</manga_mangadb_id>
         <manga_title><![CDATA[Fullmetal Alchemist]]></manga_title>
         <manga_volumes>27</manga_volumes>
@@ -1162,26 +1182,6 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>0</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
-        <my_score>0</my_score>
-        <my_storage></my_storage>
-        <my_status>Plan to Read</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_read>0</my_times_read>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_reread_value>Low</my_reread_value>
-        <update_on_import>1</update_on_import>
-    </manga>
-    <manga>
-        <manga_mangadb_id>9711</manga_mangadb_id>
-        <manga_title><![CDATA[Bakuman.]]></manga_title>
-        <manga_volumes>20</manga_volumes>
-        <manga_chapters>176</manga_chapters>
-        <my_id>122997553</my_id>
-        <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>0</my_read_chapters>
-        <my_start_date>2023-05-15</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1556,8 +1556,8 @@
     <manga>
         <manga_mangadb_id>46716</manga_mangadb_id>
         <manga_title><![CDATA[Masamune-kun no Revenge]]></manga_title>
-        <manga_volumes>11</manga_volumes>
-        <manga_chapters>61</manga_chapters>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
         <my_id>123328960</my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>3</my_read_chapters>

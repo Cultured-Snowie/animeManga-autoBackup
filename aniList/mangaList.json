@@ -1960,7 +1960,7 @@
             {
               "mediaId": 123657,
               "status": "CURRENT",
-              "progress": 8,
+              "progress": 12,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -1984,7 +1984,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1683393430,
+              "updatedAt": 1688291755,
               "createdAt": 1683382325,
               "media": {
                 "idMal": 130029,
@@ -2031,6 +2031,45 @@
                   "romaji": "Watashi no Shounen",
                   "native": "私の少年",
                   "english": "My Boy"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 156924,
+              "status": "CURRENT",
+              "progress": 13,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1688292435,
+              "createdAt": 1688291809,
+              "media": {
+                "idMal": 153408,
+                "title": {
+                  "romaji": "Osananajimi Kanojo no Morahara ga Hidoi n de Zetsuen Sengen Shite Yatta: Jibun Rashiku Ikiru Koto ni Shitara, Naze ka Tonari no Seki no Kakure Bishoujo kara Kokuhaku Sareta",
+                  "native": "幼馴染彼女のモラハラがひどいんで絶縁宣言してやった ~自分らしく生きることにしたら、なぜか隣の席の隠れ美少女から告白された~",
+                  "english": null
                 }
               },
               "score": 0

@@ -88,7 +88,7 @@
             {
               "mediaId": 107100,
               "status": "CURRENT",
-              "progress": 17,
+              "progress": 18,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -112,7 +112,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1680603236,
+              "updatedAt": 1689408188,
               "createdAt": 0,
               "media": {
                 "idMal": 123365,
@@ -127,7 +127,7 @@
             {
               "mediaId": 117195,
               "status": "CURRENT",
-              "progress": 122,
+              "progress": 123,
               "progressVolumes": 1,
               "repeat": 0,
               "notes": null,
@@ -151,7 +151,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1688184054,
+              "updatedAt": 1689168281,
               "createdAt": 0,
               "media": {
                 "idMal": 126146,
@@ -3371,6 +3371,45 @@
                   "romaji": "Ookami no Kuchi: Wolfsmund",
                   "native": "狼の口 ヴォルフスムント",
                   "english": "Wolfsmund"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30642,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1689168094,
+              "createdAt": 1689168094,
+              "media": {
+                "idMal": 642,
+                "title": {
+                  "romaji": "Vinland Saga",
+                  "native": "ヴィンランド・サガ",
+                  "english": "Vinland Saga"
                 }
               },
               "score": 0

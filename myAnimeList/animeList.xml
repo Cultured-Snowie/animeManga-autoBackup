@@ -4,9 +4,9 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>252</user_total_anime>
-        <user_total_watching>15</user_total_watching>
-        <user_total_completed>137</user_total_completed>
+        <user_total_anime>255</user_total_anime>
+        <user_total_watching>17</user_total_watching>
+        <user_total_completed>138</user_total_completed>
         <user_total_onhold>29</user_total_onhold>
         <user_total_dropped>3</user_total_dropped>
         <user_total_plantowatch>68</user_total_plantowatch>
@@ -190,13 +190,13 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
-        <series_animedb_id>45576</series_animedb_id>
-        <series_title><![CDATA[Mushoku Tensei: Isekai Ittara Honki Dasu Part 2]]></series_title>
+        <series_animedb_id>51179</series_animedb_id>
+        <series_title><![CDATA[Mushoku Tensei II: Isekai Ittara Honki Dasu]]></series_title>
         <series_type>TV</series_type>
         <series_episodes>12</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>6</my_watched_episodes>
-        <my_start_date>2022-03-13</my_start_date>
+        <my_watched_episodes>2</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -256,6 +256,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>30240</series_animedb_id>
+        <series_title><![CDATA[Prison School]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>7</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>13601</series_animedb_id>
         <series_title><![CDATA[Psycho-Pass]]></series_title>
         <series_type>TV</series_type>
@@ -285,6 +307,28 @@
         <my_id>0</my_id>
         <my_watched_episodes>120</my_watched_episodes>
         <my_start_date>2021-07-11</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>49413</series_animedb_id>
+        <series_title><![CDATA[Shiguang Dailiren II]]></series_title>
+        <series_type>ONA</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>2</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -1762,6 +1806,28 @@
         <my_finish_date>2021-12-18</my_finish_date>
         <my_rated></my_rated>
         <my_score>9</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>45576</series_animedb_id>
+        <series_title><![CDATA[Mushoku Tensei: Isekai Ittara Honki Dasu Part 2]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>12</my_watched_episodes>
+        <my_start_date>2022-03-13</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>8</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>

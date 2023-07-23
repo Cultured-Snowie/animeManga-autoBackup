@@ -4,12 +4,12 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>93</user_total_manga>
+        <user_total_manga>96</user_total_manga>
         <user_total_reading>45</user_total_reading>
         <user_total_completed>11</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
-        <user_total_plantoread>34</user_total_plantoread>
+        <user_total_plantoread>37</user_total_plantoread>
     </myinfo>
 
 
@@ -40,7 +40,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>121621917</my_id>
         <my_read_volumes>1</my_read_volumes>
-        <my_read_chapters>123</my_read_chapters>
+        <my_read_chapters>124</my_read_chapters>
         <my_start_date>2023-05-25</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -720,7 +720,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>147472129</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>13</my_read_chapters>
+        <my_read_chapters>14</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1214,6 +1214,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>149</manga_mangadb_id>
+        <manga_title><![CDATA[Blame!]]></manga_title>
+        <manga_volumes>10</manga_volumes>
+        <manga_chapters>66</manga_chapters>
+        <my_id>148397703</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>0</my_read_chapters>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Plan to Read</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>107931</manga_mangadb_id>
         <manga_title><![CDATA[Blue Period]]></manga_title>
         <manga_volumes>0</manga_volumes>
@@ -1434,6 +1454,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>26</manga_mangadb_id>
+        <manga_title><![CDATA[Hunter x Hunter]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>148369786</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>0</my_read_chapters>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Plan to Read</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>86310</manga_mangadb_id>
         <manga_title><![CDATA[Imouto sae Ireba Ii.]]></manga_title>
         <manga_volumes>14</manga_volumes>
@@ -1542,6 +1582,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>3</my_read_chapters>
         <my_start_date>2022-04-26</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Plan to Read</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>91941</manga_mangadb_id>
+        <manga_title><![CDATA[Made in Abyss]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>148369870</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>0</my_read_chapters>
+        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>

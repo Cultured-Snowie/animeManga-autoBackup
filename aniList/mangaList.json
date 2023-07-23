@@ -127,7 +127,7 @@
             {
               "mediaId": 117195,
               "status": "CURRENT",
-              "progress": 123,
+              "progress": 124,
               "progressVolumes": 1,
               "repeat": 0,
               "notes": null,
@@ -151,7 +151,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1689168281,
+              "updatedAt": 1689855792,
               "createdAt": 0,
               "media": {
                 "idMal": 126146,
@@ -2038,7 +2038,7 @@
             {
               "mediaId": 156924,
               "status": "CURRENT",
-              "progress": 13,
+              "progress": 14,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2062,7 +2062,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1688292435,
+              "updatedAt": 1689643706,
               "createdAt": 1688291809,
               "media": {
                 "idMal": 153408,
@@ -2070,6 +2070,45 @@
                   "romaji": "Osananajimi Kanojo no Morahara ga Hidoi n de Zetsuen Sengen Shite Yatta: Jibun Rashiku Ikiru Koto ni Shitara, Naze ka Tonari no Seki no Kakure Bishoujo kara Kokuhaku Sareta",
                   "native": "幼馴染彼女のモラハラがひどいんで絶縁宣言してやった ~自分らしく生きることにしたら、なぜか隣の席の隠れ美少女から告白された~",
                   "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30003,
+              "status": "CURRENT",
+              "progress": 0,
+              "progressVolumes": 13,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 7,
+                "day": 17
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1689604924,
+              "createdAt": 1689604924,
+              "media": {
+                "idMal": 3,
+                "title": {
+                  "romaji": "20 Seiki Shounen",
+                  "native": "20世紀少年",
+                  "english": "20th Century Boys"
                 }
               },
               "score": 0
@@ -3410,6 +3449,123 @@
                   "romaji": "Vinland Saga",
                   "native": "ヴィンランド・サガ",
                   "english": "Vinland Saga"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30026,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1689604209,
+              "createdAt": 1689604209,
+              "media": {
+                "idMal": 26,
+                "title": {
+                  "romaji": "HUNTER×HUNTER",
+                  "native": "HUNTER×HUNTER",
+                  "english": "Hunter x Hunter"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 86551,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1689604359,
+              "createdAt": 1689604359,
+              "media": {
+                "idMal": 91941,
+                "title": {
+                  "romaji": "Made in Abyss",
+                  "native": "メイドインアビス",
+                  "english": "Made in Abyss"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30149,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1689643386,
+              "createdAt": 1689643386,
+              "media": {
+                "idMal": 149,
+                "title": {
+                  "romaji": "BLAME!",
+                  "native": "BLAME!",
+                  "english": "BLAME!"
                 }
               },
               "score": 0

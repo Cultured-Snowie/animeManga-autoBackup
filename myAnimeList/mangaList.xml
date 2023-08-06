@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>96</user_total_manga>
-        <user_total_reading>45</user_total_reading>
+        <user_total_manga>97</user_total_manga>
+        <user_total_reading>46</user_total_reading>
         <user_total_completed>11</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
@@ -40,7 +40,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>121621917</my_id>
         <my_read_volumes>1</my_read_volumes>
-        <my_read_chapters>124</my_read_chapters>
+        <my_read_chapters>125</my_read_chapters>
         <my_start_date>2023-05-25</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -342,6 +342,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>193</my_read_chapters>
         <my_start_date>2021-08-18</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>90125</manga_mangadb_id>
+        <manga_title><![CDATA[Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen]]></manga_title>
+        <manga_volumes>28</manga_volumes>
+        <manga_chapters>281</manga_chapters>
+        <my_id>149308308</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>195</my_read_chapters>
+        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -680,7 +700,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>120867293</my_id>
         <my_read_volumes>97</my_read_volumes>
-        <my_read_chapters>1079</my_read_chapters>
+        <my_read_chapters>1083</my_read_chapters>
         <my_start_date>2021-07-01</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -720,7 +740,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>147472129</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>14</my_read_chapters>
+        <my_read_chapters>15</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>

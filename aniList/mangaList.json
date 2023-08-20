@@ -2112,45 +2112,6 @@
                 }
               },
               "score": 0
-            },
-            {
-              "mediaId": 86635,
-              "status": "CURRENT",
-              "progress": 235,
-              "progressVolumes": 14,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2023,
-                "month": 8,
-                "day": 2
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 1691629727,
-              "createdAt": 1690995523,
-              "media": {
-                "idMal": 90125,
-                "title": {
-                  "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
-                  "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
-                  "english": "Kaguya-sama: Love is War"
-                }
-              },
-              "score": 0
             }
           ]
         },
@@ -4122,6 +4083,45 @@
                 }
               },
               "score": 7
+            },
+            {
+              "mediaId": 86635,
+              "status": "COMPLETED",
+              "progress": 281,
+              "progressVolumes": 28,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 8,
+                "day": 2
+              },
+              "completedAt": {
+                "year": 2023,
+                "month": 8,
+                "day": 14
+              },
+              "updatedAt": 1692029952,
+              "createdAt": 1690995523,
+              "media": {
+                "idMal": 90125,
+                "title": {
+                  "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+                  "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+                  "english": "Kaguya-sama: Love is War"
+                }
+              },
+              "score": 9
             }
           ]
         },

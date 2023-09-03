@@ -361,7 +361,7 @@
             {
               "mediaId": 105778,
               "status": "CURRENT",
-              "progress": 10,
+              "progress": 38,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -385,7 +385,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 0,
+              "updatedAt": 1693533889,
               "createdAt": 0,
               "media": {
                 "idMal": 116778,
@@ -1804,7 +1804,7 @@
             {
               "mediaId": 156621,
               "status": "CURRENT",
-              "progress": 3,
+              "progress": 6,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -1828,7 +1828,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1672624825,
+              "updatedAt": 1693102564,
               "createdAt": 1671382144,
               "media": {
                 "idMal": 152487,
@@ -2038,7 +2038,7 @@
             {
               "mediaId": 156924,
               "status": "CURRENT",
-              "progress": 15,
+              "progress": 16,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2062,7 +2062,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1691245799,
+              "updatedAt": 1693100263,
               "createdAt": 1688291809,
               "media": {
                 "idMal": 153408,
@@ -2077,7 +2077,7 @@
             {
               "mediaId": 30642,
               "status": "CURRENT",
-              "progress": 100,
+              "progress": 120,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2101,7 +2101,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1692722139,
+              "updatedAt": 1693361741,
               "createdAt": 1689168094,
               "media": {
                 "idMal": 642,
@@ -3569,45 +3569,6 @@
                 }
               },
               "score": 0
-            },
-            {
-              "mediaId": 102988,
-              "status": "PLANNING",
-              "progress": 0,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 1692966467,
-              "createdAt": 1692966467,
-              "media": {
-                "idMal": 104565,
-                "title": {
-                  "romaji": "Tokyo卍Revengers",
-                  "native": "東京卍リベンジャーズ",
-                  "english": "Tokyo Revengers"
-                }
-              },
-              "score": 0
             }
           ]
         },
@@ -4161,6 +4122,45 @@
                 }
               },
               "score": 9
+            },
+            {
+              "mediaId": 102988,
+              "status": "COMPLETED",
+              "progress": 279,
+              "progressVolumes": 31,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": 2023,
+                "month": 8,
+                "day": 29
+              },
+              "updatedAt": 1693321932,
+              "createdAt": 1692966467,
+              "media": {
+                "idMal": 104565,
+                "title": {
+                  "romaji": "Tokyo卍Revengers",
+                  "native": "東京卍リベンジャーズ",
+                  "english": "Tokyo Revengers"
+                }
+              },
+              "score": 0
             }
           ]
         },

@@ -127,7 +127,7 @@
             {
               "mediaId": 117195,
               "status": "CURRENT",
-              "progress": 125,
+              "progress": 126,
               "progressVolumes": 1,
               "repeat": 0,
               "notes": null,
@@ -151,7 +151,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1691062467,
+              "updatedAt": 1696383637,
               "createdAt": 0,
               "media": {
                 "idMal": 126146,
@@ -2148,45 +2148,6 @@
                   "romaji": "20 Seiki Shounen",
                   "native": "20世紀少年",
                   "english": "20th Century Boys"
-                }
-              },
-              "score": 0
-            },
-            {
-              "mediaId": 85802,
-              "status": "CURRENT",
-              "progress": 206,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2023,
-                "month": 9,
-                "day": 24
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 1696101023,
-              "createdAt": 1695531735,
-              "media": {
-                "idMal": 70941,
-                "title": {
-                  "romaji": "Domestic na Kanojo",
-                  "native": "ドメスティックな彼女",
-                  "english": "Domestic Girlfriend"
                 }
               },
               "score": 0
@@ -4200,6 +4161,84 @@
                 }
               },
               "score": 0
+            },
+            {
+              "mediaId": 85802,
+              "status": "COMPLETED",
+              "progress": 299,
+              "progressVolumes": 28,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 9,
+                "day": 24
+              },
+              "completedAt": {
+                "year": 2023,
+                "month": 10,
+                "day": 1
+              },
+              "updatedAt": 1696178971,
+              "createdAt": 1695531735,
+              "media": {
+                "idMal": 70941,
+                "title": {
+                  "romaji": "Domestic na Kanojo",
+                  "native": "ドメスティックな彼女",
+                  "english": "Domestic Girlfriend"
+                }
+              },
+              "score": 8
+            },
+            {
+              "mediaId": 100557,
+              "status": "COMPLETED",
+              "progress": 69,
+              "progressVolumes": 11,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 10,
+                "day": 3
+              },
+              "completedAt": {
+                "year": 2023,
+                "month": 10,
+                "day": 5
+              },
+              "updatedAt": 1696518592,
+              "createdAt": 1696333963,
+              "media": {
+                "idMal": 104829,
+                "title": {
+                  "romaji": "Sachi-iro no One Room",
+                  "native": "幸色のワンルーム",
+                  "english": "One Room of Happiness"
+                }
+              },
+              "score": 9
             }
           ]
         },

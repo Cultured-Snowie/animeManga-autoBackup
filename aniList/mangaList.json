@@ -127,7 +127,7 @@
             {
               "mediaId": 117195,
               "status": "CURRENT",
-              "progress": 126,
+              "progress": 128,
               "progressVolumes": 1,
               "repeat": 0,
               "notes": null,
@@ -151,7 +151,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1696383637,
+              "updatedAt": 1696867248,
               "createdAt": 0,
               "media": {
                 "idMal": 126146,
@@ -166,7 +166,7 @@
             {
               "mediaId": 30002,
               "status": "CURRENT",
-              "progress": 31,
+              "progress": 32,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -190,7 +190,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 0,
+              "updatedAt": 1696752444,
               "createdAt": 0,
               "media": {
                 "idMal": 2,
@@ -1365,7 +1365,7 @@
               "media": {
                 "idMal": 138347,
                 "title": {
-                  "romaji": "Musubime Nemuri wa Shitekure na Kumo Nai",
+                  "romaji": "Musubime Nemuri wa Shite Kurenaku mo Nai",
                   "native": "結目ねむりはシテくれなくもない",
                   "english": null
                 }
@@ -2148,6 +2148,84 @@
                   "romaji": "20 Seiki Shounen",
                   "native": "20世紀少年",
                   "english": "20th Century Boys"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 111233,
+              "status": "CURRENT",
+              "progress": 104,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 10,
+                "day": 8
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1696776043,
+              "createdAt": 1696762070,
+              "media": {
+                "idMal": 121480,
+                "title": {
+                  "romaji": "Yofukashi no Uta",
+                  "native": "よふかしのうた",
+                  "english": "Call of the Night"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 104660,
+              "status": "CURRENT",
+              "progress": 23,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 10,
+                "day": 14
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1697295724,
+              "createdAt": 1697295700,
+              "media": {
+                "idMal": 122392,
+                "title": {
+                  "romaji": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+                  "native": "ゾン100 ～ゾンビになるまでにしたい100のこと～",
+                  "english": "Zom 100: Bucket List of the Dead"
                 }
               },
               "score": 0

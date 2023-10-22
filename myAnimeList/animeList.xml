@@ -4,10 +4,10 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>271</user_total_anime>
-        <user_total_watching>22</user_total_watching>
-        <user_total_completed>151</user_total_completed>
-        <user_total_onhold>28</user_total_onhold>
+        <user_total_anime>275</user_total_anime>
+        <user_total_watching>26</user_total_watching>
+        <user_total_completed>152</user_total_completed>
+        <user_total_onhold>27</user_total_onhold>
         <user_total_dropped>3</user_total_dropped>
         <user_total_plantowatch>67</user_total_plantowatch>
     </myinfo>
@@ -190,6 +190,50 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>54595</series_animedb_id>
+        <series_title><![CDATA[Kage no Jitsuryokusha ni Naritakute! 2nd Season]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>52990</series_animedb_id>
+        <series_title><![CDATA[Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>3</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>18679</series_animedb_id>
         <series_title><![CDATA[Kill la Kill]]></series_title>
         <series_type>TV</series_type>
@@ -197,6 +241,28 @@
         <my_id>0</my_id>
         <my_watched_episodes>8</my_watched_episodes>
         <my_start_date>2021-06-16</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>54714</series_animedb_id>
+        <series_title><![CDATA[Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>2</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -241,6 +307,28 @@
         <my_id>0</my_id>
         <my_watched_episodes>7</my_watched_episodes>
         <my_start_date>2023-05-03</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>30</series_animedb_id>
+        <series_title><![CDATA[Neon Genesis Evangelion]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>26</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -1586,6 +1674,28 @@
         <my_finish_date>2021-12-20</my_finish_date>
         <my_rated></my_rated>
         <my_score>8</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>48316</series_animedb_id>
+        <series_title><![CDATA[Kage no Jitsuryokusha ni Naritakute!]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>20</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>20</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>9</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -4069,28 +4179,6 @@
         <my_id>0</my_id>
         <my_watched_episodes>1</my_watched_episodes>
         <my_start_date>2021-07-10</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>On-Hold</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>48316</series_animedb_id>
-        <series_title><![CDATA[Kage no Jitsuryokusha ni Naritakute!]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>20</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>13</my_watched_episodes>
-        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>

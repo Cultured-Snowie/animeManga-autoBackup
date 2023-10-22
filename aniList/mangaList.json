@@ -127,7 +127,7 @@
             {
               "mediaId": 117195,
               "status": "CURRENT",
-              "progress": 128,
+              "progress": 129,
               "progressVolumes": 1,
               "repeat": 0,
               "notes": null,
@@ -151,7 +151,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1696867248,
+              "updatedAt": 1697817715,
               "createdAt": 0,
               "media": {
                 "idMal": 126146,
@@ -315,45 +315,6 @@
                   "romaji": "Boku no Hero Academia",
                   "native": "僕のヒーローアカデミア",
                   "english": "My Hero Academia"
-                }
-              },
-              "score": 0
-            },
-            {
-              "mediaId": 87178,
-              "status": "CURRENT",
-              "progress": 70,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2021,
-                "month": 6,
-                "day": 16
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 95210,
-                "title": {
-                  "romaji": "BORUTO: NARUTO NEXT GENERATIONS",
-                  "native": "BORUTO-ボルト- -NARUTO NEXT GENERATIONS-",
-                  "english": "Boruto: Naruto Next Generations"
                 }
               },
               "score": 0
@@ -2229,6 +2190,162 @@
                 }
               },
               "score": 0
+            },
+            {
+              "mediaId": 142169,
+              "status": "CURRENT",
+              "progress": 37,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 10,
+                "day": 17
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1697537603,
+              "createdAt": 1697537549,
+              "media": {
+                "idMal": 149308,
+                "title": {
+                  "romaji": "Tsuihou no Kenja, Sekai wo Shiru: Osananajimi Yuusha no Atsuryoku kara Nigete Jiyuu ni Natta Ore ",
+                  "native": "追放の賢者、世界を知る ～幼馴染勇者の圧力から逃げて自由になった俺～ ",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 168468,
+              "status": "CURRENT",
+              "progress": 3,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 10,
+                "day": 20
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1697793351,
+              "createdAt": 1697793351,
+              "media": {
+                "idMal": 160786,
+                "title": {
+                  "romaji": "BORUTO: TWO BLUE VORTEX",
+                  "native": "BORUTO-ボルト- -TWO BLUE VORTEX-",
+                  "english": "Boruto: Two Blue Vortex"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 145572,
+              "status": "CURRENT",
+              "progress": 14,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 10,
+                "day": 20
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1697795634,
+              "createdAt": 1697795621,
+              "media": {
+                "idMal": 142769,
+                "title": {
+                  "romaji": "Itsumo Shiotaiou na Osananajimi dakedo, Ore ni Kataomoi Shiteiru no ga Barebare de Kawaii.",
+                  "native": "いっつも塩対応な幼なじみだけど、俺に片想いしているのがバレバレでかわいい。",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 144718,
+              "status": "CURRENT",
+              "progress": 17,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 10,
+                "day": 21
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1697902104,
+              "createdAt": 1697902056,
+              "media": {
+                "idMal": 144451,
+                "title": {
+                  "romaji": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+                  "native": "経験済みなキミと、 経験ゼロなオレが、 お付き合いする話。",
+                  "english": "You Were Experienced, I Was Not: Our Dating Story"
+                }
+              },
+              "score": 0
             }
           ]
         },
@@ -3693,6 +3810,45 @@
                 }
               },
               "score": 9
+            },
+            {
+              "mediaId": 87178,
+              "status": "COMPLETED",
+              "progress": 81,
+              "progressVolumes": 20,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2021,
+                "month": 6,
+                "day": 16
+              },
+              "completedAt": {
+                "year": 2023,
+                "month": 10,
+                "day": 20
+              },
+              "updatedAt": 1697793330,
+              "createdAt": 0,
+              "media": {
+                "idMal": 95210,
+                "title": {
+                  "romaji": "BORUTO: NARUTO NEXT GENERATIONS",
+                  "native": "BORUTO-ボルト- -NARUTO NEXT GENERATIONS-",
+                  "english": "Boruto: Naruto Next Generations"
+                }
+              },
+              "score": 0
             },
             {
               "mediaId": 30025,

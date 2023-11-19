@@ -4473,6 +4473,45 @@
                 }
               },
               "score": 9
+            },
+            {
+              "mediaId": 139966,
+              "status": "COMPLETED",
+              "progress": 19,
+              "progressVolumes": 3,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 11,
+                "day": 14
+              },
+              "completedAt": {
+                "year": 2023,
+                "month": 11,
+                "day": 16
+              },
+              "updatedAt": 1700149870,
+              "createdAt": 1699977841,
+              "media": {
+                "idMal": 141506,
+                "title": {
+                  "romaji": "Nyanta to Pomeko: Imasara Shinjite Iru to Iwaretemo Mou Teokure da",
+                  "native": "にゃん太とポメ子～いまさら信じていると言われてももう手遅れだ～",
+                  "english": null
+                }
+              },
+              "score": 7
             }
           ]
         },

@@ -127,7 +127,7 @@
             {
               "mediaId": 117195,
               "status": "CURRENT",
-              "progress": 130,
+              "progress": 133,
               "progressVolumes": 1,
               "repeat": 0,
               "notes": null,
@@ -151,7 +151,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1698978388,
+              "updatedAt": 1701340939,
               "createdAt": 0,
               "media": {
                 "idMal": 126146,
@@ -3761,6 +3761,45 @@
                   "romaji": "BLAME!",
                   "native": "BLAME!",
                   "english": "BLAME!"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 162288,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1701090818,
+              "createdAt": 1701090818,
+              "media": {
+                "idMal": 158553,
+                "title": {
+                  "romaji": "Genkai Dokushin Joshi (26) Gohan",
+                  "native": "限界独身女子(26)ごはん",
+                  "english": null
                 }
               },
               "score": 0

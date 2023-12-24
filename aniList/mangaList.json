@@ -127,7 +127,7 @@
             {
               "mediaId": 117195,
               "status": "CURRENT",
-              "progress": 134,
+              "progress": 135,
               "progressVolumes": 1,
               "repeat": 0,
               "notes": null,
@@ -151,7 +151,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1702088409,
+              "updatedAt": 1703353700,
               "createdAt": 0,
               "media": {
                 "idMal": 126146,
@@ -166,8 +166,8 @@
             {
               "mediaId": 30002,
               "status": "CURRENT",
-              "progress": 127,
-              "progressVolumes": 16,
+              "progress": 203,
+              "progressVolumes": 23,
               "repeat": 0,
               "notes": null,
               "priority": 0,
@@ -190,7 +190,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1702399398,
+              "updatedAt": 1702794540,
               "createdAt": 0,
               "media": {
                 "idMal": 2,
@@ -1102,7 +1102,7 @@
             {
               "mediaId": 114416,
               "status": "CURRENT",
-              "progress": 10,
+              "progress": 20,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -1126,7 +1126,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1664269617,
+              "updatedAt": 1703354258,
               "createdAt": 1663255823,
               "media": {
                 "idMal": 123681,
@@ -2233,7 +2233,7 @@
             {
               "mediaId": 168468,
               "status": "CURRENT",
-              "progress": 4,
+              "progress": 5,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2257,7 +2257,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1700663964,
+              "updatedAt": 1703143009,
               "createdAt": 1697793351,
               "media": {
                 "idMal": 160786,
@@ -2343,6 +2343,45 @@
                   "romaji": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
                   "native": "経験済みなキミと、 経験ゼロなオレが、 お付き合いする話。",
                   "english": "You Were Experienced, I Was Not: Our Dating Story"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 30671,
+              "status": "CURRENT",
+              "progress": 8,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 12,
+                "day": 17
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1702817961,
+              "createdAt": 1702794919,
+              "media": {
+                "idMal": 671,
+                "title": {
+                  "romaji": "To LOVE-Ru",
+                  "native": "To LOVEる -とらぶる-",
+                  "english": "To Love Ru"
                 }
               },
               "score": 0

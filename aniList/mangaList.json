@@ -166,8 +166,8 @@
             {
               "mediaId": 30002,
               "status": "CURRENT",
-              "progress": 364,
-              "progressVolumes": 41,
+              "progress": 375,
+              "progressVolumes": 42,
               "repeat": 0,
               "notes": null,
               "priority": 0,
@@ -190,7 +190,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1703946918,
+              "updatedAt": 1704010436,
               "createdAt": 0,
               "media": {
                 "idMal": 2,

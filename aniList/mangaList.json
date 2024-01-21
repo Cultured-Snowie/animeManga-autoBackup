@@ -1999,7 +1999,7 @@
             {
               "mediaId": 156924,
               "status": "CURRENT",
-              "progress": 19,
+              "progress": 20,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2023,7 +2023,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1704879188,
+              "updatedAt": 1705298528,
               "createdAt": 1688291809,
               "media": {
                 "idMal": 153408,

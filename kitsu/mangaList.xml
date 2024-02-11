@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>81</user_total_manga>
-        <user_total_reading>44</user_total_reading>
+        <user_total_manga>82</user_total_manga>
+        <user_total_reading>45</user_total_reading>
         <user_total_completed>12</user_total_completed>
         <user_total_onhold>2</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
@@ -24,6 +24,7 @@
         MAL entry not found for "Tonikaku Kawaii" https://kitsu.io/manga/tonikaku-cawaii
         MAL entry not found for "Osananajimi Kanojo no Morahara ga Hidoi n de Zetsuen Sengen Shite Yatta: Jibun Rashiku Ikiru Koto ni Shitara, Naze ka Tonari no Seki no Kakure Bishoujo kara Kokuhaku Sareta" https://kitsu.io/manga/osananajimi-kanojo-no-morahara-ga-hidoi-n-de-zetsuen-sengen-shite-yatta-jibun-rashiku-ikiru-koto-ni-shitara-naze-ka-tonari-no-seki-no-kakure-bishoujo-kara-kokuhaku-sareta
         MAL entry not found for "Nyanta to Pomeko: Imasara Shinjite Iru to Iwaretemo Mou Teokure da" https://kitsu.io/manga/nyanta-to-pomeko-imasara-shinjite-iru-to-iwaretemo-mou-teokure-da
+        MAL entry not found for "Kagurabachi" https://kitsu.io/manga/kagurabachi
     -->
 
     <manga>
@@ -895,6 +896,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>5</my_read_chapters>
         <my_start_date>2023-11-09</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>107</manga_mangadb_id>
+        <manga_title><![CDATA[Chobits]]></manga_title>
+        <manga_volumes>8</manga_volumes>
+        <manga_chapters>88</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>27</my_read_chapters>
+        <my_start_date>2024-02-07</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1860,6 +1881,26 @@
         <my_score>7</my_score>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga-->
+    <!--manga>
+        <manga_mangadb_id></manga_mangadb_id>
+        <manga_title><![CDATA[Kagurabachi]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>19</my_read_chapters>
+        <my_start_date>2024-02-07</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
         <my_comments><![CDATA[]]></my_comments>
         <my_times_read>0</my_times_read>
         <my_tags><![CDATA[]]></my_tags>

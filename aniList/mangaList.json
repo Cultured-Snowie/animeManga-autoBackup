@@ -2194,7 +2194,7 @@
             {
               "mediaId": 168468,
               "status": "CURRENT",
-              "progress": 5,
+              "progress": 6,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2218,7 +2218,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1703143009,
+              "updatedAt": 1708121745,
               "createdAt": 1697793351,
               "media": {
                 "idMal": 160786,
@@ -2421,6 +2421,45 @@
                   "romaji": "Kagurabachi",
                   "native": "カグラバチ",
                   "english": "Kagurabachi"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 106064,
+              "status": "CURRENT",
+              "progress": 34,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1708196821,
+              "createdAt": 1708118611,
+              "media": {
+                "idMal": 116880,
+                "title": {
+                  "romaji": "Mato Seihei no Slave",
+                  "native": "魔都精兵のスレイブ",
+                  "english": "Chained Soldier"
                 }
               },
               "score": 0

@@ -2194,7 +2194,7 @@
             {
               "mediaId": 168468,
               "status": "CURRENT",
-              "progress": 6,
+              "progress": 7,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2218,7 +2218,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1708121745,
+              "updatedAt": 1708616789,
               "createdAt": 1697793351,
               "media": {
                 "idMal": 160786,
@@ -2389,7 +2389,7 @@
             {
               "mediaId": 169355,
               "status": "CURRENT",
-              "progress": 19,
+              "progress": 21,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2413,7 +2413,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1707350041,
+              "updatedAt": 1708704309,
               "createdAt": 1707349999,
               "media": {
                 "idMal": 162479,
@@ -2428,7 +2428,7 @@
             {
               "mediaId": 106064,
               "status": "CURRENT",
-              "progress": 34,
+              "progress": 68,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2452,7 +2452,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1708196821,
+              "updatedAt": 1708581044,
               "createdAt": 1708118611,
               "media": {
                 "idMal": 116880,
@@ -2460,6 +2460,45 @@
                   "romaji": "Mato Seihei no Slave",
                   "native": "魔都精兵のスレイブ",
                   "english": "Chained Soldier"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 107559,
+              "status": "CURRENT",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2024,
+                "month": 2,
+                "day": 23
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1708705939,
+              "createdAt": 1708704346,
+              "media": {
+                "idMal": 121433,
+                "title": {
+                  "romaji": "Haite Kudasai, Takamine-san",
+                  "native": "履いてください、鷹峰さん",
+                  "english": "Please Put Them On, Takamine-san"
                 }
               },
               "score": 0

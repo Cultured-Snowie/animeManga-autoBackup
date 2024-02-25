@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>116</user_total_manga>
-        <user_total_reading>68</user_total_reading>
+        <user_total_manga>118</user_total_manga>
+        <user_total_reading>70</user_total_reading>
         <user_total_completed>12</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
@@ -13,6 +13,26 @@
     </myinfo>
 
 
+    <manga>
+        <manga_mangadb_id>166182</manga_mangadb_id>
+        <manga_title><![CDATA["Ano Toki Tasukete Itadaita Monster Musume desu.": Isekai Ossan Kyoushi Totsuzen no Moteki ni Konwaku suru]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>159188187</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>5</my_read_chapters>
+        <my_start_date>2024-02-24</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
     <manga>
         <manga_mangadb_id>123365</manga_mangadb_id>
         <manga_title><![CDATA["Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai the Comic]]></manga_title>
@@ -335,13 +355,33 @@
     </manga>
     <manga>
         <manga_mangadb_id>129187</manga_mangadb_id>
-        <manga_title><![CDATA[Hachigatsu Kokonoka: Boku wa Kimi ni Kuwareru.]]></manga_title>
+        <manga_title><![CDATA[Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.]]></manga_title>
         <manga_volumes>0</manga_volumes>
         <manga_chapters>0</manga_chapters>
         <my_id>132723938</my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>11</my_read_chapters>
         <my_start_date>2022-09-04</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>121433</manga_mangadb_id>
+        <manga_title><![CDATA[Haite Kudasai, Takamine-san]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>159150716</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>1</my_read_chapters>
+        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -480,7 +520,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>157844609</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>18</my_read_chapters>
+        <my_read_chapters>21</my_read_chapters>
         <my_start_date>2024-01-30</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -739,8 +779,8 @@
         <manga_volumes>0</manga_volumes>
         <manga_chapters>0</manga_chapters>
         <my_id>158837284</my_id>
-        <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>30</my_read_chapters>
+        <my_read_volumes>11</my_read_volumes>
+        <my_read_chapters>0</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>

@@ -2389,7 +2389,7 @@
             {
               "mediaId": 169355,
               "status": "CURRENT",
-              "progress": 21,
+              "progress": 22,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2413,7 +2413,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1708704309,
+              "updatedAt": 1708980138,
               "createdAt": 1707349999,
               "media": {
                 "idMal": 162479,
@@ -2428,7 +2428,7 @@
             {
               "mediaId": 106064,
               "status": "CURRENT",
-              "progress": 68,
+              "progress": 107,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2452,7 +2452,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1708581044,
+              "updatedAt": 1709057670,
               "createdAt": 1708118611,
               "media": {
                 "idMal": 116880,
@@ -2499,6 +2499,84 @@
                   "romaji": "Haite Kudasai, Takamine-san",
                   "native": "履いてください、鷹峰さん",
                   "english": "Please Put Them On, Takamine-san"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 174169,
+              "status": "CURRENT",
+              "progress": 3,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2024,
+                "month": 2,
+                "day": 25
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1708856691,
+              "createdAt": 1708856683,
+              "media": {
+                "idMal": 166633,
+                "title": {
+                  "romaji": "Anatatachi Soredemo Sensei desu ka!",
+                  "native": "あなた達それでも先生ですかっ！",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 160465,
+              "status": "CURRENT",
+              "progress": 26,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1708980241,
+              "createdAt": 1708980202,
+              "media": {
+                "idMal": 156602,
+                "title": {
+                  "romaji": "Kanojo no Sore ni Yarareteru",
+                  "native": "彼女のそれにやられてる",
+                  "english": null
                 }
               },
               "score": 0

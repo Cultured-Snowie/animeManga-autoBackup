@@ -751,7 +751,7 @@
             {
               "mediaId": 30013,
               "status": "CURRENT",
-              "progress": 1063,
+              "progress": 1111,
               "progressVolumes": 97,
               "repeat": 0,
               "notes": null,
@@ -775,7 +775,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1666173774,
+              "updatedAt": 1711561198,
               "createdAt": 0,
               "media": {
                 "idMal": 13,
@@ -1999,7 +1999,7 @@
             {
               "mediaId": 30642,
               "status": "CURRENT",
-              "progress": 207,
+              "progress": 209,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2023,7 +2023,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1700915112,
+              "updatedAt": 1711568140,
               "createdAt": 1689168094,
               "media": {
                 "idMal": 642,
@@ -2194,7 +2194,7 @@
             {
               "mediaId": 168468,
               "status": "CURRENT",
-              "progress": 7,
+              "progress": 8,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2218,7 +2218,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1708616789,
+              "updatedAt": 1711564356,
               "createdAt": 1697793351,
               "media": {
                 "idMal": 160786,
@@ -2389,7 +2389,7 @@
             {
               "mediaId": 169355,
               "status": "CURRENT",
-              "progress": 24,
+              "progress": 25,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2413,7 +2413,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1710288566,
+              "updatedAt": 1711566010,
               "createdAt": 1707349999,
               "media": {
                 "idMal": 162479,
@@ -2545,7 +2545,7 @@
             {
               "mediaId": 160465,
               "status": "CURRENT",
-              "progress": 26,
+              "progress": 27,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2569,13 +2569,91 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1708980241,
+              "updatedAt": 1711566479,
               "createdAt": 1708980202,
               "media": {
                 "idMal": 156602,
                 "title": {
                   "romaji": "Kanojo no Sore ni Yarareteru",
                   "native": "彼女のそれにやられてる",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 34632,
+              "status": "CURRENT",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2024,
+                "month": 3,
+                "day": 28
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1711568685,
+              "createdAt": 1711568280,
+              "media": {
+                "idMal": 4632,
+                "title": {
+                  "romaji": "Oyasumi Punpun",
+                  "native": "おやすみプンプン",
+                  "english": "Goodnight Punpun"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 154877,
+              "status": "CURRENT",
+              "progress": 7,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1711821272,
+              "createdAt": 1711821021,
+              "media": {
+                "idMal": 152087,
+                "title": {
+                  "romaji": "Love Come Manga ni Haitte Shimatta node, Oshi no Make Heroine wo Zenryoku de Shiawase ni Suru",
+                  "native": "ラブコメ漫画に入ってしまったので、推しの負けヒロインを全力で幸せにする",
                   "english": null
                 }
               },

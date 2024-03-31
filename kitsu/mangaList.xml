@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>84</user_total_manga>
-        <user_total_reading>48</user_total_reading>
+        <user_total_manga>85</user_total_manga>
+        <user_total_reading>49</user_total_reading>
         <user_total_completed>11</user_total_completed>
         <user_total_onhold>2</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
@@ -27,6 +27,7 @@
         MAL entry not found for "Kagurabachi" https://kitsu.io/manga/kagurabachi
         MAL entry not found for "Chained to You" https://kitsu.io/manga/chained-to-you
         MAL entry not found for "Kanojo no Sore ni Yarareteru" https://kitsu.io/manga/kanojo-no-sore-ni-yarareteru
+        MAL entry not found for "Love Come Manga ni Haitte Shimatta node, Oshi no Make Heroine wo Zenryoku de Shiawase ni Suru" https://kitsu.io/manga/love-come-manga-ni-haitte-shimatta-node-oshi-no-make-heroine-wo-zenryoku-de-shiawase-ni-suru
     -->
 
     <manga>
@@ -136,7 +137,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>12</my_read_volumes>
-        <my_read_chapters>1084</my_read_chapters>
+        <my_read_chapters>1111</my_read_chapters>
         <my_start_date>2021-07-01</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -856,7 +857,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>207</my_read_chapters>
+        <my_read_chapters>209</my_read_chapters>
         <my_start_date>2023-08-22</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -916,7 +917,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>7</my_read_chapters>
+        <my_read_chapters>8</my_read_chapters>
         <my_start_date>2023-11-09</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -978,6 +979,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>1</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>4632</manga_mangadb_id>
+        <manga_title><![CDATA[Oyasumi Punpun]]></manga_title>
+        <manga_volumes>13</manga_volumes>
+        <manga_chapters>147</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>1</my_read_chapters>
+        <my_start_date>2024-03-27</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1936,7 +1957,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>24</my_read_chapters>
+        <my_read_chapters>26</my_read_chapters>
         <my_start_date>2024-02-07</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1976,8 +1997,28 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>26</my_read_chapters>
+        <my_read_chapters>27</my_read_chapters>
         <my_start_date>2024-02-26</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga-->
+    <!--manga>
+        <manga_mangadb_id></manga_mangadb_id>
+        <manga_title><![CDATA[Love Come Manga ni Haitte Shimatta node, Oshi no Make Heroine wo Zenryoku de Shiawase ni Suru]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>7</my_read_chapters>
+        <my_start_date>2024-03-30</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>

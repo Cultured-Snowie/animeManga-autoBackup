@@ -751,7 +751,7 @@
             {
               "mediaId": 119257,
               "status": "CURRENT",
-              "progress": 34,
+              "progress": 207,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -775,7 +775,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1713058438,
+              "updatedAt": 1713643864,
               "createdAt": 0,
               "media": {
                 "idMal": 132214,
@@ -790,7 +790,7 @@
             {
               "mediaId": 30013,
               "status": "CURRENT",
-              "progress": 1111,
+              "progress": 1112,
               "progressVolumes": 97,
               "repeat": 0,
               "notes": null,
@@ -814,7 +814,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1711561198,
+              "updatedAt": 1713644601,
               "createdAt": 0,
               "media": {
                 "idMal": 13,
@@ -2233,7 +2233,7 @@
             {
               "mediaId": 168468,
               "status": "CURRENT",
-              "progress": 8,
+              "progress": 9,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2257,7 +2257,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1711564356,
+              "updatedAt": 1713644981,
               "createdAt": 1697793351,
               "media": {
                 "idMal": 160786,
@@ -2428,7 +2428,7 @@
             {
               "mediaId": 169355,
               "status": "CURRENT",
-              "progress": 28,
+              "progress": 29,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2452,7 +2452,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1712619316,
+              "updatedAt": 1713644147,
               "createdAt": 1707349999,
               "media": {
                 "idMal": 162479,
@@ -2584,7 +2584,7 @@
             {
               "mediaId": 160465,
               "status": "CURRENT",
-              "progress": 27,
+              "progress": 28,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2608,7 +2608,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1711566479,
+              "updatedAt": 1713644221,
               "createdAt": 1708980202,
               "media": {
                 "idMal": 156602,

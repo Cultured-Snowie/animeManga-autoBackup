@@ -5,8 +5,8 @@
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
         <user_total_anime>287</user_total_anime>
-        <user_total_watching>8</user_total_watching>
-        <user_total_completed>169</user_total_completed>
+        <user_total_watching>6</user_total_watching>
+        <user_total_completed>171</user_total_completed>
         <user_total_onhold>31</user_total_onhold>
         <user_total_dropped>4</user_total_dropped>
         <user_total_plantowatch>75</user_total_plantowatch>
@@ -19,30 +19,8 @@
         <series_type>TV</series_type>
         <series_episodes>11</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>1</my_watched_episodes>
+        <my_watched_episodes>3</my_watched_episodes>
         <my_start_date>2024-04-11</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>54722</series_animedb_id>
-        <series_title><![CDATA[Mahou Shoujo ni Akogarete]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>13</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>11</my_watched_episodes>
-        <my_start_date>2024-01-20</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -85,7 +63,7 @@
         <series_type>TV</series_type>
         <series_episodes>12</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>1</my_watched_episodes>
+        <my_watched_episodes>3</my_watched_episodes>
         <my_start_date>2024-04-11</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -154,28 +132,6 @@
         <my_watched_episodes>13</my_watched_episodes>
         <my_start_date>2024-01-03</my_start_date>
         <my_finish_date>2024-04-08</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>36726</series_animedb_id>
-        <series_title><![CDATA[Yuragi-sou no Yuuna-san]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>12</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>6</my_watched_episodes>
-        <my_start_date>2024-03-16</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
         <my_dvd></my_dvd>
@@ -441,7 +397,7 @@
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
-        <my_score>6</my_score>
+        <my_score>7</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -1013,7 +969,7 @@
         <my_start_date>2022-04-09</my_start_date>
         <my_finish_date>2022-06-25</my_finish_date>
         <my_rated></my_rated>
-        <my_score>6</my_score>
+        <my_score>7</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -1101,7 +1057,7 @@
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>2021-10-06</my_finish_date>
         <my_rated></my_rated>
-        <my_score>6</my_score>
+        <my_score>7</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -1894,6 +1850,28 @@
         <my_finish_date>2022-05-10</my_finish_date>
         <my_rated></my_rated>
         <my_score>1</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>54722</series_animedb_id>
+        <series_title><![CDATA[Mahou Shoujo ni Akogarete]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>13</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>13</my_watched_episodes>
+        <my_start_date>2024-01-20</my_start_date>
+        <my_finish_date>2024-04-23</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>9</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -3830,6 +3808,28 @@
         <my_finish_date>2022-09-27</my_finish_date>
         <my_rated></my_rated>
         <my_score>8</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>36726</series_animedb_id>
+        <series_title><![CDATA[Yuragi-sou no Yuuna-san]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>12</my_watched_episodes>
+        <my_start_date>2024-03-16</my_start_date>
+        <my_finish_date>2024-04-23</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>7</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>

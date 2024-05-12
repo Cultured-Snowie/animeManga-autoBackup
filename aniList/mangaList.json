@@ -2736,6 +2736,45 @@
                 }
               },
               "score": 0
+            },
+            {
+              "mediaId": 166279,
+              "status": "CURRENT",
+              "progress": 11,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1715369537,
+              "createdAt": 1714972487,
+              "media": {
+                "idMal": 159771,
+                "title": {
+                  "romaji": "Saihate ni Madou",
+                  "native": "最果てに惑う",
+                  "english": null
+                }
+              },
+              "score": 0
             }
           ]
         },

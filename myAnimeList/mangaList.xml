@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>126</user_total_manga>
-        <user_total_reading>78</user_total_reading>
+        <user_total_manga>127</user_total_manga>
+        <user_total_reading>79</user_total_reading>
         <user_total_completed>12</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
@@ -861,7 +861,7 @@
         <my_id>157647838</my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>7</my_read_chapters>
-        <my_start_date>2024-01-26</my_start_date>
+        <my_start_date>2024-01-25</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1055,7 +1055,7 @@
     </manga>
     <manga>
         <manga_mangadb_id>132214</manga_mangadb_id>
-        <manga_title><![CDATA[Omniscient Reader]]></manga_title>
+        <manga_title><![CDATA[Omniscient Reader's Viewpoint]]></manga_title>
         <manga_volumes>0</manga_volumes>
         <manga_chapters>0</manga_chapters>
         <my_id>120867291</my_id>
@@ -1075,9 +1075,9 @@
     </manga>
     <manga>
         <manga_mangadb_id>143441</manga_mangadb_id>
-        <manga_title><![CDATA[Omniscient Reader]]></manga_title>
-        <manga_volumes>0</manga_volumes>
-        <manga_chapters>0</manga_chapters>
+        <manga_title><![CDATA[Omniscient Reader's Viewpoint]]></manga_title>
+        <manga_volumes>20</manga_volumes>
+        <manga_chapters>105</manga_chapters>
         <my_id>161906732</my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>360</my_read_chapters>
@@ -1234,6 +1234,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>159771</manga_mangadb_id>
+        <manga_title><![CDATA[Saihate ni Madou]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>162564649</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>11</my_read_chapters>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>147091</manga_mangadb_id>
         <manga_title><![CDATA[Seihantai na Kimi to Boku]]></manga_title>
         <manga_volumes>0</manga_volumes>
@@ -1359,8 +1379,8 @@
         <manga_volumes>18</manga_volumes>
         <manga_chapters>162</manga_chapters>
         <my_id>158244298</my_id>
-        <my_read_volumes>11</my_read_volumes>
-        <my_read_chapters>89</my_read_chapters>
+        <my_read_volumes>15</my_read_volumes>
+        <my_read_chapters>125</my_read_chapters>
         <my_start_date>2023-12-17</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>

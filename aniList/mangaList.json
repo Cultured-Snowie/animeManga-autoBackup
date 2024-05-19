@@ -790,7 +790,7 @@
             {
               "mediaId": 30013,
               "status": "CURRENT",
-              "progress": 1113,
+              "progress": 1114,
               "progressVolumes": 97,
               "repeat": 0,
               "notes": null,
@@ -814,7 +814,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1714664310,
+              "updatedAt": 1715564355,
               "createdAt": 0,
               "media": {
                 "idMal": 13,
@@ -1092,8 +1092,8 @@
               "media": {
                 "idMal": 121484,
                 "title": {
-                  "romaji": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
-                  "native": "ティアムーン帝国物語 ～断頭台から始まる、姫の転生逆転ストーリー～",
+                  "romaji": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story @COMIC",
+                  "native": "ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～@COMIC",
                   "english": "Tearmoon Empire"
                 }
               },
@@ -2428,7 +2428,7 @@
             {
               "mediaId": 169355,
               "status": "CURRENT",
-              "progress": 29,
+              "progress": 32,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2452,7 +2452,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1713644147,
+              "updatedAt": 1715565779,
               "createdAt": 1707349999,
               "media": {
                 "idMal": 162479,
@@ -2584,7 +2584,7 @@
             {
               "mediaId": 160465,
               "status": "CURRENT",
-              "progress": 28,
+              "progress": 29,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2608,7 +2608,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1713644221,
+              "updatedAt": 1715536418,
               "createdAt": 1708980202,
               "media": {
                 "idMal": 156602,
@@ -2701,7 +2701,7 @@
             {
               "mediaId": 116671,
               "status": "CURRENT",
-              "progress": 164,
+              "progress": 167,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2725,7 +2725,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1714408265,
+              "updatedAt": 1715829540,
               "createdAt": 1712943887,
               "media": {
                 "idMal": 125076,
@@ -2772,6 +2772,45 @@
                   "romaji": "Saihate ni Madou",
                   "native": "最果てに惑う",
                   "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 112621,
+              "status": "CURRENT",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2024,
+                "month": 5,
+                "day": 16
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1715852095,
+              "createdAt": 1715843365,
+              "media": {
+                "idMal": 123270,
+                "title": {
+                  "romaji": "Lonely Girl ni Sakaraenai",
+                  "native": "ロンリーガールに逆らえない",
+                  "english": "I Can't Say No to the Lonely Girl"
                 }
               },
               "score": 0
@@ -5054,6 +5093,45 @@
                 "title": {
                   "romaji": "Inkya ga Netoge Tomodachi ni Renai Soudan Sareta Hanashi",
                   "native": "陰キャがネトゲ友達に恋愛相談された話",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 166117,
+              "status": "COMPLETED",
+              "progress": 37,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2024,
+                "month": 5,
+                "day": 16
+              },
+              "completedAt": {
+                "year": 2024,
+                "month": 5,
+                "day": 16
+              },
+              "updatedAt": 1715844426,
+              "createdAt": 1715843402,
+              "media": {
+                "idMal": 168460,
+                "title": {
+                  "romaji": "Azadarake no Classmate",
+                  "native": "痣だらけのクラスメイト",
                   "english": null
                 }
               },

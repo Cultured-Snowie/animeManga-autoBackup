@@ -28,6 +28,7 @@
         MAL entry not found for "Chained to You" https://kitsu.io/manga/chained-to-you
         MAL entry not found for "Kanojo no Sore ni Yarareteru" https://kitsu.io/manga/kanojo-no-sore-ni-yarareteru
         MAL entry not found for "Love Come Manga ni Haitte Shimatta node, Oshi no Make Heroine wo Zenryoku de Shiawase ni Suru" https://kitsu.io/manga/love-come-manga-ni-haitte-shimatta-node-oshi-no-make-heroine-wo-zenryoku-de-shiawase-ni-suru
+        MAL entry not found for "Azadarake no Classmate ga Shinpai" https://kitsu.io/manga/azadarake-no-classmate-ga-shinpai
     -->
 
     <manga>
@@ -137,8 +138,8 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>12</my_read_volumes>
-        <my_read_chapters>1113</my_read_chapters>
-        <my_start_date>2021-07-01</my_start_date>
+        <my_read_chapters>1114</my_read_chapters>
+        <my_start_date>2021-06-30</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1017,7 +1018,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>164</my_read_chapters>
+        <my_read_chapters>167</my_read_chapters>
         <my_start_date>2024-04-10</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -2017,7 +2018,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>29</my_read_chapters>
+        <my_read_chapters>32</my_read_chapters>
         <my_start_date>2024-02-07</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -2057,7 +2058,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>28</my_read_chapters>
+        <my_read_chapters>29</my_read_chapters>
         <my_start_date>2024-02-26</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -2084,6 +2085,26 @@
         <my_score>0</my_score>
         <my_storage></my_storage>
         <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga-->
+    <!--manga>
+        <manga_mangadb_id></manga_mangadb_id>
+        <manga_title><![CDATA[Azadarake no Classmate ga Shinpai]]></manga_title>
+        <manga_volumes>1</manga_volumes>
+        <manga_chapters>37</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>37</my_read_chapters>
+        <my_start_date>2024-05-16</my_start_date>
+        <my_finish_date>2024-05-16</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
         <my_comments><![CDATA[]]></my_comments>
         <my_times_read>0</my_times_read>
         <my_tags><![CDATA[]]></my_tags>

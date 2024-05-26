@@ -359,6 +359,45 @@
               "score": 0
             },
             {
+              "mediaId": 87170,
+              "status": "CURRENT",
+              "progress": 16,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1716663089,
+              "createdAt": 0,
+              "media": {
+                "idMal": 98270,
+                "title": {
+                  "romaji": "Fire Punch",
+                  "native": "ファイアパンチ",
+                  "english": "Fire Punch"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 97830,
               "status": "CURRENT",
               "progress": 64,
@@ -2233,7 +2272,7 @@
             {
               "mediaId": 168468,
               "status": "CURRENT",
-              "progress": 9,
+              "progress": 10,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2257,7 +2296,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1713644981,
+              "updatedAt": 1716352830,
               "createdAt": 1697793351,
               "media": {
                 "idMal": 160786,
@@ -2621,45 +2660,6 @@
               "score": 0
             },
             {
-              "mediaId": 34632,
-              "status": "CURRENT",
-              "progress": 1,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2024,
-                "month": 3,
-                "day": 28
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 1711568685,
-              "createdAt": 1711568280,
-              "media": {
-                "idMal": 4632,
-                "title": {
-                  "romaji": "Oyasumi Punpun",
-                  "native": "おやすみプンプン",
-                  "english": "Goodnight Punpun"
-                }
-              },
-              "score": 0
-            },
-            {
               "mediaId": 154877,
               "status": "CURRENT",
               "progress": 7,
@@ -2938,6 +2938,84 @@
                 }
               },
               "score": 6
+            },
+            {
+              "mediaId": 136807,
+              "status": "COMPLETED",
+              "progress": 1,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2024,
+                "month": 5,
+                "day": 20
+              },
+              "completedAt": {
+                "year": 2024,
+                "month": 5,
+                "day": 20
+              },
+              "updatedAt": 1716170306,
+              "createdAt": 1716170286,
+              "media": {
+                "idMal": 138673,
+                "title": {
+                  "romaji": "Look Back",
+                  "native": "ルックバック",
+                  "english": "Look Back"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 146983,
+              "status": "COMPLETED",
+              "progress": 1,
+              "progressVolumes": 1,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2024,
+                "month": 5,
+                "day": 20
+              },
+              "completedAt": {
+                "year": 2024,
+                "month": 5,
+                "day": 20
+              },
+              "updatedAt": 1716172481,
+              "createdAt": 1716170661,
+              "media": {
+                "idMal": 145863,
+                "title": {
+                  "romaji": "Sayonara Eri",
+                  "native": "さよなら絵梨",
+                  "english": "Goodbye, Eri"
+                }
+              },
+              "score": 0
             }
           ]
         },
@@ -3137,45 +3215,6 @@
                   "romaji": "Dragon Ball",
                   "native": "ドラゴンボール",
                   "english": "Dragon Ball"
-                }
-              },
-              "score": 0
-            },
-            {
-              "mediaId": 87170,
-              "status": "PLANNING",
-              "progress": 0,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 98270,
-                "title": {
-                  "romaji": "Fire Punch",
-                  "native": "ファイアパンチ",
-                  "english": "Fire Punch"
                 }
               },
               "score": 0
@@ -4229,6 +4268,45 @@
                   "romaji": "Genkai Dokushin Joshi (26) Gohan",
                   "native": "限界独身女子(26)ごはん",
                   "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 34632,
+              "status": "PLANNING",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2024,
+                "month": 3,
+                "day": 28
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1716176645,
+              "createdAt": 1711568280,
+              "media": {
+                "idMal": 4632,
+                "title": {
+                  "romaji": "Oyasumi Punpun",
+                  "native": "おやすみプンプン",
+                  "english": "Goodnight Punpun"
                 }
               },
               "score": 0

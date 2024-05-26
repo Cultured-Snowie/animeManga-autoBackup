@@ -4,9 +4,9 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>88</user_total_manga>
+        <user_total_manga>90</user_total_manga>
         <user_total_reading>51</user_total_reading>
-        <user_total_completed>11</user_total_completed>
+        <user_total_completed>13</user_total_completed>
         <user_total_onhold>2</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
         <user_total_plantoread>24</user_total_plantoread>
@@ -632,6 +632,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>98270</manga_mangadb_id>
+        <manga_title><![CDATA[Fire Punch]]></manga_title>
+        <manga_volumes>8</manga_volumes>
+        <manga_chapters>83</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>16</my_read_chapters>
+        <my_start_date>2024-05-23</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>121484</manga_mangadb_id>
         <manga_title><![CDATA[Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story]]></manga_title>
         <manga_volumes>0</manga_volumes>
@@ -918,8 +938,8 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>9</my_read_chapters>
-        <my_start_date>2023-11-09</my_start_date>
+        <my_read_chapters>10</my_read_chapters>
+        <my_start_date>2023-11-08</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -980,26 +1000,6 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>1</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
-        <my_score>0</my_score>
-        <my_storage></my_storage>
-        <my_status>Reading</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_read>0</my_times_read>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_reread_value></my_reread_value>
-        <update_on_import>1</update_on_import>
-    </manga>
-    <manga>
-        <manga_mangadb_id>4632</manga_mangadb_id>
-        <manga_title><![CDATA[Oyasumi Punpun]]></manga_title>
-        <manga_volumes>13</manga_volumes>
-        <manga_chapters>147</manga_chapters>
-        <my_id></my_id>
-        <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>1</my_read_chapters>
-        <my_start_date>2024-03-27</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1261,6 +1261,46 @@
         <my_read_chapters>278</my_read_chapters>
         <my_start_date>2023-08-29</my_start_date>
         <my_finish_date>2023-08-29</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>138673</manga_mangadb_id>
+        <manga_title><![CDATA[Look Back]]></manga_title>
+        <manga_volumes>1</manga_volumes>
+        <manga_chapters>1</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>1</my_read_chapters>
+        <my_start_date>2024-05-20</my_start_date>
+        <my_finish_date>2024-05-20</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>145863</manga_mangadb_id>
+        <manga_title><![CDATA[Sayonara Eri]]></manga_title>
+        <manga_volumes>1</manga_volumes>
+        <manga_chapters>1</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>1</my_read_chapters>
+        <my_start_date>2024-05-20</my_start_date>
+        <my_finish_date>2024-05-20</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
         <my_storage></my_storage>
@@ -1612,26 +1652,6 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
-        <manga_mangadb_id>98270</manga_mangadb_id>
-        <manga_title><![CDATA[Fire Punch]]></manga_title>
-        <manga_volumes>8</manga_volumes>
-        <manga_chapters>83</manga_chapters>
-        <my_id></my_id>
-        <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>0</my_read_chapters>
-        <my_start_date>0000-00-00</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
-        <my_score>0</my_score>
-        <my_storage></my_storage>
-        <my_status>Plan to Read</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_read>0</my_times_read>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_reread_value></my_reread_value>
-        <update_on_import>1</update_on_import>
-    </manga>
-    <manga>
         <manga_mangadb_id>9</manga_mangadb_id>
         <manga_title><![CDATA[Tsubasa: RESERVoir CHRoNiCLE]]></manga_title>
         <manga_volumes>28</manga_volumes>
@@ -1760,6 +1780,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>0</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Plan to Read</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>4632</manga_mangadb_id>
+        <manga_title><![CDATA[Oyasumi Punpun]]></manga_title>
+        <manga_volumes>13</manga_volumes>
+        <manga_chapters>147</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>1</my_read_chapters>
+        <my_start_date>2024-03-27</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>

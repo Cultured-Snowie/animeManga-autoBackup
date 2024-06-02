@@ -829,7 +829,7 @@
             {
               "mediaId": 30013,
               "status": "CURRENT",
-              "progress": 1114,
+              "progress": 1115,
               "progressVolumes": 97,
               "repeat": 0,
               "notes": null,
@@ -853,7 +853,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1715564355,
+              "updatedAt": 1717097887,
               "createdAt": 0,
               "media": {
                 "idMal": 13,
@@ -2077,7 +2077,7 @@
             {
               "mediaId": 30642,
               "status": "CURRENT",
-              "progress": 209,
+              "progress": 211,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2101,7 +2101,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1711568140,
+              "updatedAt": 1717097495,
               "createdAt": 1689168094,
               "media": {
                 "idMal": 642,
@@ -2811,6 +2811,45 @@
                   "romaji": "Lonely Girl ni Sakaraenai",
                   "native": "ロンリーガールに逆らえない",
                   "english": "I Can't Say No to the Lonely Girl"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 163923,
+              "status": "CURRENT",
+              "progress": 1,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2024,
+                "month": 5,
+                "day": 31
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1717136935,
+              "createdAt": 1717136161,
+              "media": {
+                "idMal": 158356,
+                "title": {
+                  "romaji": "Isshou Senkin",
+                  "native": "一勝千金",
+                  "english": "ST✰R: Strike it Rich "
                 }
               },
               "score": 0
@@ -4345,7 +4384,7 @@
                 "title": {
                   "romaji": "Kokou no Hito",
                   "native": "孤高の人",
-                  "english": null
+                  "english": "The Climber"
                 }
               },
               "score": 0

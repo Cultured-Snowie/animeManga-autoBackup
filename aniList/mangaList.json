@@ -2818,7 +2818,7 @@
             {
               "mediaId": 163923,
               "status": "CURRENT",
-              "progress": 1,
+              "progress": 27,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2842,7 +2842,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1717136935,
+              "updatedAt": 1718007305,
               "createdAt": 1717136161,
               "media": {
                 "idMal": 158356,
@@ -2850,6 +2850,84 @@
                   "romaji": "Isshou Senkin",
                   "native": "一勝千金",
                   "english": "ST✰R: Strike it Rich "
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 99851,
+              "status": "CURRENT",
+              "progress": 3,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1718490349,
+              "createdAt": 1718436867,
+              "media": {
+                "idMal": 102997,
+                "title": {
+                  "romaji": "Saotome-Senshu, Hitakakusu",
+                  "native": "早乙女選手、ひたかくす",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 101434,
+              "status": "CURRENT",
+              "progress": 10,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2024,
+                "month": 6,
+                "day": 16
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1718491636,
+              "createdAt": 1718490578,
+              "media": {
+                "idMal": 113626,
+                "title": {
+                  "romaji": "Ima made Ichido mo Onna Atsukaisareta Koto ga nai Jokishi wo Onna Atsukai Suru",
+                  "native": "今まで一度も女扱いされたことがない女騎士を女扱いする漫画",
+                  "english": "How to Treat a Lady Knight Right"
                 }
               },
               "score": 0

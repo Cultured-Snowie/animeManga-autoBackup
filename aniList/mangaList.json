@@ -2818,7 +2818,7 @@
             {
               "mediaId": 163923,
               "status": "CURRENT",
-              "progress": 27,
+              "progress": 28,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2842,7 +2842,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1718007305,
+              "updatedAt": 1720053711,
               "createdAt": 1717136161,
               "media": {
                 "idMal": 158356,
@@ -2857,7 +2857,7 @@
             {
               "mediaId": 99851,
               "status": "CURRENT",
-              "progress": 7,
+              "progress": 8,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2881,7 +2881,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1718662632,
+              "updatedAt": 1720053805,
               "createdAt": 1718436867,
               "media": {
                 "idMal": 102997,
@@ -2896,7 +2896,7 @@
             {
               "mediaId": 101434,
               "status": "CURRENT",
-              "progress": 34,
+              "progress": 35,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2920,7 +2920,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1719635701,
+              "updatedAt": 1720052737,
               "createdAt": 1718490578,
               "media": {
                 "idMal": 113626,
@@ -4463,6 +4463,45 @@
                   "romaji": "Kokou no Hito",
                   "native": "孤高の人",
                   "english": "The Climber"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 86462,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1719981790,
+              "createdAt": 1719981790,
+              "media": {
+                "idMal": 91767,
+                "title": {
+                  "romaji": "Boku to Kimi no Taisetsu na Hanashi",
+                  "native": "僕と君の大切な話",
+                  "english": "Our Precious Conversations"
                 }
               },
               "score": 0

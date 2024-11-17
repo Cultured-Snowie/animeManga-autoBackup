@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>136</user_total_manga>
-        <user_total_reading>83</user_total_reading>
+        <user_total_manga>137</user_total_manga>
+        <user_total_reading>84</user_total_reading>
         <user_total_completed>16</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
@@ -56,7 +56,7 @@
     <manga>
         <manga_mangadb_id>126146</manga_mangadb_id>
         <manga_title><![CDATA["Oshi no Ko"]]></manga_title>
-        <manga_volumes>0</manga_volumes>
+        <manga_volumes>16</manga_volumes>
         <manga_chapters>0</manga_chapters>
         <my_id>121621917</my_id>
         <my_read_volumes>1</my_read_volumes>
@@ -120,7 +120,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>120867320</my_id>
         <my_read_volumes>42</my_read_volumes>
-        <my_read_chapters>376</my_read_chapters>
+        <my_read_chapters>377</my_read_chapters>
         <my_start_date>2022-04-04</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -374,6 +374,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>147874</manga_mangadb_id>
+        <manga_title><![CDATA[Gokurakugai]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>170848172</my_id>
+        <my_read_volumes>1</my_read_volumes>
+        <my_read_chapters>1</my_read_chapters>
+        <my_start_date>2024-11-04</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>70345</manga_mangadb_id>
         <manga_title><![CDATA[Grand Blue]]></manga_title>
         <manga_volumes>0</manga_volumes>
@@ -440,8 +460,8 @@
         <manga_chapters>0</manga_chapters>
         <my_id>159150716</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>2</my_read_chapters>
-        <my_start_date>0000-00-00</my_start_date>
+        <my_read_chapters>20</my_read_chapters>
+        <my_start_date>2024-11-05</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -480,7 +500,7 @@
         <manga_chapters>134</manga_chapters>
         <my_id>164406349</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>40</my_read_chapters>
+        <my_read_chapters>41</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>

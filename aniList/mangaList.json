@@ -2931,6 +2931,45 @@
                 }
               },
               "score": 0
+            },
+            {
+              "mediaId": 85849,
+              "status": "CURRENT",
+              "progress": 163,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1732020090,
+              "createdAt": 1731862658,
+              "media": {
+                "idMal": 78523,
+                "title": {
+                  "romaji": "ReLife",
+                  "native": "リライフ",
+                  "english": "ReLIFE"
+                }
+              },
+              "score": 0
             }
           ]
         },

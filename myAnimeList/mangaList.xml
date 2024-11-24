@@ -4,9 +4,9 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>137</user_total_manga>
+        <user_total_manga>138</user_total_manga>
         <user_total_reading>84</user_total_reading>
-        <user_total_completed>16</user_total_completed>
+        <user_total_completed>17</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
         <user_total_plantoread>34</user_total_plantoread>
@@ -220,7 +220,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>153256132</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>10</my_read_chapters>
+        <my_read_chapters>16</my_read_chapters>
         <my_start_date>2023-10-20</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1905,6 +1905,26 @@
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>9</my_score>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>78523</manga_mangadb_id>
+        <manga_title><![CDATA[ReLIFE]]></manga_title>
+        <manga_volumes>15</manga_volumes>
+        <manga_chapters>238</manga_chapters>
+        <my_id>171397874</my_id>
+        <my_read_volumes>15</my_read_volumes>
+        <my_read_chapters>238</my_read_chapters>
+        <my_start_date>2024-11-17</my_start_date>
+        <my_finish_date>2024-11-20</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
         <my_comments><![CDATA[]]></my_comments>

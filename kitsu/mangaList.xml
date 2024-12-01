@@ -5,8 +5,8 @@
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
         <user_total_manga>95</user_total_manga>
-        <user_total_reading>55</user_total_reading>
-        <user_total_completed>13</user_total_completed>
+        <user_total_reading>54</user_total_reading>
+        <user_total_completed>14</user_total_completed>
         <user_total_onhold>2</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
         <user_total_plantoread>25</user_total_plantoread>
@@ -35,7 +35,7 @@
         <manga_mangadb_id>12</manga_mangadb_id>
         <manga_title><![CDATA[BLEACH]]></manga_title>
         <manga_volumes>74</manga_volumes>
-        <manga_chapters>705</manga_chapters>
+        <manga_chapters>706</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>379</my_read_chapters>
@@ -74,8 +74,8 @@
     <manga>
         <manga_mangadb_id>113138</manga_mangadb_id>
         <manga_title><![CDATA[Jujutsu Kaisen]]></manga_title>
-        <manga_volumes>0</manga_volumes>
-        <manga_chapters>0</manga_chapters>
+        <manga_volumes>30</manga_volumes>
+        <manga_chapters>271</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>194</my_read_chapters>
@@ -274,8 +274,8 @@
     <manga>
         <manga_mangadb_id>75989</manga_mangadb_id>
         <manga_title><![CDATA[Boku no Hero Academia]]></manga_title>
-        <manga_volumes>0</manga_volumes>
-        <manga_chapters>0</manga_chapters>
+        <manga_volumes>42</manga_volumes>
+        <manga_chapters>431</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>363</my_read_chapters>
@@ -394,8 +394,8 @@
     <manga>
         <manga_mangadb_id>126146</manga_mangadb_id>
         <manga_title><![CDATA[[Oshi no Ko]]]></manga_title>
-        <manga_volumes>0</manga_volumes>
-        <manga_chapters>0</manga_chapters>
+        <manga_volumes>18</manga_volumes>
+        <manga_chapters>166</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>1</my_read_volumes>
         <my_read_chapters>136</my_read_chapters>
@@ -594,8 +594,8 @@
     <manga>
         <manga_mangadb_id>147091</manga_mangadb_id>
         <manga_title><![CDATA[Seihantai na Kimi to Boku]]></manga_title>
-        <manga_volumes>0</manga_volumes>
-        <manga_chapters>0</manga_chapters>
+        <manga_volumes>8</manga_volumes>
+        <manga_chapters>65</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>12</my_read_chapters>
@@ -958,7 +958,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>15</my_read_chapters>
+        <my_read_chapters>16</my_read_chapters>
         <my_start_date>2023-11-09</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1100,26 +1100,6 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>41</my_read_chapters>
         <my_start_date>2024-06-16</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
-        <my_score>0</my_score>
-        <my_storage></my_storage>
-        <my_status>Reading</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_read>0</my_times_read>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_reread_value></my_reread_value>
-        <update_on_import>1</update_on_import>
-    </manga>
-    <manga>
-        <manga_mangadb_id>78523</manga_mangadb_id>
-        <manga_title><![CDATA[ReLIFE]]></manga_title>
-        <manga_volumes>15</manga_volumes>
-        <manga_chapters>222</manga_chapters>
-        <my_id></my_id>
-        <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>163</my_read_chapters>
-        <my_start_date>2024-11-17</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1392,6 +1372,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>78523</manga_mangadb_id>
+        <manga_title><![CDATA[ReLIFE]]></manga_title>
+        <manga_volumes>15</manga_volumes>
+        <manga_chapters>222</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>222</my_read_chapters>
+        <my_start_date>2024-11-17</my_start_date>
+        <my_finish_date>2024-11-24</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>110889</manga_mangadb_id>
         <manga_title><![CDATA[Otoko no Ko Tsuma]]></manga_title>
         <manga_volumes>3</manga_volumes>
@@ -1475,7 +1475,7 @@
         <manga_mangadb_id>24692</manga_mangadb_id>
         <manga_title><![CDATA[Noragami]]></manga_title>
         <manga_volumes>27</manga_volumes>
-        <manga_chapters>0</manga_chapters>
+        <manga_chapters>109</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>1</my_read_chapters>
@@ -1654,8 +1654,8 @@
     <manga>
         <manga_mangadb_id>44489</manga_mangadb_id>
         <manga_title><![CDATA[Houseki no Kuni]]></manga_title>
-        <manga_volumes>0</manga_volumes>
-        <manga_chapters>0</manga_chapters>
+        <manga_volumes>13</manga_volumes>
+        <manga_chapters>108</manga_chapters>
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>0</my_read_chapters>

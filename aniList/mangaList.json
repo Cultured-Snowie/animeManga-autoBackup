@@ -2935,7 +2935,7 @@
             {
               "mediaId": 140475,
               "status": "CURRENT",
-              "progress": 65,
+              "progress": 78,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2959,7 +2959,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1733591731,
+              "updatedAt": 1734193451,
               "createdAt": 1733591001,
               "media": {
                 "idMal": 144267,
@@ -4541,6 +4541,45 @@
                   "romaji": "Boku to Kimi no Taisetsu na Hanashi",
                   "native": "僕と君の大切な話",
                   "english": "Our Precious Conversations"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 31224,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1734193530,
+              "createdAt": 1734193530,
+              "media": {
+                "idMal": 1224,
+                "title": {
+                  "romaji": "3-gatsu no Lion",
+                  "native": "3月のライオン",
+                  "english": "March Comes in Like a Lion"
                 }
               },
               "score": 0

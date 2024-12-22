@@ -4,15 +4,37 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>313</user_total_anime>
-        <user_total_watching>13</user_total_watching>
-        <user_total_completed>181</user_total_completed>
+        <user_total_anime>316</user_total_anime>
+        <user_total_watching>14</user_total_watching>
+        <user_total_completed>183</user_total_completed>
         <user_total_onhold>30</user_total_onhold>
         <user_total_dropped>4</user_total_dropped>
         <user_total_plantowatch>85</user_total_plantowatch>
     </myinfo>
 
 
+    <anime>
+        <series_animedb_id>31646</series_animedb_id>
+        <series_title><![CDATA[3-gatsu no Lion]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>22</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>2</my_watched_episodes>
+        <my_start_date>2024-12-15</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
     <anime>
         <series_animedb_id>52995</series_animedb_id>
         <series_title><![CDATA[Arifureta Shokugyou de Sekai Saikyou Season 3]]></series_title>
@@ -58,28 +80,6 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
-        <series_animedb_id>57334</series_animedb_id>
-        <series_title><![CDATA[Dandadan]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>12</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>8</my_watched_episodes>
-        <my_start_date>2024-10-10</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
         <series_animedb_id>39026</series_animedb_id>
         <series_title><![CDATA[Dumbbell Nan Kilo Moteru?]]></series_title>
         <series_type>TV</series_type>
@@ -109,6 +109,28 @@
         <my_id>0</my_id>
         <my_watched_episodes>5</my_watched_episodes>
         <my_start_date>2024-05-06</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>32686</series_animedb_id>
+        <series_title><![CDATA[Keijo!!!!!!!!]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>2024-12-15</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -806,6 +828,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>57334</series_animedb_id>
+        <series_title><![CDATA[Dandadan]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>12</my_watched_episodes>
+        <my_start_date>2024-10-10</my_start_date>
+        <my_finish_date>2024-12-20</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>1535</series_animedb_id>
         <series_title><![CDATA[Death Note]]></series_title>
         <series_type>TV</series_type>
@@ -904,6 +948,28 @@
         <my_finish_date>2022-04-24</my_finish_date>
         <my_rated></my_rated>
         <my_score>9</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>50612</series_animedb_id>
+        <series_title><![CDATA[Dr. Stone: Ryuusui]]></series_title>
+        <series_type>TV Special</series_type>
+        <series_episodes>1</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>2024-12-20</my_start_date>
+        <my_finish_date>2024-12-20</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>8</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -5030,28 +5096,6 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
-        <series_animedb_id>31646</series_animedb_id>
-        <series_title><![CDATA[3-gatsu no Lion]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>22</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>0</my_watched_episodes>
-        <my_start_date>0000-00-00</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Plan to Watch</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
         <series_animedb_id>52193</series_animedb_id>
         <series_title><![CDATA[Akiba Meido Sensou]]></series_title>
         <series_type>TV</series_type>
@@ -5322,6 +5366,28 @@
         <series_episodes>26</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>2</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>60543</series_animedb_id>
+        <series_title><![CDATA[Dandadan 2nd Season]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -6615,8 +6681,8 @@
     </anime>
     <anime>
         <series_animedb_id>53065</series_animedb_id>
-        <series_title><![CDATA[Sono Bisque Doll wa Koi wo Suru (Zoku-hen)]]></series_title>
-        <series_type>Unknown</series_type>
+        <series_title><![CDATA[Sono Bisque Doll wa Koi wo Suru 2nd Season]]></series_title>
+        <series_type>TV</series_type>
         <series_episodes>0</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>

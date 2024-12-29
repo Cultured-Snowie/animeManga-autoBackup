@@ -829,7 +829,7 @@
             {
               "mediaId": 30013,
               "status": "CURRENT",
-              "progress": 1116,
+              "progress": 1131,
               "progressVolumes": 97,
               "repeat": 0,
               "notes": null,
@@ -853,7 +853,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1719130502,
+              "updatedAt": 1734867718,
               "createdAt": 0,
               "media": {
                 "idMal": 13,
@@ -2272,7 +2272,7 @@
             {
               "mediaId": 168468,
               "status": "CURRENT",
-              "progress": 16,
+              "progress": 17,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2296,7 +2296,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1732465954,
+              "updatedAt": 1734842912,
               "createdAt": 1697793351,
               "media": {
                 "idMal": 160786,
@@ -2545,7 +2545,7 @@
             {
               "mediaId": 107559,
               "status": "CURRENT",
-              "progress": 2,
+              "progress": 21,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2569,7 +2569,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1728751760,
+              "updatedAt": 1734867927,
               "createdAt": 1708704346,
               "media": {
                 "idMal": 121433,

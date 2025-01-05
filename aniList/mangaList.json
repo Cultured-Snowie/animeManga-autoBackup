@@ -2935,7 +2935,7 @@
             {
               "mediaId": 140475,
               "status": "CURRENT",
-              "progress": 78,
+              "progress": 88,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2959,7 +2959,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1734193451,
+              "updatedAt": 1735565728,
               "createdAt": 1733591001,
               "media": {
                 "idMal": 144267,

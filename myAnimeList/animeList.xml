@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>316</user_total_anime>
-        <user_total_watching>14</user_total_watching>
+        <user_total_anime>318</user_total_anime>
+        <user_total_watching>16</user_total_watching>
         <user_total_completed>183</user_total_completed>
         <user_total_onhold>30</user_total_onhold>
         <user_total_dropped>4</user_total_dropped>
@@ -21,6 +21,28 @@
         <my_id>0</my_id>
         <my_watched_episodes>2</my_watched_episodes>
         <my_start_date>2024-12-15</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>366</series_animedb_id>
+        <series_title><![CDATA[AIKa]]></series_title>
+        <series_type>OVA</series_type>
+        <series_episodes>7</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>2025-01-10</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -212,6 +234,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>58567</series_animedb_id>
+        <series_title><![CDATA[Ore dake Level Up na Ken Season 2: Arise from the Shadow]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>13</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>13</my_watched_episodes>
+        <my_start_date>2025-01-05</my_start_date>
+        <my_finish_date>2025-01-05</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>6633</series_animedb_id>
         <series_title><![CDATA[Queen's Blade: Gyokuza wo Tsugu Mono]]></series_title>
         <series_type>TV</series_type>
@@ -313,28 +357,6 @@
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>52034</series_animedb_id>
-        <series_title><![CDATA["Oshi no Ko"]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>11</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>11</my_watched_episodes>
-        <my_start_date>2023-05-04</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>7</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Completed</my_status>
         <my_comments><![CDATA[]]></my_comments>
         <my_times_watched>0</my_times_watched>
         <my_rewatch_value>Low</my_rewatch_value>
@@ -4336,6 +4358,28 @@
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>9</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>52034</series_animedb_id>
+        <series_title><![CDATA[[Oshi no Ko]]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>11</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>11</my_watched_episodes>
+        <my_start_date>2023-05-04</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>7</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>

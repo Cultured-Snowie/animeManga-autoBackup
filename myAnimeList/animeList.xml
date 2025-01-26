@@ -4,9 +4,9 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>319</user_total_anime>
-        <user_total_watching>17</user_total_watching>
-        <user_total_completed>183</user_total_completed>
+        <user_total_anime>322</user_total_anime>
+        <user_total_watching>18</user_total_watching>
+        <user_total_completed>185</user_total_completed>
         <user_total_onhold>30</user_total_onhold>
         <user_total_dropped>4</user_total_dropped>
         <user_total_plantowatch>85</user_total_plantowatch>
@@ -87,6 +87,28 @@
         <my_id>0</my_id>
         <my_watched_episodes>167</my_watched_episodes>
         <my_start_date>2021-06-16</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>57592</series_animedb_id>
+        <series_title><![CDATA[Dr. Stone: Science Future]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>3</my_watched_episodes>
+        <my_start_date>2025-01-23</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -990,6 +1012,50 @@
         <my_watched_episodes>24</my_watched_episodes>
         <my_start_date>2021-08-20</my_start_date>
         <my_finish_date>2022-04-24</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>9</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>48549</series_animedb_id>
+        <series_title><![CDATA[Dr. Stone: New World]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>11</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>11</my_watched_episodes>
+        <my_start_date>2025-01-19</my_start_date>
+        <my_finish_date>2025-01-21</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>9</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>55644</series_animedb_id>
+        <series_title><![CDATA[Dr. Stone: New World Part 2]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>11</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>11</my_watched_episodes>
+        <my_start_date>2025-01-22</my_start_date>
+        <my_finish_date>2025-01-22</my_finish_date>
         <my_rated></my_rated>
         <my_score>9</my_score>
         <my_dvd></my_dvd>
@@ -3471,7 +3537,7 @@
         <series_animedb_id>32587</series_animedb_id>
         <series_title><![CDATA[Shoujo Ramune]]></series_title>
         <series_type>OVA</series_type>
-        <series_episodes>4</series_episodes>
+        <series_episodes>0</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>4</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>

@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>99</user_total_manga>
-        <user_total_reading>59</user_total_reading>
+        <user_total_manga>100</user_total_manga>
+        <user_total_reading>60</user_total_reading>
         <user_total_completed>14</user_total_completed>
         <user_total_onhold>2</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
@@ -23,7 +23,6 @@
         MAL entry not found for "Isekai Danyuu ~Shiru Danyuu ga Isekai Tensei shite Ero Chishiki Furu Katsuyo de Musou Danyuu ni naru Hanashi~" https://kitsu.io/manga/isekai-danyuu-shiru-danyuu-ga-isekai-tensei-shite-ero-chishiki-furu-katsuyo-de-musou-danyuu-ni-naru-hanashi
         MAL entry not found for "Osananajimi Kanojo no Morahara ga Hidoi n de Zetsuen Sengen Shite Yatta: Jibun Rashiku Ikiru Koto ni Shitara, Naze ka Tonari no Seki no Kakure Bishoujo kara Kokuhaku Sareta" https://kitsu.io/manga/osananajimi-kanojo-no-morahara-ga-hidoi-n-de-zetsuen-sengen-shite-yatta-jibun-rashiku-ikiru-koto-ni-shitara-naze-ka-tonari-no-seki-no-kakure-bishoujo-kara-kokuhaku-sareta
         MAL entry not found for "Nyanta to Pomeko: Imasara Shinjite Iru to Iwaretemo Mou Teokure da" https://kitsu.io/manga/nyanta-to-pomeko-imasara-shinjite-iru-to-iwaretemo-mou-teokure-da
-        MAL entry not found for "Kagurabachi" https://kitsu.io/manga/kagurabachi
         MAL entry not found for "Chained to You" https://kitsu.io/manga/chained-to-you
         MAL entry not found for "Love Come Manga ni Haitte Shimatta node, Oshi no Make Heroine wo Zenryoku de Shiawase ni Suru" https://kitsu.io/manga/love-come-manga-ni-haitte-shimatta-node-oshi-no-make-heroine-wo-zenryoku-de-shiawase-ni-suru
         MAL entry not found for "Azadarake no Classmate ga Shinpai" https://kitsu.io/manga/azadarake-no-classmate-ga-shinpai
@@ -978,6 +977,26 @@
         <my_id></my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>27</my_read_chapters>
+        <my_start_date>2024-02-07</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>162479</manga_mangadb_id>
+        <manga_title><![CDATA[Kagurabachi]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>32</my_read_chapters>
         <my_start_date>2024-02-07</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -2204,26 +2223,6 @@
         <my_score>7</my_score>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_read>0</my_times_read>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_reread_value></my_reread_value>
-        <update_on_import>1</update_on_import>
-    </manga-->
-    <!--manga>
-        <manga_mangadb_id></manga_mangadb_id>
-        <manga_title><![CDATA[Kagurabachi]]></manga_title>
-        <manga_volumes>0</manga_volumes>
-        <manga_chapters>0</manga_chapters>
-        <my_id></my_id>
-        <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>32</my_read_chapters>
-        <my_start_date>2024-02-07</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
-        <my_score>0</my_score>
-        <my_storage></my_storage>
-        <my_status>Reading</my_status>
         <my_comments><![CDATA[]]></my_comments>
         <my_times_read>0</my_times_read>
         <my_tags><![CDATA[]]></my_tags>

@@ -4,9 +4,9 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>332</user_total_anime>
-        <user_total_watching>18</user_total_watching>
-        <user_total_completed>192</user_total_completed>
+        <user_total_anime>334</user_total_anime>
+        <user_total_watching>19</user_total_watching>
+        <user_total_completed>193</user_total_completed>
         <user_total_onhold>30</user_total_onhold>
         <user_total_dropped>4</user_total_dropped>
         <user_total_plantowatch>88</user_total_plantowatch>
@@ -109,6 +109,28 @@
         <my_id>0</my_id>
         <my_watched_episodes>10</my_watched_episodes>
         <my_start_date>2024-06-10</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>54856</series_animedb_id>
+        <series_title><![CDATA[Horimiya: Piece]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>13</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>3</my_watched_episodes>
+        <my_start_date>2025-04-17</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -1388,6 +1410,28 @@
         <my_finish_date>2022-10-01</my_finish_date>
         <my_rated></my_rated>
         <my_score>7</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>42897</series_animedb_id>
+        <series_title><![CDATA[Horimiya]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>13</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>13</my_watched_episodes>
+        <my_start_date>2025-04-14</my_start_date>
+        <my_finish_date>2025-04-17</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>

@@ -4,9 +4,9 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>337</user_total_anime>
+        <user_total_anime>338</user_total_anime>
         <user_total_watching>19</user_total_watching>
-        <user_total_completed>195</user_total_completed>
+        <user_total_completed>196</user_total_completed>
         <user_total_onhold>30</user_total_onhold>
         <user_total_dropped>4</user_total_dropped>
         <user_total_plantowatch>89</user_total_plantowatch>
@@ -2926,6 +2926,28 @@
         <my_watched_episodes>12</my_watched_episodes>
         <my_start_date>2025-05-12</my_start_date>
         <my_finish_date>2025-05-12</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>50739</series_animedb_id>
+        <series_title><![CDATA[Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>12</my_watched_episodes>
+        <my_start_date>2025-05-20</my_start_date>
+        <my_finish_date>2025-05-24</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
         <my_dvd></my_dvd>

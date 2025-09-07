@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>144</user_total_manga>
-        <user_total_reading>91</user_total_reading>
+        <user_total_manga>147</user_total_manga>
+        <user_total_reading>94</user_total_reading>
         <user_total_completed>17</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
@@ -482,6 +482,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>21</my_read_chapters>
         <my_start_date>2024-11-05</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>176511</manga_mangadb_id>
+        <manga_title><![CDATA[Henkyou Mob Kizoku no Uchi ni Totsuidekita Akuyaku Reijou ga, Mechakucha Dekiru Ii Yome Nanda ga?]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>185987358</my_id>
+        <my_read_volumes>1</my_read_volumes>
+        <my_read_chapters>3</my_read_chapters>
+        <my_start_date>2025-09-05</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -982,6 +1002,26 @@
         <my_read_volumes>2</my_read_volumes>
         <my_read_chapters>34</my_read_chapters>
         <my_start_date>2022-02-03</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>178605</manga_mangadb_id>
+        <manga_title><![CDATA[Koukou Jidai ni Gouman datta Joou-sama to no Dousei Seikatsu wa Igai to Igokochi ga Warukunai]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>186029822</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>20</my_read_chapters>
+        <my_start_date>2025-09-06</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1542,6 +1582,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>4</my_read_chapters>
         <my_start_date>2022-03-29</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>157778</manga_mangadb_id>
+        <manga_title><![CDATA[Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome dato Omowareteiru]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>186031814</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>19</my_read_chapters>
+        <my_start_date>2025-09-06</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>

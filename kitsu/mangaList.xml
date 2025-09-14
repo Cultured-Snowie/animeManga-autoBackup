@@ -27,6 +27,7 @@
         MAL entry not found for "Love Come Manga ni Haitte Shimatta node, Oshi no Make Heroine wo Zenryoku de Shiawase ni Suru" https://kitsu.io/manga/love-come-manga-ni-haitte-shimatta-node-oshi-no-make-heroine-wo-zenryoku-de-shiawase-ni-suru
         MAL entry not found for "Azadarake no Classmate ga Shinpai" https://kitsu.io/manga/azadarake-no-classmate-ga-shinpai
         MAL entry not found for "Isshou Senkin" https://kitsu.io/manga/issho-senkin
+        MAL entry not found for "Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru" https://kitsu.io/manga/tanbo-de-hirotta-onna-kishi-inaka-de-ore-no-yome-da-to-omowarete-iru-2023
     -->
 
     <manga>
@@ -2298,6 +2299,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>29</my_read_chapters>
         <my_start_date>2024-05-31</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value></my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga-->
+    <!--manga>
+        <manga_mangadb_id></manga_mangadb_id>
+        <manga_title><![CDATA[Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id></my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>28</my_read_chapters>
+        <my_start_date>2025-09-07</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>

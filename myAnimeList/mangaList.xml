@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>147</user_total_manga>
-        <user_total_reading>94</user_total_reading>
+        <user_total_manga>149</user_total_manga>
+        <user_total_reading>96</user_total_reading>
         <user_total_completed>17</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
@@ -182,6 +182,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>368</my_read_chapters>
         <my_start_date>2021-08-26</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>118816</manga_mangadb_id>
+        <manga_title><![CDATA[Boku wa Ai wo Shoumei Shiyou to Omou.]]></manga_title>
+        <manga_volumes>3</manga_volumes>
+        <manga_chapters>23</manga_chapters>
+        <my_id>186112669</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>3</my_read_chapters>
+        <my_start_date>2025-09-08</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1034,6 +1054,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>184158</manga_mangadb_id>
+        <manga_title><![CDATA[Kuni ni Suterareta Rakuin Yuusha, Youjo ni Hirowarete Shiawase na Slow Life wo Hajimeru]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>186232298</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>3</my_read_chapters>
+        <my_start_date>2025-09-11</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>44929</manga_mangadb_id>
         <manga_title><![CDATA[Kuzu no Honkai]]></manga_title>
         <manga_volumes>9</manga_volumes>
@@ -1600,7 +1640,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>186031814</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>19</my_read_chapters>
+        <my_read_chapters>28</my_read_chapters>
         <my_start_date>2025-09-06</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>

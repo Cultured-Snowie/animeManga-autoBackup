@@ -4,12 +4,12 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>149</user_total_manga>
-        <user_total_reading>96</user_total_reading>
+        <user_total_manga>151</user_total_manga>
+        <user_total_reading>97</user_total_reading>
         <user_total_completed>17</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
-        <user_total_plantoread>33</user_total_plantoread>
+        <user_total_plantoread>34</user_total_plantoread>
     </myinfo>
 
 
@@ -240,7 +240,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>153256132</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>17</my_read_chapters>
+        <my_read_chapters>26</my_read_chapters>
         <my_start_date>2023-10-20</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1040,7 +1040,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>186029822</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>20</my_read_chapters>
+        <my_read_chapters>21</my_read_chapters>
         <my_start_date>2025-09-06</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1640,7 +1640,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>186031814</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>28</my_read_chapters>
+        <my_read_chapters>47</my_read_chapters>
         <my_start_date>2025-09-06</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1802,6 +1802,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>37</my_read_chapters>
         <my_start_date>2023-10-17</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>170851</manga_mangadb_id>
+        <manga_title><![CDATA[Tsuihou sareta Akuyaku Reijou to Tensei Danshaku no Slow de Fushigi na Kekkon Seikatsu]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>186790435</my_id>
+        <my_read_volumes>1</my_read_volumes>
+        <my_read_chapters>6</my_read_chapters>
+        <my_start_date>2025-09-20</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -2762,6 +2782,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>3</my_read_chapters>
         <my_start_date>2022-03-15</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Plan to Read</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>178994</manga_mangadb_id>
+        <manga_title><![CDATA[Munou no Akudou Ouji wa Ikinokoritai: Renai RPG no Akuyaku Mob ni Tensei shita kedo, Gensaku Mushi shite Saikyou wo Mezasu]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>186795236</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>9</my_read_chapters>
+        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>

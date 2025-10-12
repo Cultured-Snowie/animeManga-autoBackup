@@ -4,9 +4,9 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>164</user_total_manga>
-        <user_total_reading>108</user_total_reading>
-        <user_total_completed>19</user_total_completed>
+        <user_total_manga>169</user_total_manga>
+        <user_total_reading>111</user_total_reading>
+        <user_total_completed>21</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
         <user_total_plantoread>34</user_total_plantoread>
@@ -220,8 +220,8 @@
         <manga_chapters>0</manga_chapters>
         <my_id>188135598</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>71</my_read_chapters>
-        <my_start_date>0000-00-00</my_start_date>
+        <my_read_chapters>72</my_read_chapters>
+        <my_start_date>2025-10-07</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -354,14 +354,54 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>187454</manga_mangadb_id>
+        <manga_title><![CDATA[Chanto Suki tte Ieruko Musou]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>188478545</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>1</my_read_chapters>
+        <my_start_date>2025-10-05</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>144493</manga_mangadb_id>
         <manga_title><![CDATA[Chounin A wa Akuyaku Reijou wo Doushitemo Sukuitai: Dobu to Sora to Koori no Himegimi]]></manga_title>
         <manga_volumes>0</manga_volumes>
         <manga_chapters>0</manga_chapters>
         <my_id>186914287</my_id>
         <my_read_volumes>8</my_read_volumes>
-        <my_read_chapters>39</my_read_chapters>
+        <my_read_chapters>40</my_read_chapters>
         <my_start_date>2025-09-22</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>149804</manga_mangadb_id>
+        <manga_title><![CDATA[Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>188802015</my_id>
+        <my_read_volumes>1</my_read_volumes>
+        <my_read_chapters>1</my_read_chapters>
+        <my_start_date>2025-10-11</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1634,6 +1674,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>183923</manga_mangadb_id>
+        <manga_title><![CDATA[Ringoku kara Kita Yome ga Kawaisugite Doushiyou.]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>188810951</my_id>
+        <my_read_volumes>2</my_read_volumes>
+        <my_read_chapters>9</my_read_chapters>
+        <my_start_date>2025-10-11</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>104829</manga_mangadb_id>
         <manga_title><![CDATA[Sachi-iro no One Room]]></manga_title>
         <manga_volumes>11</manga_volumes>
@@ -1660,7 +1720,7 @@
         <manga_chapters>16</manga_chapters>
         <my_id>162564649</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>12</my_read_chapters>
+        <my_read_chapters>13</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -2514,6 +2574,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>171401</manga_mangadb_id>
+        <manga_title><![CDATA[Tekkyaku no Ryouko]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>1</manga_chapters>
+        <my_id>188481106</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>1</my_read_chapters>
+        <my_start_date>2025-10-05</my_start_date>
+        <my_finish_date>2025-10-05</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>125036</manga_mangadb_id>
         <manga_title><![CDATA[The Horizon]]></manga_title>
         <manga_volumes>3</manga_volumes>
@@ -2525,6 +2605,26 @@
         <my_finish_date>2022-03-14</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>9</my_score>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>126140</manga_mangadb_id>
+        <manga_title><![CDATA[Tonari no Seki ni Natta Bishoujo ga Horesaseyou to Karakattekuru ga Itsunomanika Kaeriuchi ni Shiteita]]></manga_title>
+        <manga_volumes>5</manga_volumes>
+        <manga_chapters>25</manga_chapters>
+        <my_id>188695255</my_id>
+        <my_read_volumes>3</my_read_volumes>
+        <my_read_chapters>25</my_read_chapters>
+        <my_start_date>2025-10-09</my_start_date>
+        <my_finish_date>2025-10-10</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
         <my_comments><![CDATA[]]></my_comments>

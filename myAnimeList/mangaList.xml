@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>169</user_total_manga>
-        <user_total_reading>111</user_total_reading>
+        <user_total_manga>173</user_total_manga>
+        <user_total_reading>115</user_total_reading>
         <user_total_completed>21</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
@@ -300,7 +300,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>153256132</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>26</my_read_chapters>
+        <my_read_chapters>27</my_read_chapters>
         <my_start_date>2023-10-20</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -442,6 +442,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>150</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>151183</manga_mangadb_id>
+        <manga_title><![CDATA[Douka Ore wo Houtteoite Kure: Nazeka Bocchi no Owatta Koukou Seikatsu wo Kanojo ga Kaeyou to Shitekuru]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189165395</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>30</my_read_chapters>
+        <my_start_date>2025-10-18</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1094,6 +1114,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>152564</manga_mangadb_id>
+        <manga_title><![CDATA[Kimi no Kokoro wo Kanji-tai]]></manga_title>
+        <manga_volumes>3</manga_volumes>
+        <manga_chapters>25</manga_chapters>
+        <my_id>189078098</my_id>
+        <my_read_volumes>2</my_read_volumes>
+        <my_read_chapters>10</my_read_chapters>
+        <my_start_date>2025-10-16</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>123681</manga_mangadb_id>
         <manga_title><![CDATA[Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo]]></manga_title>
         <manga_volumes>0</manga_volumes>
@@ -1200,7 +1240,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>186029822</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>22</my_read_chapters>
+        <my_read_chapters>23</my_read_chapters>
         <my_start_date>2025-09-06</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1680,7 +1720,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>188810951</my_id>
         <my_read_volumes>2</my_read_volumes>
-        <my_read_chapters>9</my_read_chapters>
+        <my_read_chapters>11</my_read_chapters>
         <my_start_date>2025-10-11</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1720,7 +1760,7 @@
         <manga_chapters>16</manga_chapters>
         <my_id>162564649</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>13</my_read_chapters>
+        <my_read_chapters>14</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1994,6 +2034,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>141588</manga_mangadb_id>
+        <manga_title><![CDATA[Tobioriyou to Shiteiru Joshikousei wo Tasuketara Dou Naru no ka?]]></manga_title>
+        <manga_volumes>4</manga_volumes>
+        <manga_chapters>34</manga_chapters>
+        <my_id>189126061</my_id>
+        <my_read_volumes>4</my_read_volumes>
+        <my_read_chapters>23</my_read_chapters>
+        <my_start_date>2025-10-17</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>130029</manga_mangadb_id>
         <manga_title><![CDATA[Tokyo Aliens]]></manga_title>
         <manga_volumes>0</manga_volumes>
@@ -2102,6 +2162,26 @@
         <my_read_volumes>1</my_read_volumes>
         <my_read_chapters>6</my_read_chapters>
         <my_start_date>2025-09-20</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>172843</manga_mangadb_id>
+        <manga_title><![CDATA[Urenokori no Dorei Elf wo Hirotta node, Musume ni Suru Koto ni Shita]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>188909278</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>17</my_read_chapters>
+        <my_start_date>2025-10-13</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>

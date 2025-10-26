@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>173</user_total_manga>
-        <user_total_reading>115</user_total_reading>
+        <user_total_manga>175</user_total_manga>
+        <user_total_reading>117</user_total_reading>
         <user_total_completed>21</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
@@ -694,6 +694,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>118251</manga_mangadb_id>
+        <manga_title><![CDATA[Hitoribocchi no Isekai Kouryaku]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189234671</my_id>
+        <my_read_volumes>1</my_read_volumes>
+        <my_read_chapters>3</my_read_chapters>
+        <my_start_date>2025-10-19</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>44489</manga_mangadb_id>
         <manga_title><![CDATA[Houseki no Kuni]]></manga_title>
         <manga_volumes>13</manga_volumes>
@@ -822,6 +842,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>14</my_read_chapters>
         <my_start_date>2023-10-20</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>182546</manga_mangadb_id>
+        <manga_title><![CDATA[Jinsei Gyakuten: Uwaki sare, Enzai wo Kiserareta Ore ga, Gakuen Ichi no Bishoujo ni Natsukareru]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189223026</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>5</my_read_chapters>
+        <my_start_date>2025-10-19</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>

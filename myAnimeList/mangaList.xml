@@ -4,9 +4,9 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>175</user_total_manga>
-        <user_total_reading>117</user_total_reading>
-        <user_total_completed>21</user_total_completed>
+        <user_total_manga>187</user_total_manga>
+        <user_total_reading>128</user_total_reading>
+        <user_total_completed>22</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>0</user_total_dropped>
         <user_total_plantoread>34</user_total_plantoread>
@@ -142,6 +142,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>3</my_read_chapters>
         <my_start_date>2024-02-25</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>180314</manga_mangadb_id>
+        <manga_title><![CDATA[Anta to Osananajimi tte dake demo Iya nanoni! Zekkou kara Hajimaru S-kyuu Bishoujo to no Gakuen Nariagari Seikatsu]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189627626</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>7</my_read_chapters>
+        <my_start_date>2025-10-27</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -360,7 +380,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>188478545</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>1</my_read_chapters>
+        <my_read_chapters>2</my_read_chapters>
         <my_start_date>2025-10-05</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -874,6 +894,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>182745</manga_mangadb_id>
+        <manga_title><![CDATA[Jinsei Gyakuten: Uwaki sare, Enzai wo Kiserareta Ore ga, Gakuen Ichi no Bishoujo ni Natsukareru]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189772835</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>124</my_read_chapters>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>1706</manga_mangadb_id>
         <manga_title><![CDATA[JoJo no Kimyou na Bouken Part 7: Steel Ball Run]]></manga_title>
         <manga_volumes>24</manga_volumes>
@@ -1114,6 +1154,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>171151</manga_mangadb_id>
+        <manga_title><![CDATA[Kekkon Shiyou. Rikon Zentei de.]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189834843</my_id>
+        <my_read_volumes>4</my_read_volumes>
+        <my_read_chapters>14</my_read_chapters>
+        <my_start_date>2025-11-02</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>96792</manga_mangadb_id>
         <manga_title><![CDATA[Kimetsu no Yaiba]]></manga_title>
         <manga_volumes>23</manga_volumes>
@@ -1214,6 +1274,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>130951</manga_mangadb_id>
+        <manga_title><![CDATA[Koi wa Ii kara Nemuritai!]]></manga_title>
+        <manga_volumes>2</manga_volumes>
+        <manga_chapters>15</manga_chapters>
+        <my_id>189819423</my_id>
+        <my_read_volumes>2</my_read_volumes>
+        <my_read_chapters>14</my_read_chapters>
+        <my_start_date>2025-11-01</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>7375</manga_mangadb_id>
         <manga_title><![CDATA[Kokou no Hito]]></manga_title>
         <manga_volumes>17</manga_volumes>
@@ -1254,6 +1334,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>152835</manga_mangadb_id>
+        <manga_title><![CDATA[Konse wa Goen ga Arimasu You ni!]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189617390</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>16</my_read_chapters>
+        <my_start_date>2025-10-27</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>172787</manga_mangadb_id>
         <manga_title><![CDATA[Koori no Hime wa Chiisana Hidamari de Tokasaretai]]></manga_title>
         <manga_volumes>0</manga_volumes>
@@ -1280,7 +1380,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>186029822</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>23</my_read_chapters>
+        <my_read_chapters>24</my_read_chapters>
         <my_start_date>2025-09-06</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1302,6 +1402,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>3</my_read_chapters>
         <my_start_date>2025-09-11</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>156835</manga_mangadb_id>
+        <manga_title><![CDATA[Kusunoki-san wa Koukou Debut ni Shippaishiteiru]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189591410</my_id>
+        <my_read_volumes>5</my_read_volumes>
+        <my_read_chapters>45</my_read_chapters>
+        <my_start_date>2025-10-27</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1474,6 +1594,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>182391</manga_mangadb_id>
+        <manga_title><![CDATA[Munou to Iwaretsuzuketa Madoushi, Jitsu wa Sekai Saikyou nanoni Yuuhei sareteita node Jikaku Nashi]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189662950</my_id>
+        <my_read_volumes>1</my_read_volumes>
+        <my_read_chapters>4</my_read_chapters>
+        <my_start_date>2025-10-28</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>138347</manga_mangadb_id>
         <manga_title><![CDATA[Musubime Nemuri wa Shite Kurenaku mo Nai]]></manga_title>
         <manga_volumes>1</manga_volumes>
@@ -1542,6 +1682,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>6</my_read_chapters>
         <my_start_date>2022-10-08</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>153913</manga_mangadb_id>
+        <manga_title><![CDATA[Netoge no Yome ga Ninki Idol datta: Cool-kei no Kanojo wa Genjitsu demo Yome no Tsumori de Iru]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189543878</my_id>
+        <my_read_volumes>2</my_read_volumes>
+        <my_read_chapters>14</my_read_chapters>
+        <my_start_date>2025-10-26</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1662,6 +1822,46 @@
         <my_read_volumes>20</my_read_volumes>
         <my_read_chapters>103</my_read_chapters>
         <my_start_date>2022-01-24</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>159054</manga_mangadb_id>
+        <manga_title><![CDATA[Ore ni Trauma wo Ataeta Joshi-tachi ga Chirachira Mitekuru kedo, Zannen desu ga Teokure desu]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189733823</my_id>
+        <my_read_volumes>6</my_read_volumes>
+        <my_read_chapters>26</my_read_chapters>
+        <my_start_date>2025-10-30</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>134099</manga_mangadb_id>
+        <manga_title><![CDATA[Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189737650</my_id>
+        <my_read_volumes>10</my_read_volumes>
+        <my_read_chapters>82</my_read_chapters>
+        <my_start_date>2025-10-30</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1842,6 +2042,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>11</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>165259</manga_mangadb_id>
+        <manga_title><![CDATA[Sekai de Ichiban "Kawaii" Amamiya-san, Nibanme wa Ore. The Comic]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189831662</my_id>
+        <my_read_volumes>2</my_read_volumes>
+        <my_read_chapters>9</my_read_chapters>
+        <my_start_date>2025-11-01</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -2503,6 +2723,26 @@
         <my_read_chapters>18</my_read_chapters>
         <my_start_date>2022-03-14</my_start_date>
         <my_finish_date>2022-03-14</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>141504</manga_mangadb_id>
+        <manga_title><![CDATA[Kiraware Yuusha wo Enjita Ore wa, Nazeka Last Boss ni Sukarete Issho ni Seikatsu shitemasu!]]></manga_title>
+        <manga_volumes>4</manga_volumes>
+        <manga_chapters>22</manga_chapters>
+        <my_id>189705591</my_id>
+        <my_read_volumes>4</my_read_volumes>
+        <my_read_chapters>22</my_read_chapters>
+        <my_start_date>2025-10-29</my_start_date>
+        <my_finish_date>2025-10-29</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
         <my_storage></my_storage>

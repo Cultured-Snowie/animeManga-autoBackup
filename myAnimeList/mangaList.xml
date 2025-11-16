@@ -4,11 +4,11 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>192</user_total_manga>
-        <user_total_reading>132</user_total_reading>
+        <user_total_manga>196</user_total_manga>
+        <user_total_reading>135</user_total_reading>
         <user_total_completed>22</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
-        <user_total_dropped>0</user_total_dropped>
+        <user_total_dropped>1</user_total_dropped>
         <user_total_plantoread>35</user_total_plantoread>
     </myinfo>
 
@@ -1394,6 +1394,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>184120</manga_mangadb_id>
+        <manga_title><![CDATA[Kokou no Ou to Hidamari no Hanayome ga Saikou no Fuufu ni Naru made]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>190409236</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>4</my_read_chapters>
+        <my_start_date>2025-11-13</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>99007</manga_mangadb_id>
         <manga_title><![CDATA[Komi-san wa, Comyushou desu.]]></manga_title>
         <manga_volumes>37</manga_volumes>
@@ -1460,7 +1480,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>186029822</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>24</my_read_chapters>
+        <my_read_chapters>25</my_read_chapters>
         <my_start_date>2025-09-06</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1940,7 +1960,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>189737650</my_id>
         <my_read_volumes>10</my_read_volumes>
-        <my_read_chapters>82</my_read_chapters>
+        <my_read_chapters>83</my_read_chapters>
         <my_start_date>2025-10-30</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -2194,6 +2214,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>148785</manga_mangadb_id>
+        <manga_title><![CDATA[Shimotsuki-san wa Mob ga Suki: Hitomishiri na Kanojo wa Ore ni dake Dere Amai]]></manga_title>
+        <manga_volumes>3</manga_volumes>
+        <manga_chapters>20</manga_chapters>
+        <my_id>190352702</my_id>
+        <my_read_volumes>3</my_read_volumes>
+        <my_read_chapters>19</my_read_chapters>
+        <my_start_date>2025-11-12</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>445</manga_mangadb_id>
         <manga_title><![CDATA[Shonan Junai Gumi!]]></manga_title>
         <manga_volumes>31</manga_volumes>
@@ -2242,6 +2282,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>4</my_read_chapters>
         <my_start_date>2022-03-29</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>172087</manga_mangadb_id>
+        <manga_title><![CDATA[Tada no Murabito no Boku ga, Sanbyakunenmae no Boukun Ouji ni Tensei shite Shimaimashita: Zensei no Chishiki de Ansatsu Flag wo Kaihi shite, Odayaka ni Ikinokorimasu!]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>190448960</my_id>
+        <my_read_volumes>2</my_read_volumes>
+        <my_read_chapters>7</my_read_chapters>
+        <my_start_date>2025-11-14</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -3147,6 +3207,26 @@
         <my_score>0</my_score>
         <my_storage></my_storage>
         <my_status>On-Hold</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>152924</manga_mangadb_id>
+        <manga_title><![CDATA[Class no Bocchi Gal wo Omochikaeri shite Seiso-kei Bijin ni Shiteyatta Hanashi]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>190421626</my_id>
+        <my_read_volumes>3</my_read_volumes>
+        <my_read_chapters>11</my_read_chapters>
+        <my_start_date>2025-11-13</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Dropped</my_status>
         <my_comments><![CDATA[]]></my_comments>
         <my_times_read>0</my_times_read>
         <my_tags><![CDATA[]]></my_tags>

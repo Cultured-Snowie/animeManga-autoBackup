@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>196</user_total_manga>
-        <user_total_reading>135</user_total_reading>
+        <user_total_manga>198</user_total_manga>
+        <user_total_reading>137</user_total_reading>
         <user_total_completed>22</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>1</user_total_dropped>
@@ -340,7 +340,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>153256132</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>27</my_read_chapters>
+        <my_read_chapters>28</my_read_chapters>
         <my_start_date>2023-10-20</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -602,6 +602,26 @@
         <my_read_volumes>7</my_read_volumes>
         <my_read_chapters>64</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>180363</manga_mangadb_id>
+        <manga_title><![CDATA[Game Chuuban de Shinu Akuyaku Kizoku ni Tensei shita node, Hazure Skill "Tame" wo Kushi shite Saikyou wo Mezashitemita]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>190741447</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>34</my_read_chapters>
+        <my_start_date>2025-11-20</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1236,8 +1256,8 @@
     <manga>
         <manga_mangadb_id>171151</manga_mangadb_id>
         <manga_title><![CDATA[Kekkon Shiyou. Rikon Zentei de.]]></manga_title>
-        <manga_volumes>0</manga_volumes>
-        <manga_chapters>0</manga_chapters>
+        <manga_volumes>4</manga_volumes>
+        <manga_chapters>18</manga_chapters>
         <my_id>189834843</my_id>
         <my_read_volumes>4</my_read_volumes>
         <my_read_chapters>14</my_read_chapters>
@@ -1754,6 +1774,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>178671</manga_mangadb_id>
+        <manga_title><![CDATA[My Bias Gets on the Last Train]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>190735348</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>54</my_read_chapters>
+        <my_start_date>2025-11-20</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>76021</manga_mangadb_id>
         <manga_title><![CDATA[My Boy]]></manga_title>
         <manga_volumes>4</manga_volumes>
@@ -1860,7 +1900,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>120867291</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>208</my_read_chapters>
+        <my_read_chapters>289</my_read_chapters>
         <my_start_date>2021-11-17</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>

@@ -4,9 +4,9 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>361</user_total_anime>
+        <user_total_anime>362</user_total_anime>
         <user_total_watching>30</user_total_watching>
-        <user_total_completed>203</user_total_completed>
+        <user_total_completed>204</user_total_completed>
         <user_total_onhold>29</user_total_onhold>
         <user_total_dropped>6</user_total_dropped>
         <user_total_plantowatch>93</user_total_plantowatch>
@@ -173,7 +173,7 @@
         <series_type>TV</series_type>
         <series_episodes>201</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>39</my_watched_episodes>
+        <my_watched_episodes>61</my_watched_episodes>
         <my_start_date>2025-11-30</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -525,7 +525,7 @@
         <series_type>TV</series_type>
         <series_episodes>10</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>10</my_watched_episodes>
+        <my_watched_episodes>4</my_watched_episodes>
         <my_start_date>2026-01-21</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -657,7 +657,7 @@
         <series_type>TV</series_type>
         <series_episodes>12</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>5</my_watched_episodes>
+        <my_watched_episodes>6</my_watched_episodes>
         <my_start_date>2026-01-24</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -1564,6 +1564,28 @@
         <my_finish_date>2025-09-18</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>7472</series_animedb_id>
+        <series_title><![CDATA[Gintama Movie 1: Shinyaku Benizakura-hen]]></series_title>
+        <series_type>Movie</series_type>
+        <series_episodes>1</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>2026-02-21</my_start_date>
+        <my_finish_date>2026-02-21</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>7</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>

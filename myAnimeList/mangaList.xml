@@ -5,10 +5,10 @@
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
         <user_total_manga>202</user_total_manga>
-        <user_total_reading>137</user_total_reading>
+        <user_total_reading>136</user_total_reading>
         <user_total_completed>23</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
-        <user_total_dropped>4</user_total_dropped>
+        <user_total_dropped>5</user_total_dropped>
         <user_total_plantoread>35</user_total_plantoread>
     </myinfo>
 
@@ -400,7 +400,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>188478545</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>5</my_read_chapters>
+        <my_read_chapters>6</my_read_chapters>
         <my_start_date>2025-10-05</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1520,7 +1520,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>186029822</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>30</my_read_chapters>
+        <my_read_chapters>31</my_read_chapters>
         <my_start_date>2025-09-06</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1962,26 +1962,6 @@
         <my_read_volumes>20</my_read_volumes>
         <my_read_chapters>103</my_read_chapters>
         <my_start_date>2022-01-24</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
-        <my_score>0</my_score>
-        <my_storage></my_storage>
-        <my_status>Reading</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_read>0</my_times_read>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_reread_value>Low</my_reread_value>
-        <update_on_import>1</update_on_import>
-    </manga>
-    <manga>
-        <manga_mangadb_id>159054</manga_mangadb_id>
-        <manga_title><![CDATA[Ore ni Trauma wo Ataeta Joshi-tachi ga Chirachira Mitekuru kedo, Zannen desu ga Teokure desu]]></manga_title>
-        <manga_volumes>0</manga_volumes>
-        <manga_chapters>0</manga_chapters>
-        <my_id>189733823</my_id>
-        <my_read_volumes>6</my_read_volumes>
-        <my_read_chapters>29</my_read_chapters>
-        <my_start_date>2025-10-30</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -3322,6 +3302,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>55</my_read_chapters>
         <my_start_date>2025-11-20</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Dropped</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>159054</manga_mangadb_id>
+        <manga_title><![CDATA[Ore ni Trauma wo Ataeta Joshi-tachi ga Chirachira Mitekuru kedo, Zannen desu ga Teokure desu]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>189733823</my_id>
+        <my_read_volumes>6</my_read_volumes>
+        <my_read_chapters>29</my_read_chapters>
+        <my_start_date>2025-10-30</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>

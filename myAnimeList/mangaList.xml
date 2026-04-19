@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>204</user_total_manga>
-        <user_total_reading>137</user_total_reading>
+        <user_total_manga>209</user_total_manga>
+        <user_total_reading>142</user_total_reading>
         <user_total_completed>24</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>5</user_total_dropped>
@@ -500,7 +500,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>189165395</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>33</my_read_chapters>
+        <my_read_chapters>36</my_read_chapters>
         <my_start_date>2025-10-18</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -522,6 +522,26 @@
         <my_read_volumes>2</my_read_volumes>
         <my_read_chapters>6</my_read_chapters>
         <my_start_date>2024-12-05</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>156333</manga_mangadb_id>
+        <manga_title><![CDATA[Eiyuu to Kenja no Tenseikon: Katsute no Koutekishu to Konyaku shite Saikyou Fuufu ni Narimashita]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>199260039</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>36</my_read_chapters>
+        <my_start_date>2026-04-12</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -602,6 +622,26 @@
         <my_read_volumes>7</my_read_volumes>
         <my_read_chapters>64</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>189320</manga_mangadb_id>
+        <manga_title><![CDATA[Gal no Jitensha wo Naoshitara Natsukareta]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>199488442</my_id>
+        <my_read_volumes>1</my_read_volumes>
+        <my_read_chapters>5</my_read_chapters>
+        <my_start_date>2026-04-16</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1560,7 +1600,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>189591410</my_id>
         <my_read_volumes>5</my_read_volumes>
-        <my_read_chapters>50</my_read_chapters>
+        <my_read_chapters>51</my_read_chapters>
         <my_start_date>2025-10-27</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1682,6 +1722,26 @@
         <my_read_volumes>12</my_read_volumes>
         <my_read_chapters>109</my_read_chapters>
         <my_start_date>2024-02-25</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>134443</manga_mangadb_id>
+        <manga_title><![CDATA[Megane, Tokidoki, Yankee-kun]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>199391061</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>8</my_read_chapters>
+        <my_start_date>2026-04-14</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1994,6 +2054,26 @@
         <update_on_import>1</update_on_import>
     </manga>
     <manga>
+        <manga_mangadb_id>159875</manga_mangadb_id>
+        <manga_title><![CDATA[Ore Igai Daremo Saishu Dekinai Sozai nanoni "Sozai Saishuritsu ga Hikui" to Power Harassment suru Osananajimi Renkinjutsushi to Zetsuen shita Senzoku Madoushi, Henkyou no Machi de Slow Life wo Okuritai.]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>199336821</my_id>
+        <my_read_volumes>5</my_read_volumes>
+        <my_read_chapters>27</my_read_chapters>
+        <my_start_date>2026-04-13</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
         <manga_mangadb_id>134099</manga_mangadb_id>
         <manga_title><![CDATA[Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai]]></manga_title>
         <manga_volumes>0</manga_volumes>
@@ -2102,6 +2182,26 @@
         <my_read_volumes>2</my_read_volumes>
         <my_read_chapters>11</my_read_chapters>
         <my_start_date>2025-10-11</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>181226</manga_mangadb_id>
+        <manga_title><![CDATA[S-kyuu Boukensha ga Ayumu Michi: Tsuihou sareta Shounen wa Shin no Nouryoku "Weapon Master" de Sekai Saikyou ni Itaru]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>199335218</my_id>
+        <my_read_volumes>3</my_read_volumes>
+        <my_read_chapters>13</my_read_chapters>
+        <my_start_date>2026-04-13</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>

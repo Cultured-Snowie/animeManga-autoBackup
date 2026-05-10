@@ -4240,44 +4240,6 @@
               "score": 8
             },
             {
-              "mediaId": 139820,
-              "status": "COMPLETED",
-              "progress": 12,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 10,
-                "day": 2
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 49979,
-                "title": {
-                  "romaji": "Akuyaku Reijou nano de Last Boss wo Kattemimashita",
-                  "native": "悪役令嬢なのでラスボスを飼ってみました",
-                  "english": "I'm the Villainess, So I'm Taming the Final Boss"
-                }
-              },
-              "score": 7
-            },
-            {
               "mediaId": 100668,
               "status": "COMPLETED",
               "progress": 13,
@@ -8809,6 +8771,393 @@
           ]
         },
         {
+          "name": "Completed ONA",
+          "isCustomList": false,
+          "isSplitCompletedList": true,
+          "entries": [
+            {
+              "mediaId": 139820,
+              "status": "COMPLETED",
+              "progress": 12,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 10,
+                "day": 2
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 49979,
+                "title": {
+                  "romaji": "Akuyaku Reijou nano de Last Boss wo Kattemimashita",
+                  "native": "悪役令嬢なのでラスボスを飼ってみました",
+                  "english": "I'm the Villainess, So I'm Taming the Final Boss"
+                }
+              },
+              "score": 7
+            },
+            {
+              "mediaId": 120377,
+              "status": "COMPLETED",
+              "progress": 10,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 9,
+                "day": 29
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 42310,
+                "title": {
+                  "romaji": "Cyberpunk: Edgerunners",
+                  "native": "サイバーパンク エッジランナーズ",
+                  "english": "Cyberpunk: Edgerunners"
+                }
+              },
+              "score": 4
+            },
+            {
+              "mediaId": 125426,
+              "status": "COMPLETED",
+              "progress": 5,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 43692,
+                "title": {
+                  "romaji": "Gokushufudou",
+                  "native": "極主夫道",
+                  "english": "The Way of the Househusband"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 132193,
+              "status": "COMPLETED",
+              "progress": 5,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 48707,
+                "title": {
+                  "romaji": "Gokushufudou Part 2",
+                  "native": "極主夫道 パート2",
+                  "english": "The Way of the Househusband Part 2"
+                }
+              },
+              "score": 7
+            },
+            {
+              "mediaId": 154982,
+              "status": "COMPLETED",
+              "progress": 5,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2023,
+                "month": 8,
+                "day": 16
+              },
+              "completedAt": {
+                "year": 2023,
+                "month": 8,
+                "day": 17
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 53148,
+                "title": {
+                  "romaji": "Gokushufudou Season 2",
+                  "native": "極主夫道 シーズン2",
+                  "english": "The Way of the Househusband: Season 2"
+                }
+              },
+              "score": 8
+            },
+            {
+              "mediaId": 113417,
+              "status": "COMPLETED",
+              "progress": 8,
+              "repeat": 0,
+              "notes": " #Hentai",
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 40746,
+                "title": {
+                  "romaji": "Overflow",
+                  "native": "おーばーふろぉ",
+                  "english": "Overflow"
+                }
+              },
+              "score": 8
+            },
+            {
+              "mediaId": 126403,
+              "status": "COMPLETED",
+              "progress": 11,
+              "repeat": 0,
+              "notes": "Damn it! Why cliffhanger?! :'(",
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 2,
+                "day": 9
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 2,
+                "day": 11
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 44074,
+                "title": {
+                  "romaji": "Shiguang Dailiren",
+                  "native": "时光代理人",
+                  "english": "Link Click"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 136145,
+              "status": "COMPLETED",
+              "progress": 1,
+              "repeat": 0,
+              "notes": "It is so wholesome! I liked it! :')",
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 2,
+                "day": 11
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 2,
+                "day": 11
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 49200,
+                "title": {
+                  "romaji": "Shiguang Dailiren Special",
+                  "native": "时光代理人 番外篇",
+                  "english": "LINK CLICK Episode 5.5"
+                }
+              },
+              "score": 9
+            },
+            {
+              "mediaId": 20907,
+              "status": "COMPLETED",
+              "progress": 4,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 8
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 1,
+                "day": 8
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 27957,
+                "title": {
+                  "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+                  "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング",
+                  "english": null
+                }
+              },
+              "score": 8
+            },
+            {
+              "mediaId": 141014,
+              "status": "COMPLETED",
+              "progress": 12,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": 2022,
+                "month": 4,
+                "day": 9
+              },
+              "completedAt": {
+                "year": 2022,
+                "month": 6,
+                "day": 25
+              },
+              "updatedAt": 0,
+              "createdAt": 0,
+              "media": {
+                "idMal": 50273,
+                "title": {
+                  "romaji": "Tomodachi Game",
+                  "native": "トモダチゲーム",
+                  "english": "Tomodachi Game"
+                }
+              },
+              "score": 8
+            }
+          ]
+        },
+        {
           "name": "Watching",
           "isCustomList": false,
           "isSplitCompletedList": false,
@@ -9161,355 +9510,6 @@
                 }
               },
               "score": 0
-            }
-          ]
-        },
-        {
-          "name": "Completed ONA",
-          "isCustomList": false,
-          "isSplitCompletedList": true,
-          "entries": [
-            {
-              "mediaId": 120377,
-              "status": "COMPLETED",
-              "progress": 10,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 9,
-                "day": 29
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 42310,
-                "title": {
-                  "romaji": "Cyberpunk: Edgerunners",
-                  "native": "サイバーパンク エッジランナーズ",
-                  "english": "Cyberpunk: Edgerunners"
-                }
-              },
-              "score": 4
-            },
-            {
-              "mediaId": 125426,
-              "status": "COMPLETED",
-              "progress": 5,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 43692,
-                "title": {
-                  "romaji": "Gokushufudou",
-                  "native": "極主夫道",
-                  "english": "The Way of the Househusband"
-                }
-              },
-              "score": 9
-            },
-            {
-              "mediaId": 132193,
-              "status": "COMPLETED",
-              "progress": 5,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 48707,
-                "title": {
-                  "romaji": "Gokushufudou Part 2",
-                  "native": "極主夫道 パート2",
-                  "english": "The Way of the Househusband Part 2"
-                }
-              },
-              "score": 7
-            },
-            {
-              "mediaId": 154982,
-              "status": "COMPLETED",
-              "progress": 5,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2023,
-                "month": 8,
-                "day": 16
-              },
-              "completedAt": {
-                "year": 2023,
-                "month": 8,
-                "day": 17
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 53148,
-                "title": {
-                  "romaji": "Gokushufudou Season 2",
-                  "native": "極主夫道 シーズン2",
-                  "english": "The Way of the Househusband: Season 2"
-                }
-              },
-              "score": 8
-            },
-            {
-              "mediaId": 113417,
-              "status": "COMPLETED",
-              "progress": 8,
-              "repeat": 0,
-              "notes": " #Hentai",
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 40746,
-                "title": {
-                  "romaji": "Overflow",
-                  "native": "おーばーふろぉ",
-                  "english": "Overflow"
-                }
-              },
-              "score": 8
-            },
-            {
-              "mediaId": 126403,
-              "status": "COMPLETED",
-              "progress": 11,
-              "repeat": 0,
-              "notes": "Damn it! Why cliffhanger?! :'(",
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 2,
-                "day": 9
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 2,
-                "day": 11
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 44074,
-                "title": {
-                  "romaji": "Shiguang Dailiren",
-                  "native": "时光代理人",
-                  "english": "Link Click"
-                }
-              },
-              "score": 9
-            },
-            {
-              "mediaId": 136145,
-              "status": "COMPLETED",
-              "progress": 1,
-              "repeat": 0,
-              "notes": "It is so wholesome! I liked it! :')",
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 2,
-                "day": 11
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 2,
-                "day": 11
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 49200,
-                "title": {
-                  "romaji": "Shiguang Dailiren Special",
-                  "native": "时光代理人 番外篇",
-                  "english": "LINK CLICK Episode 5.5"
-                }
-              },
-              "score": 9
-            },
-            {
-              "mediaId": 20907,
-              "status": "COMPLETED",
-              "progress": 4,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 8
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 1,
-                "day": 8
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 27957,
-                "title": {
-                  "romaji": "Steins;Gate: Soumei Eichi no Cognitive Computing",
-                  "native": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング",
-                  "english": null
-                }
-              },
-              "score": 8
-            },
-            {
-              "mediaId": 141014,
-              "status": "COMPLETED",
-              "progress": 12,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": 2022,
-                "month": 4,
-                "day": 9
-              },
-              "completedAt": {
-                "year": 2022,
-                "month": 6,
-                "day": 25
-              },
-              "updatedAt": 0,
-              "createdAt": 0,
-              "media": {
-                "idMal": 50273,
-                "title": {
-                  "romaji": "Tomodachi Game",
-                  "native": "トモダチゲーム",
-                  "english": "Tomodachi Game"
-                }
-              },
-              "score": 8
             }
           ]
         },

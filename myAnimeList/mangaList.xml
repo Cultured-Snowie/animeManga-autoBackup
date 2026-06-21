@@ -4,8 +4,8 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>215</user_total_manga>
-        <user_total_reading>146</user_total_reading>
+        <user_total_manga>216</user_total_manga>
+        <user_total_reading>147</user_total_reading>
         <user_total_completed>25</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>6</user_total_dropped>
@@ -360,7 +360,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>153256132</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>34</my_read_chapters>
+        <my_read_chapters>35</my_read_chapters>
         <my_start_date>2023-10-20</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1022,6 +1022,26 @@
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>14</my_read_chapters>
         <my_start_date>2023-10-20</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Reading</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>184643</manga_mangadb_id>
+        <manga_title><![CDATA[Janome-san wa Hohoemitai!]]></manga_title>
+        <manga_volumes>0</manga_volumes>
+        <manga_chapters>0</manga_chapters>
+        <my_id>203261406</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>5</my_read_chapters>
+        <my_start_date>2026-06-20</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
         <my_score>0</my_score>
@@ -1956,7 +1976,7 @@
     <manga>
         <manga_mangadb_id>185608</manga_mangadb_id>
         <manga_title><![CDATA[Nibanme na Boku to Ichiban no Kanojo]]></manga_title>
-        <manga_volumes>0</manga_volumes>
+        <manga_volumes>2</manga_volumes>
         <manga_chapters>0</manga_chapters>
         <my_id>190920566</my_id>
         <my_read_volumes>0</my_read_volumes>
@@ -2096,8 +2116,8 @@
     <manga>
         <manga_mangadb_id>159875</manga_mangadb_id>
         <manga_title><![CDATA[Ore Igai Daremo Saishu Dekinai Sozai nanoni "Sozai Saishuritsu ga Hikui" to Power Harassment suru Osananajimi Renkinjutsushi to Zetsuen shita Senzoku Madoushi, Henkyou no Machi de Slow Life wo Okuritai.]]></manga_title>
-        <manga_volumes>0</manga_volumes>
-        <manga_chapters>0</manga_chapters>
+        <manga_volumes>5</manga_volumes>
+        <manga_chapters>29</manga_chapters>
         <my_id>199336821</my_id>
         <my_read_volumes>5</my_read_volumes>
         <my_read_chapters>28</my_read_chapters>
@@ -2260,7 +2280,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>199335218</my_id>
         <my_read_volumes>3</my_read_volumes>
-        <my_read_chapters>14</my_read_chapters>
+        <my_read_chapters>15</my_read_chapters>
         <my_start_date>2026-04-13</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>

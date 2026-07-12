@@ -4,11 +4,11 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>374</user_total_anime>
-        <user_total_watching>29</user_total_watching>
-        <user_total_completed>217</user_total_completed>
+        <user_total_anime>380</user_total_anime>
+        <user_total_watching>33</user_total_watching>
+        <user_total_completed>218</user_total_completed>
         <user_total_onhold>29</user_total_onhold>
-        <user_total_dropped>5</user_total_dropped>
+        <user_total_dropped>6</user_total_dropped>
         <user_total_plantowatch>94</user_total_plantowatch>
     </myinfo>
 
@@ -173,7 +173,7 @@
         <series_type>TV</series_type>
         <series_episodes>201</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>177</my_watched_episodes>
+        <my_watched_episodes>192</my_watched_episodes>
         <my_start_date>2025-11-30</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -278,6 +278,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>62811</series_animedb_id>
+        <series_title><![CDATA[Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>58514</series_animedb_id>
         <series_title><![CDATA[Kusuriya no Hitorigoto 2nd Season]]></series_title>
         <series_type>TV</series_type>
@@ -344,12 +366,12 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
-        <series_animedb_id>6633</series_animedb_id>
-        <series_title><![CDATA[Queen's Blade: Gyokuza wo Tsugu Mono]]></series_title>
+        <series_animedb_id>59193</series_animedb_id>
+        <series_title><![CDATA[Mushoku Tensei III: Isekai Ittara Honki Dasu]]></series_title>
         <series_type>TV</series_type>
-        <series_episodes>12</series_episodes>
+        <series_episodes>14</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>1</my_watched_episodes>
+        <my_watched_episodes>2</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -432,13 +454,13 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
-        <series_animedb_id>60371</series_animedb_id>
-        <series_title><![CDATA[Seihantai na Kimi to Boku]]></series_title>
+        <series_animedb_id>63832</series_animedb_id>
+        <series_title><![CDATA[Seihantai na Kimi to Boku 2nd Season]]></series_title>
         <series_type>TV</series_type>
-        <series_episodes>12</series_episodes>
+        <series_episodes>13</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>10</my_watched_episodes>
-        <my_start_date>2026-01-25</my_start_date>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -501,9 +523,31 @@
         <series_animedb_id>62076</series_animedb_id>
         <series_title><![CDATA[Super no Ura de Yani Suu Futari]]></series_title>
         <series_type>TV</series_type>
-        <series_episodes>0</series_episodes>
+        <series_episodes>12</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>5</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>56735</series_animedb_id>
+        <series_title><![CDATA[Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -527,6 +571,28 @@
         <my_id>0</my_id>
         <my_watched_episodes>5</my_watched_episodes>
         <my_start_date>2025-05-31</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>62936</series_animedb_id>
+        <series_title><![CDATA[Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -593,6 +659,28 @@
         <my_id>0</my_id>
         <my_watched_episodes>2</my_watched_episodes>
         <my_start_date>2025-04-10</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Watching</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>63403</series_animedb_id>
+        <series_title><![CDATA[Yani Neko]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -4084,6 +4172,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>60371</series_animedb_id>
+        <series_title><![CDATA[Seihantai na Kimi to Boku]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>12</my_watched_episodes>
+        <my_start_date>2026-01-25</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>44203</series_animedb_id>
         <series_title><![CDATA[Seirei Gensouki]]></series_title>
         <series_type>TV</series_type>
@@ -6152,6 +6262,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>6633</series_animedb_id>
+        <series_title><![CDATA[Queen's Blade: Gyokuza wo Tsugu Mono]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>1</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Dropped</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>56693</series_animedb_id>
         <series_title><![CDATA[Watari-kun no xx ga Houkai Sunzen]]></series_title>
         <series_type>TV</series_type>
@@ -7013,7 +7145,7 @@
         <series_animedb_id>61126</series_animedb_id>
         <series_title><![CDATA[Kimi ga Shinu made Koi wo Shitai]]></series_title>
         <series_type>TV</series_type>
-        <series_episodes>0</series_episodes>
+        <series_episodes>13</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
@@ -7475,7 +7607,7 @@
         <series_animedb_id>54000</series_animedb_id>
         <series_title><![CDATA[Otome Game Sekai wa Mob ni Kibishii Sekai desu 2]]></series_title>
         <series_type>TV</series_type>
-        <series_episodes>0</series_episodes>
+        <series_episodes>12</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>

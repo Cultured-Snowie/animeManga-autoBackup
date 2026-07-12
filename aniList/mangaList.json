@@ -1717,7 +1717,7 @@
                 "idMal": 129795,
                 "title": {
                   "romaji": "Musume ja Nakute Mama ga Suki nano!?",
-                  "native": "娘じゃなくて私が好きなの!? ",
+                  "native": "娘じゃなくて私が好きなの!?",
                   "english": "You Like Me, Not My Daughter?!"
                 }
               },
@@ -2262,8 +2262,8 @@
               "media": {
                 "idMal": 149308,
                 "title": {
-                  "romaji": "Tsuihou no Kenja, Sekai wo Shiru: Osananajimi Yuusha no Atsuryoku kara Nigete Jiyuu ni Natta Ore ",
-                  "native": "追放の賢者、世界を知る ～幼馴染勇者の圧力から逃げて自由になった俺～ ",
+                  "romaji": "Tsuihou no Kenja, Sekai wo Shiru: Osananajimi Yuusha no Atsuryoku kara Nigete Jiyuu ni Natta Ore",
+                  "native": "追放の賢者、世界を知る ～幼馴染勇者の圧力から逃げて自由になった俺～",
                   "english": "A Banished Sage’s Progress to Discovering the World: The Story of What Happened When I Freed Myself from My Childhood Friend"
                 }
               },
@@ -2888,7 +2888,7 @@
                 "title": {
                   "romaji": "Isshou Senkin",
                   "native": "一勝千金",
-                  "english": "ST✰R: Strike it Rich "
+                  "english": "ST✰R: Strike it Rich"
                 }
               },
               "score": 0
@@ -3091,7 +3091,7 @@
           ]
         },
         {
-          "name": "Completed One Shot",
+          "name": "Completed One-Shot",
           "isCustomList": false,
           "isSplitCompletedList": true,
           "entries": [

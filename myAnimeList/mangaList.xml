@@ -4,12 +4,12 @@
         <user_id></user_id>
         <user_name>Cultured_Snowie</user_name>
         <user_export_type>2</user_export_type>
-        <user_total_manga>216</user_total_manga>
+        <user_total_manga>217</user_total_manga>
         <user_total_reading>147</user_total_reading>
         <user_total_completed>25</user_total_completed>
         <user_total_onhold>3</user_total_onhold>
         <user_total_dropped>6</user_total_dropped>
-        <user_total_plantoread>35</user_total_plantoread>
+        <user_total_plantoread>36</user_total_plantoread>
     </myinfo>
 
 
@@ -560,7 +560,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>199260039</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>38</my_read_chapters>
+        <my_read_chapters>39</my_read_chapters>
         <my_start_date>2026-04-12</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1040,7 +1040,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>203261406</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>5</my_read_chapters>
+        <my_read_chapters>6</my_read_chapters>
         <my_start_date>2026-06-20</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1620,7 +1620,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>186029822</my_id>
         <my_read_volumes>0</my_read_volumes>
-        <my_read_chapters>31</my_read_chapters>
+        <my_read_chapters>36</my_read_chapters>
         <my_start_date>2025-09-06</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -1660,7 +1660,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>189591410</my_id>
         <my_read_volumes>5</my_read_volumes>
-        <my_read_chapters>53</my_read_chapters>
+        <my_read_chapters>54</my_read_chapters>
         <my_start_date>2025-10-27</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -2180,7 +2180,7 @@
         <manga_chapters>0</manga_chapters>
         <my_id>201316850</my_id>
         <my_read_volumes>1</my_read_volumes>
-        <my_read_chapters>31</my_read_chapters>
+        <my_read_chapters>32</my_read_chapters>
         <my_start_date>2026-05-16</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_scanalation_group><![CDATA[]]></my_scanalation_group>
@@ -4299,6 +4299,26 @@
         <manga_volumes>8</manga_volumes>
         <manga_chapters>37</manga_chapters>
         <my_id>142943248</my_id>
+        <my_read_volumes>0</my_read_volumes>
+        <my_read_chapters>0</my_read_chapters>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_scanalation_group><![CDATA[]]></my_scanalation_group>
+        <my_score>0</my_score>
+        <my_storage></my_storage>
+        <my_status>Plan to Read</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_read>0</my_times_read>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_reread_value>Low</my_reread_value>
+        <update_on_import>1</update_on_import>
+    </manga>
+    <manga>
+        <manga_mangadb_id>80091</manga_mangadb_id>
+        <manga_title><![CDATA[Yahari Ore no Seishun Love Comedy wa Machigatteiru. @comic]]></manga_title>
+        <manga_volumes>22</manga_volumes>
+        <manga_chapters>127</manga_chapters>
+        <my_id>204575943</my_id>
         <my_read_volumes>0</my_read_volumes>
         <my_read_chapters>0</my_read_chapters>
         <my_start_date>0000-00-00</my_start_date>

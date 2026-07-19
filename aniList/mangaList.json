@@ -2296,7 +2296,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1734842912,
+              "updatedAt": 1784173484,
               "createdAt": 1697793351,
               "media": {
                 "idMal": 160786,
@@ -2686,7 +2686,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1723166849,
+              "updatedAt": 1784178945,
               "createdAt": 1711821021,
               "media": {
                 "idMal": 152087,
@@ -3084,6 +3084,162 @@
                   "romaji": "Shonan Junai Gumi!",
                   "native": "湘南純愛組！",
                   "english": "GTO: The Early Years - Shonan Junai Gumi"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 151360,
+              "status": "CURRENT",
+              "progress": 37,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1784178338,
+              "createdAt": 1784174250,
+              "media": {
+                "idMal": 151183,
+                "title": {
+                  "romaji": "Douka Ore wo Houtte Oitekure: Naze ka Bocchi no Owatta Koukou Seikatsu wo Kanojo ga Kaeyou to Shitekuru",
+                  "native": "どうか俺を放っておいてくれ　なぜかぼっちの終わった高校生活を彼女が変えようとしてくる",
+                  "english": "Let Me Be Single in Peace!"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 159655,
+              "status": "CURRENT",
+              "progress": 54,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1784185136,
+              "createdAt": 1784178800,
+              "media": {
+                "idMal": 156835,
+                "title": {
+                  "romaji": "Kusunoki-san wa Koukou Debut ni Shippaishiteiru",
+                  "native": "楠木さんは高校デビューに失敗している",
+                  "english": "Kusunoki’s Flunking Her High School Glow-Up"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 191203,
+              "status": "CURRENT",
+              "progress": 32,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1784194053,
+              "createdAt": 1784178842,
+              "media": {
+                "idMal": 181162,
+                "title": {
+                  "romaji": "Osoraku Kanojo wa Ore no Aniki wo Neratteru",
+                  "native": "おそらくカノジョは俺の兄貴を狙ってる",
+                  "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 196944,
+              "status": "CURRENT",
+              "progress": 6,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1784198905,
+              "createdAt": 1784179053,
+              "media": {
+                "idMal": 184643,
+                "title": {
+                  "romaji": "Janome-san wa Hohoemitai!",
+                  "native": "蛇目さんはほほえみたい！",
+                  "english": null
                 }
               },
               "score": 0
@@ -4619,6 +4775,84 @@
                   "romaji": "Boku to Kimi no Taisetsu na Hanashi",
                   "native": "僕と君の大切な話",
                   "english": "Our Precious Conversations"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 201773,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1784178549,
+              "createdAt": 1784178549,
+              "media": {
+                "idMal": 188409,
+                "title": {
+                  "romaji": "Haimiya-senpai wa Kowakute Kawaii",
+                  "native": "灰宮先輩は怖くてかわいい",
+                  "english": "Haimiya Is Scary Cute"
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 161493,
+              "status": "PLANNING",
+              "progress": 0,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1784178888,
+              "createdAt": 1784178888,
+              "media": {
+                "idMal": 157778,
+                "title": {
+                  "romaji": "Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru",
+                  "native": "田んぼで拾った女騎士、田舎で俺の嫁だと思われている",
+                  "english": "All My Neighbors are Convinced the Female Knight from My Rice Field Is My Wife"
                 }
               },
               "score": 0

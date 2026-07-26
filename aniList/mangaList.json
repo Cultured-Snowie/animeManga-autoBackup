@@ -3128,6 +3128,45 @@
               "score": 0
             },
             {
+              "mediaId": 201773,
+              "status": "CURRENT",
+              "progress": 10,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1784517973,
+              "createdAt": 1784178549,
+              "media": {
+                "idMal": 188409,
+                "title": {
+                  "romaji": "Haimiya-senpai wa Kowakute Kawaii",
+                  "native": "灰宮先輩は怖くてかわいい",
+                  "english": "Haimiya Is Scary Cute"
+                }
+              },
+              "score": 0
+            },
+            {
               "mediaId": 159655,
               "status": "CURRENT",
               "progress": 54,
@@ -3193,7 +3232,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1784194053,
+              "updatedAt": 1784709532,
               "createdAt": 1784178842,
               "media": {
                 "idMal": 181162,
@@ -4775,45 +4814,6 @@
                   "romaji": "Boku to Kimi no Taisetsu na Hanashi",
                   "native": "僕と君の大切な話",
                   "english": "Our Precious Conversations"
-                }
-              },
-              "score": 0
-            },
-            {
-              "mediaId": 201773,
-              "status": "PLANNING",
-              "progress": 0,
-              "progressVolumes": 0,
-              "repeat": 0,
-              "notes": null,
-              "priority": 0,
-              "hiddenFromStatusLists": false,
-              "customLists": null,
-              "advancedScores": {
-                "Story": 0,
-                "Characters": 0,
-                "Visuals": 0,
-                "Audio": 0,
-                "Enjoyment": 0
-              },
-              "startedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "completedAt": {
-                "year": null,
-                "month": null,
-                "day": null
-              },
-              "updatedAt": 1784178549,
-              "createdAt": 1784178549,
-              "media": {
-                "idMal": 188409,
-                "title": {
-                  "romaji": "Haimiya-senpai wa Kowakute Kawaii",
-                  "native": "灰宮先輩は怖くてかわいい",
-                  "english": "Haimiya Is Scary Cute"
                 }
               },
               "score": 0

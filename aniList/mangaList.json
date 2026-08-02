@@ -2272,7 +2272,7 @@
             {
               "mediaId": 168468,
               "status": "CURRENT",
-              "progress": 17,
+              "progress": 36,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -2296,7 +2296,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1784173484,
+              "updatedAt": 1785388638,
               "createdAt": 1697793351,
               "media": {
                 "idMal": 160786,
@@ -3208,7 +3208,7 @@
             {
               "mediaId": 191203,
               "status": "CURRENT",
-              "progress": 32,
+              "progress": 33,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -3232,7 +3232,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1784709532,
+              "updatedAt": 1785299545,
               "createdAt": 1784178842,
               "media": {
                 "idMal": 181162,
@@ -3279,6 +3279,45 @@
                   "romaji": "Janome-san wa Hohoemitai!",
                   "native": "蛇目さんはほほえみたい！",
                   "english": null
+                }
+              },
+              "score": 0
+            },
+            {
+              "mediaId": 148082,
+              "status": "CURRENT",
+              "progress": 43,
+              "progressVolumes": 0,
+              "repeat": 0,
+              "notes": null,
+              "priority": 0,
+              "hiddenFromStatusLists": false,
+              "customLists": null,
+              "advancedScores": {
+                "Story": 0,
+                "Characters": 0,
+                "Visuals": 0,
+                "Audio": 0,
+                "Enjoyment": 0
+              },
+              "startedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "completedAt": {
+                "year": null,
+                "month": null,
+                "day": null
+              },
+              "updatedAt": 1785390620,
+              "createdAt": 1785390394,
+              "media": {
+                "idMal": 149804,
+                "title": {
+                  "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+                  "native": "クラスで２番目に可愛い女の子と友だちになった",
+                  "english": "I Made Friends with the Second Prettiest Girl in My Class"
                 }
               },
               "score": 0

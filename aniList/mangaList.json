@@ -3091,7 +3091,7 @@
             {
               "mediaId": 151360,
               "status": "CURRENT",
-              "progress": 37,
+              "progress": 38,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -3115,7 +3115,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1784178338,
+              "updatedAt": 1785774918,
               "createdAt": 1784174250,
               "media": {
                 "idMal": 151183,
@@ -3169,7 +3169,7 @@
             {
               "mediaId": 159655,
               "status": "CURRENT",
-              "progress": 54,
+              "progress": 55,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -3193,7 +3193,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1784185136,
+              "updatedAt": 1785941501,
               "createdAt": 1784178800,
               "media": {
                 "idMal": 156835,
@@ -3232,7 +3232,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1785299545,
+              "updatedAt": 1785775138,
               "createdAt": 1784178842,
               "media": {
                 "idMal": 181162,

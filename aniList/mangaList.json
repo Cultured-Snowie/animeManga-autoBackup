@@ -3115,7 +3115,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1785774918,
+              "updatedAt": 1786277849,
               "createdAt": 1784174250,
               "media": {
                 "idMal": 151183,
@@ -3169,7 +3169,7 @@
             {
               "mediaId": 159655,
               "status": "CURRENT",
-              "progress": 55,
+              "progress": 56,
               "progressVolumes": 0,
               "repeat": 0,
               "notes": null,
@@ -3193,7 +3193,7 @@
                 "month": null,
                 "day": null
               },
-              "updatedAt": 1785941501,
+              "updatedAt": 1786417297,
               "createdAt": 1784178800,
               "media": {
                 "idMal": 156835,
